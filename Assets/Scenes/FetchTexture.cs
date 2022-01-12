@@ -1,12 +1,15 @@
 using System.Collections;
 using UnityEngine;
 using UnityEngine.Networking;
- 
+
+using System.Linq;
+using UnityEditor;
+using System.Reflection;
+
 public class FetchTexture : MonoBehaviour
 {
-    [SerializeField] public string image_url = "https://assets.cdn.ifixit.com/static/images/avatars/User/ifixit/avatar-2.200x150";
+    [SerializeField] [OnChangedCall("onSerializedPropertyChange")] public string image_url = "https://assets.cdn.ifixit.com/static/images/avatars/User/ifixit/avatar-2.200x150";
 
-    private Renderer m_Renderer;
     private Texture texture = null;
 
     IEnumerator GetTexture()
@@ -22,26 +25,21 @@ public class FetchTexture : MonoBehaviour
         {
             texture = ((DownloadHandlerTexture)www.downloadHandler).texture;
 
-
             //Fetch the Renderer from the GameObject
-            m_Renderer = GetComponent<Renderer>();
+            Renderer m_Renderer = GetComponent<Renderer>();
 
             //Make sure to enable the Keywords
             m_Renderer.material.EnableKeyword("_NORMALMAP");
             m_Renderer.material.EnableKeyword("_METALLICGLOSSMAP");
 
-            //Set the Texture you assign in the Inspector as the main texture (Or Albedo)
             m_Renderer.material.SetTexture("_MainTex", texture);
-
-            //Set the Normal map using the Texture you assign in the Inspector
-            //m_Renderer.material.SetTexture("_BumpMap", m_Normal);
-            //Set the Metallic Texture as a Texture you assign in the Inspector
-            //m_Renderer.material.SetTexture("_MetallicGlossMap", m_Metal);
-
-            //GameObject sphere = GameObject.CreatePrimitive(PrimitiveType.Sphere);
-            //sphere.transform.position = new Vector3(0, 1.5f, 0);
-            //sphere.renderer.material.mainTexture = tex;
         }
+    }
+
+    public void onSerializedPropertyChange()
+    {
+        Debug.Log("Image changed to: " + image_url);
+        StartCoroutine(GetTexture());
     }
 
     void Start()
@@ -49,3 +47,35 @@ public class FetchTexture : MonoBehaviour
         StartCoroutine(GetTexture());
     }
 }
+
+
+
+//https://stackoverflow.com/questions/63778384/unity-how-to-update-an-object-when-a-serialized-field-is-changed
+public class OnChangedCallAttribute : PropertyAttribute
+{
+    public string methodName;
+    public OnChangedCallAttribute(string methodNameNoArguments)
+    {
+        methodName = methodNameNoArguments;
+    }
+}
+
+#if UNITY_EDITOR
+[CustomPropertyDrawer(typeof(OnChangedCallAttribute))]
+public class OnChangedCallAttributePropertyDrawer : PropertyDrawer
+{
+    public override void OnGUI(Rect position, SerializedProperty property, GUIContent label)
+    {
+        EditorGUI.BeginChangeCheck();
+        EditorGUI.PropertyField(position, property);
+        if (EditorGUI.EndChangeCheck())
+        {
+            OnChangedCallAttribute at = attribute as OnChangedCallAttribute;
+            MethodInfo method = property.serializedObject.targetObject.GetType().GetMethods().Where(m => m.Name == at.methodName).First();
+
+            if (method != null && method.GetParameters().Count() == 0)// Only instantiate methods with 0 parameters
+                method.Invoke(property.serializedObject.targetObject, null);
+        }
+    }
+}
+#endif
