@@ -15,18 +15,21 @@ public class test : MonoBehaviour
     [SerializeField] GameObject title;
     [SerializeField] GameObject description;
     [SerializeField] GameObject stepNumber;
+    
+    Test txt;
 
-    Test Write()
+    void Write()
     {
         var jsonString = Resources.Load(path) as TextAsset;
-        Test txt = Test.FromJson(jsonString.text);
+        txt = Test.FromJson(jsonString.text);
         Debug.Log(jsonString.text);
-        return txt;
+        
     }
 
     void Start()
     {
-        title.GetComponent<TextMeshProUGUI>().text = Write().Title.ToString();
+        Write();
+        title.GetComponent<TextMeshProUGUI>().text = txt.Title.ToString();
         updateContent();
 
     }
@@ -45,9 +48,9 @@ public class test : MonoBehaviour
     public void updateContent()
     {
         string descr = "";
-        for(int i = 0; i < Write().Steps[stepNo].Lines.Length; i++)
+        for(int i = 0; i <txt.Steps[stepNo].Lines.Length; i++)
         {
-            descr += $"{i+1}. {Write().Steps[stepNo].Lines[i].TextRaw} \n\n";
+            descr += $"{i+1}. {txt.Steps[stepNo].Lines[i].TextRaw} \n\n";
         }
         
         description.GetComponent<TextMeshProUGUI>().text = descr;
