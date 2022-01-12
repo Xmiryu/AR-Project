@@ -8,7 +8,7 @@ using TMPro;
 
 public class test : MonoBehaviour
 {
-    string path = "Assets/jsonformatter.txt";
+    string path = "jsonformatter";
     int stepNo = 0;
 
 
@@ -18,10 +18,9 @@ public class test : MonoBehaviour
 
     Test Write()
     {
-        StreamReader reader = new StreamReader(path);
-        var jsonString = reader.ReadToEnd();
-        Test txt = Test.FromJson(jsonString);
-        Debug.Log(jsonString);
+        var jsonString = Resources.Load(path) as TextAsset;
+        Test txt = Test.FromJson(jsonString.text);
+        Debug.Log(jsonString.text);
         return txt;
     }
 
