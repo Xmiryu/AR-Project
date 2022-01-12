@@ -36,6 +36,12 @@ public class FetchTexture : MonoBehaviour
         }
     }
 
+    public void changeImageURL(string newURL)
+    {
+        image_url = newURL;
+        StartCoroutine(GetTexture());
+    }
+
     public void onSerializedPropertyChange()
     {
         Debug.Log("Image changed to: " + image_url);
