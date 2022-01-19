@@ -15,7 +15,11 @@ public class test : MonoBehaviour
     [SerializeField] GameObject title;
     [SerializeField] GameObject description;
     [SerializeField] GameObject stepNumber;
-    
+
+    [SerializeField] GameObject square1;
+    [SerializeField] GameObject square2;
+    [SerializeField] GameObject square3;
+
     Test txt;
 
     void Write()
@@ -31,7 +35,6 @@ public class test : MonoBehaviour
         Write();
         title.GetComponent<TextMeshProUGUI>().text = txt.Title.ToString();
         updateContent();
-
     }
 
     public void nextButton() 
@@ -51,11 +54,21 @@ public class test : MonoBehaviour
         for(int i = 0; i <txt.Steps[stepNo].Lines.Length; i++)
         {
             descr += $"{i+1}. {txt.Steps[stepNo].Lines[i].TextRaw} \n\n";
+            description.GetComponent<TextMeshProUGUI>().text = descr;
+
         }
         
         description.GetComponent<TextMeshProUGUI>().text = descr;
 
         stepNumber.GetComponent<TextMeshProUGUI>().text = "Step Number: " + (stepNo+1).ToString();
+
+        var x = txt.Steps[stepNo].Media.Data;
+        if (x.Length > 0)
+            square1.GetComponent<FetchTexture>().changeImageURL(x[0].Original.AbsoluteUri);
+        if (x.Length > 1)
+            square1.GetComponent<FetchTexture>().changeImageURL(x[1].Original.AbsoluteUri);
+        if (x.Length > 2)
+            square1.GetComponent<FetchTexture>().changeImageURL(x[2].Original.AbsoluteUri);
     }
 
     // Update is called once per frame

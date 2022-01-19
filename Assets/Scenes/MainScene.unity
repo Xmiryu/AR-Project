@@ -135,6 +135,7 @@ GameObject:
   - component: {fileID: 87530214}
   - component: {fileID: 87530213}
   - component: {fileID: 87530212}
+  - component: {fileID: 87530215}
   m_Layer: 0
   m_Name: Plane (1)
   m_TagString: Untagged
@@ -219,6 +220,19 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 87530210}
   m_Mesh: {fileID: 10209, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!114 &87530215
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 87530210}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7becf2e5bf22265499588463bfb91ed8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  image_url: https://assets.cdn.ifixit.com/static/images/avatars/User/ifixit/avatar-2.200x150
 --- !u!1 &209802962
 GameObject:
   m_ObjectHideFlags: 0
@@ -251,6 +265,9 @@ MonoBehaviour:
   title: {fileID: 969675809}
   description: {fileID: 250896230}
   stepNumber: {fileID: 2085963318}
+  square1: {fileID: 1939519111}
+  square2: {fileID: 87530210}
+  square3: {fileID: 2099149719}
 --- !u!4 &209802964
 Transform:
   m_ObjectHideFlags: 0
@@ -1282,6 +1299,7 @@ GameObject:
   - component: {fileID: 1939519115}
   - component: {fileID: 1939519114}
   - component: {fileID: 1939519113}
+  - component: {fileID: 1939519116}
   m_Layer: 0
   m_Name: Plane
   m_TagString: Untagged
@@ -1366,6 +1384,19 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1939519111}
   m_Mesh: {fileID: 10209, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!114 &1939519116
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1939519111}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7becf2e5bf22265499588463bfb91ed8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  image_url: https://assets.cdn.ifixit.com/static/images/avatars/User/ifixit/avatar-2.200x150
 --- !u!1001 &1957191626
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1665,6 +1696,7 @@ GameObject:
   - component: {fileID: 2099149723}
   - component: {fileID: 2099149722}
   - component: {fileID: 2099149721}
+  - component: {fileID: 2099149724}
   m_Layer: 0
   m_Name: Plane (2)
   m_TagString: Untagged
@@ -1749,3 +1781,16 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2099149719}
   m_Mesh: {fileID: 10209, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!114 &2099149724
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2099149719}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7becf2e5bf22265499588463bfb91ed8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  image_url: https://assets.cdn.ifixit.com/static/images/avatars/User/ifixit/avatar-2.200x150
