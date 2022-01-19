@@ -8,27 +8,59 @@ using TMPro;
 
 public class test : MonoBehaviour
 {
-    string path = "Assets/jsonformatter.txt";
-    [SerializeField] GameObject textPanel;
+    string path = "jsonformatter";
+    int stepNo = 0;
 
-    Test Write()
+
+    [SerializeField] GameObject title;
+    [SerializeField] GameObject description;
+    [SerializeField] GameObject stepNumber;
+    
+    Test txt;
+
+    void Write()
     {
-        StreamReader reader = new StreamReader(path);
-        var jsonString = reader.ReadToEnd();
-        Test txt = Test.FromJson(jsonString);
-        Debug.Log(jsonString);
-        return txt;
+        var jsonString = Resources.Load(path) as TextAsset;
+        txt = Test.FromJson(jsonString.text);
+        Debug.Log(jsonString.text);
+        
     }
 
-    // Start is called before the first frame update
     void Start()
     {
-        textPanel.GetComponent<TextMeshProUGUI>().text = Write().Author.Username;
+        Write();
+        title.GetComponent<TextMeshProUGUI>().text = txt.Title.ToString();
+        updateContent();
+
+    }
+
+    public void nextButton() 
+    {
+        stepNo += 1;
+        updateContent();
+    }
+    public void backButton() 
+    {
+        stepNo -= 1;
+        updateContent();
+    }
+
+    public void updateContent()
+    {
+        string descr = "";
+        for(int i = 0; i <txt.Steps[stepNo].Lines.Length; i++)
+        {
+            descr += $"{i+1}. {txt.Steps[stepNo].Lines[i].TextRaw} \n\n";
+        }
+        
+        description.GetComponent<TextMeshProUGUI>().text = descr;
+
+        stepNumber.GetComponent<TextMeshProUGUI>().text = "Step Number: " + (stepNo+1).ToString();
     }
 
     // Update is called once per frame
     void Update()
     {
-        
+
     }
 }
