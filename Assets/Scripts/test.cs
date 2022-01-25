@@ -62,13 +62,36 @@ public class test : MonoBehaviour
 
         stepNumber.GetComponent<TextMeshProUGUI>().text = "Step Number: " + (stepNo+1).ToString();
 
-        var x = txt.Steps[stepNo].Media.Data;
-        if (x.Length > 0)
-            square1.GetComponent<FetchTexture>().changeImageURL(x[0].Original.AbsoluteUri);
-        if (x.Length > 1)
-            square1.GetComponent<FetchTexture>().changeImageURL(x[1].Original.AbsoluteUri);
-        if (x.Length > 2)
-            square1.GetComponent<FetchTexture>().changeImageURL(x[2].Original.AbsoluteUri);
+        var blankImage = "https://assets.cdn.ifixit.com/static/images/avatars/User/ifixit/avatar-2.200x150";
+        var imgLinksArr = txt.Steps[stepNo].Media.Data;
+        var len = imgLinksArr.Length;
+        Debug.Log("Images: " + len);
+
+        if (len == 0)
+        {
+            square1.GetComponent<FetchTexture>().changeImageURL(blankImage);
+            square2.GetComponent<FetchTexture>().changeImageURL(blankImage);
+            square3.GetComponent<FetchTexture>().changeImageURL(blankImage);
+        }
+        if (len == 1)
+        {
+            square1.GetComponent<FetchTexture>().changeImageURL(imgLinksArr[0].Original.AbsoluteUri);
+            square2.GetComponent<FetchTexture>().changeImageURL(blankImage);
+            square3.GetComponent<FetchTexture>().changeImageURL(blankImage);
+
+        }
+        if (len == 2)
+        {
+            square1.GetComponent<FetchTexture>().changeImageURL(imgLinksArr[0].Original.AbsoluteUri);
+            square2.GetComponent<FetchTexture>().changeImageURL(imgLinksArr[1].Original.AbsoluteUri);
+            square3.GetComponent<FetchTexture>().changeImageURL(blankImage);
+        }
+        if (len > 2)
+        {
+            square1.GetComponent<FetchTexture>().changeImageURL(imgLinksArr[0].Original.AbsoluteUri);
+            square2.GetComponent<FetchTexture>().changeImageURL(imgLinksArr[1].Original.AbsoluteUri);
+            square3.GetComponent<FetchTexture>().changeImageURL(imgLinksArr[2].Original.AbsoluteUri);
+        }
     }
 
     // Update is called once per frame
