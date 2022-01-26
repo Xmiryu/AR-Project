@@ -1,0 +1,452 @@
+{
+   "conclusion_raw":"To reassemble your device, follow these instructions in reverse order.",
+   "conclusion_rendered":"<p>To reassemble your device, follow these instructions in reverse order.<\/p>",
+   "difficulty":"Easy",
+   "documents":[
+      
+   ],
+   "flags":[
+      
+   ],
+   "guideid":31009,
+   "image":{
+      "id":411541,
+      "guid":"5qhKihhyNLlLmuJa",
+      "mini":"https:\/\/guide-images.cdn.ifixit.com\/igi\/5qhKihhyNLlLmuJa.mini",
+      "thumbnail":"https:\/\/guide-images.cdn.ifixit.com\/igi\/5qhKihhyNLlLmuJa.thumbnail",
+      "140x105":"https:\/\/guide-images.cdn.ifixit.com\/igi\/5qhKihhyNLlLmuJa.140x105",
+      "200x150":"https:\/\/guide-images.cdn.ifixit.com\/igi\/5qhKihhyNLlLmuJa.200x150",
+      "standard":"https:\/\/guide-images.cdn.ifixit.com\/igi\/5qhKihhyNLlLmuJa.standard",
+      "440x330":"https:\/\/guide-images.cdn.ifixit.com\/igi\/5qhKihhyNLlLmuJa.440x330",
+      "medium":"https:\/\/guide-images.cdn.ifixit.com\/igi\/5qhKihhyNLlLmuJa.medium",
+      "large":"https:\/\/guide-images.cdn.ifixit.com\/igi\/5qhKihhyNLlLmuJa.large",
+      "huge":"https:\/\/guide-images.cdn.ifixit.com\/igi\/5qhKihhyNLlLmuJa.huge",
+      "original":"https:\/\/guide-images.cdn.ifixit.com\/igi\/5qhKihhyNLlLmuJa.full"
+   },
+   "introduction_raw":"Follow the steps in order to replace your battery.\n\nIf your battery is swollen, [[What to do with a swollen battery|take appropriate precautions|new_window=true]].",
+   "introduction_rendered":"<p>Follow the steps in order to replace your battery.<\/p>\n\n<p>If your battery is swollen, <a href=\"https:\/\/www.ifixit.com\/Wiki\/What_to_do_with_a_swollen_battery\" target=\"_blank\">take appropriate precautions<\/a>.<\/p>",
+   "featured_document_embed_url":"",
+   "featured_document_thumbnail_url":"",
+   "locale":"en",
+   "parts":[
+      {
+         "text":"Galaxy Note 3 Replacement Battery",
+         "notes":null,
+         "type":"",
+         "quantity":1,
+         "url":"\/Item\/Samsung_Galaxy_Note_3_Battery",
+         "thumbnail":null
+      }
+   ],
+   "prerequisites":[
+      {
+         "dataType":"guide",
+         "guideid":30486,
+         "locale":"en",
+         "revisionid":1127526,
+         "modified_date":1604872214,
+         "prereq_modified_date":0,
+         "url":"https:\/\/www.ifixit.com\/Guide\/Samsung+Galaxy+Note+3+Rear+Case+Replacement\/30486",
+         "type":"replacement",
+         "category":"Samsung Galaxy Note 3",
+         "subject":"Rear Case",
+         "title":"Samsung Galaxy Note 3 Rear Case Replacement",
+         "summary":"Your rear case is damaged and not so pretty, this is how you can make it brand new again.",
+         "difficulty":"Easy",
+         "time_required_max":25,
+         "public":true,
+         "userid":974285,
+         "username":"Brittany Gail",
+         "flags":[
+            
+         ],
+         "image":{
+            "id":407502,
+            "guid":"2X5Sv5NwiHI6Sm1W",
+            "mini":"https:\/\/guide-images.cdn.ifixit.com\/igi\/2X5Sv5NwiHI6Sm1W.mini",
+            "thumbnail":"https:\/\/guide-images.cdn.ifixit.com\/igi\/2X5Sv5NwiHI6Sm1W.thumbnail",
+            "140x105":"https:\/\/guide-images.cdn.ifixit.com\/igi\/2X5Sv5NwiHI6Sm1W.140x105",
+            "200x150":"https:\/\/guide-images.cdn.ifixit.com\/igi\/2X5Sv5NwiHI6Sm1W.200x150",
+            "standard":"https:\/\/guide-images.cdn.ifixit.com\/igi\/2X5Sv5NwiHI6Sm1W.standard",
+            "440x330":"https:\/\/guide-images.cdn.ifixit.com\/igi\/2X5Sv5NwiHI6Sm1W.440x330",
+            "medium":"https:\/\/guide-images.cdn.ifixit.com\/igi\/2X5Sv5NwiHI6Sm1W.medium",
+            "large":"https:\/\/guide-images.cdn.ifixit.com\/igi\/2X5Sv5NwiHI6Sm1W.large",
+            "huge":"https:\/\/guide-images.cdn.ifixit.com\/igi\/2X5Sv5NwiHI6Sm1W.huge",
+            "original":"https:\/\/guide-images.cdn.ifixit.com\/igi\/2X5Sv5NwiHI6Sm1W.full"
+         }
+      }
+   ],
+   "steps":[
+      {
+         "title":"Remove the rear case",
+         "lines":[
+            {
+               "text_raw":"Insert a fingernail or plastic opening tool in the gap between the rear case and the base of the phone.",
+               "bullet":"black",
+               "level":0,
+               "lineid":null,
+               "text_rendered":"Insert a fingernail or plastic opening tool in the gap between the rear case and the base of the phone."
+            }
+         ],
+         "guideid":30486,
+         "stepid":71430,
+         "orderby":1,
+         "revisionid":1771527,
+         "media":{
+            "type":"image",
+            "data":[
+               {
+                  "id":407502,
+                  "guid":"2X5Sv5NwiHI6Sm1W",
+                  "mini":"https:\/\/guide-images.cdn.ifixit.com\/igi\/2X5Sv5NwiHI6Sm1W.mini",
+                  "thumbnail":"https:\/\/guide-images.cdn.ifixit.com\/igi\/2X5Sv5NwiHI6Sm1W.thumbnail",
+                  "140x105":"https:\/\/guide-images.cdn.ifixit.com\/igi\/2X5Sv5NwiHI6Sm1W.140x105",
+                  "200x150":"https:\/\/guide-images.cdn.ifixit.com\/igi\/2X5Sv5NwiHI6Sm1W.200x150",
+                  "standard":"https:\/\/guide-images.cdn.ifixit.com\/igi\/2X5Sv5NwiHI6Sm1W.standard",
+                  "440x330":"https:\/\/guide-images.cdn.ifixit.com\/igi\/2X5Sv5NwiHI6Sm1W.440x330",
+                  "medium":"https:\/\/guide-images.cdn.ifixit.com\/igi\/2X5Sv5NwiHI6Sm1W.medium",
+                  "large":"https:\/\/guide-images.cdn.ifixit.com\/igi\/2X5Sv5NwiHI6Sm1W.large",
+                  "huge":"https:\/\/guide-images.cdn.ifixit.com\/igi\/2X5Sv5NwiHI6Sm1W.huge",
+                  "original":"https:\/\/guide-images.cdn.ifixit.com\/igi\/2X5Sv5NwiHI6Sm1W.full"
+               }
+            ]
+         },
+         "comments":[
+            
+         ]
+      },
+      {
+         "title":"Remove Case from the Base",
+         "lines":[
+            {
+               "text_raw":"Slide your fingernail or plastic opening tool along the edge of the rear case.",
+               "bullet":"black",
+               "level":0,
+               "lineid":null,
+               "text_rendered":"Slide your fingernail or plastic opening tool along the edge of the rear case."
+            },
+            {
+               "text_raw":"Lift the case gently from the base.",
+               "bullet":"black",
+               "level":0,
+               "lineid":null,
+               "text_rendered":"Lift the case gently from the base."
+            }
+         ],
+         "guideid":30486,
+         "stepid":72641,
+         "orderby":2,
+         "revisionid":1771526,
+         "media":{
+            "type":"image",
+            "data":[
+               {
+                  "id":412202,
+                  "guid":"fmuZpZC5KXkPOGJX",
+                  "mini":"https:\/\/guide-images.cdn.ifixit.com\/igi\/fmuZpZC5KXkPOGJX.mini",
+                  "thumbnail":"https:\/\/guide-images.cdn.ifixit.com\/igi\/fmuZpZC5KXkPOGJX.thumbnail",
+                  "140x105":"https:\/\/guide-images.cdn.ifixit.com\/igi\/fmuZpZC5KXkPOGJX.140x105",
+                  "200x150":"https:\/\/guide-images.cdn.ifixit.com\/igi\/fmuZpZC5KXkPOGJX.200x150",
+                  "standard":"https:\/\/guide-images.cdn.ifixit.com\/igi\/fmuZpZC5KXkPOGJX.standard",
+                  "440x330":"https:\/\/guide-images.cdn.ifixit.com\/igi\/fmuZpZC5KXkPOGJX.440x330",
+                  "medium":"https:\/\/guide-images.cdn.ifixit.com\/igi\/fmuZpZC5KXkPOGJX.medium",
+                  "large":"https:\/\/guide-images.cdn.ifixit.com\/igi\/fmuZpZC5KXkPOGJX.large",
+                  "huge":"https:\/\/guide-images.cdn.ifixit.com\/igi\/fmuZpZC5KXkPOGJX.huge",
+                  "original":"https:\/\/guide-images.cdn.ifixit.com\/igi\/fmuZpZC5KXkPOGJX.full"
+               },
+               {
+                  "id":412206,
+                  "guid":"LNoSjeEVytKaKMOE",
+                  "mini":"https:\/\/guide-images.cdn.ifixit.com\/igi\/LNoSjeEVytKaKMOE.mini",
+                  "thumbnail":"https:\/\/guide-images.cdn.ifixit.com\/igi\/LNoSjeEVytKaKMOE.thumbnail",
+                  "140x105":"https:\/\/guide-images.cdn.ifixit.com\/igi\/LNoSjeEVytKaKMOE.140x105",
+                  "200x150":"https:\/\/guide-images.cdn.ifixit.com\/igi\/LNoSjeEVytKaKMOE.200x150",
+                  "standard":"https:\/\/guide-images.cdn.ifixit.com\/igi\/LNoSjeEVytKaKMOE.standard",
+                  "440x330":"https:\/\/guide-images.cdn.ifixit.com\/igi\/LNoSjeEVytKaKMOE.440x330",
+                  "medium":"https:\/\/guide-images.cdn.ifixit.com\/igi\/LNoSjeEVytKaKMOE.medium",
+                  "large":"https:\/\/guide-images.cdn.ifixit.com\/igi\/LNoSjeEVytKaKMOE.large",
+                  "huge":"https:\/\/guide-images.cdn.ifixit.com\/igi\/LNoSjeEVytKaKMOE.huge",
+                  "original":"https:\/\/guide-images.cdn.ifixit.com\/igi\/LNoSjeEVytKaKMOE.full"
+               }
+            ]
+         },
+         "comments":[
+            {
+               "commentid":189526,
+               "locale":"en",
+               "context":"step",
+               "contextid":72641,
+               "parentid":null,
+               "author":{
+                  "userid":1426667,
+                  "username":"Adam Ahmed",
+                  "unique_username":null,
+                  "join_date":1449257468,
+                  "image":{
+                     "id":720782,
+                     "guid":"v4McDFQpaKJXPPhs",
+                     "mini":"https:\/\/guide-images.cdn.ifixit.com\/igi\/v4McDFQpaKJXPPhs.mini",
+                     "thumbnail":"https:\/\/guide-images.cdn.ifixit.com\/igi\/v4McDFQpaKJXPPhs.thumbnail",
+                     "140x105":"https:\/\/guide-images.cdn.ifixit.com\/igi\/v4McDFQpaKJXPPhs.140x105",
+                     "200x150":"https:\/\/guide-images.cdn.ifixit.com\/igi\/v4McDFQpaKJXPPhs.200x150",
+                     "standard":"https:\/\/guide-images.cdn.ifixit.com\/igi\/v4McDFQpaKJXPPhs.standard",
+                     "440x330":"https:\/\/guide-images.cdn.ifixit.com\/igi\/v4McDFQpaKJXPPhs.440x330",
+                     "medium":"https:\/\/guide-images.cdn.ifixit.com\/igi\/v4McDFQpaKJXPPhs.medium",
+                     "original":"https:\/\/guide-images.cdn.ifixit.com\/igi\/v4McDFQpaKJXPPhs.full"
+                  },
+                  "reputation":1,
+                  "url":"https:\/\/www.ifixit.com\/User\/1426667\/Adam+Ahmed",
+                  "teams":[
+                     
+                  ]
+               },
+               "title":"Samsung Galaxy Note 3 Rear Case Replacement",
+               "text_raw":"Why... is it not simple enough already lol",
+               "text_rendered":"<p>Why... is it not simple enough already lol<\/p>",
+               "rating":0,
+               "date":1449257561,
+               "modified_date":1449257561,
+               "status":"public",
+               "replies":[
+                  
+               ]
+            }
+         ]
+      },
+      {
+         "title":"",
+         "lines":[
+            {
+               "text_raw":"Insert a fingernail or plastic opening tool into the small gap between the battery and the phone base.",
+               "bullet":"black",
+               "level":0,
+               "lineid":null,
+               "text_rendered":"Insert a fingernail or plastic opening tool into the small gap between the battery and the phone base."
+            },
+            {
+               "text_raw":"Lift the battery out of its recess.",
+               "bullet":"black",
+               "level":0,
+               "lineid":null,
+               "text_rendered":"Lift the battery out of its recess."
+            }
+         ],
+         "guideid":31009,
+         "stepid":72541,
+         "orderby":1,
+         "revisionid":1770904,
+         "media":{
+            "type":"image",
+            "data":[
+               {
+                  "id":411541,
+                  "guid":"5qhKihhyNLlLmuJa",
+                  "mini":"https:\/\/guide-images.cdn.ifixit.com\/igi\/5qhKihhyNLlLmuJa.mini",
+                  "thumbnail":"https:\/\/guide-images.cdn.ifixit.com\/igi\/5qhKihhyNLlLmuJa.thumbnail",
+                  "140x105":"https:\/\/guide-images.cdn.ifixit.com\/igi\/5qhKihhyNLlLmuJa.140x105",
+                  "200x150":"https:\/\/guide-images.cdn.ifixit.com\/igi\/5qhKihhyNLlLmuJa.200x150",
+                  "standard":"https:\/\/guide-images.cdn.ifixit.com\/igi\/5qhKihhyNLlLmuJa.standard",
+                  "440x330":"https:\/\/guide-images.cdn.ifixit.com\/igi\/5qhKihhyNLlLmuJa.440x330",
+                  "medium":"https:\/\/guide-images.cdn.ifixit.com\/igi\/5qhKihhyNLlLmuJa.medium",
+                  "large":"https:\/\/guide-images.cdn.ifixit.com\/igi\/5qhKihhyNLlLmuJa.large",
+                  "huge":"https:\/\/guide-images.cdn.ifixit.com\/igi\/5qhKihhyNLlLmuJa.huge",
+                  "original":"https:\/\/guide-images.cdn.ifixit.com\/igi\/5qhKihhyNLlLmuJa.full"
+               },
+               {
+                  "id":411542,
+                  "guid":"yIJGSFvvLAMfY3m2",
+                  "mini":"https:\/\/guide-images.cdn.ifixit.com\/igi\/yIJGSFvvLAMfY3m2.mini",
+                  "thumbnail":"https:\/\/guide-images.cdn.ifixit.com\/igi\/yIJGSFvvLAMfY3m2.thumbnail",
+                  "140x105":"https:\/\/guide-images.cdn.ifixit.com\/igi\/yIJGSFvvLAMfY3m2.140x105",
+                  "200x150":"https:\/\/guide-images.cdn.ifixit.com\/igi\/yIJGSFvvLAMfY3m2.200x150",
+                  "standard":"https:\/\/guide-images.cdn.ifixit.com\/igi\/yIJGSFvvLAMfY3m2.standard",
+                  "440x330":"https:\/\/guide-images.cdn.ifixit.com\/igi\/yIJGSFvvLAMfY3m2.440x330",
+                  "medium":"https:\/\/guide-images.cdn.ifixit.com\/igi\/yIJGSFvvLAMfY3m2.medium",
+                  "large":"https:\/\/guide-images.cdn.ifixit.com\/igi\/yIJGSFvvLAMfY3m2.large",
+                  "huge":"https:\/\/guide-images.cdn.ifixit.com\/igi\/yIJGSFvvLAMfY3m2.huge",
+                  "original":"https:\/\/guide-images.cdn.ifixit.com\/igi\/yIJGSFvvLAMfY3m2.full"
+               }
+            ]
+         },
+         "comments":[
+            
+         ]
+      }
+   ],
+   "subject":"Battery",
+   "summary":"Your battery is not functioning and needs to be replaced with a new one.",
+   "time_required":"1 - 2 minutes",
+   "time_required_min":60,
+   "time_required_max":120,
+   "title":"Samsung Galaxy Note 3 Battery Replacement",
+   "tools":[
+      
+   ],
+   "type":"replacement",
+   "revisionid":1364268,
+   "created_date":1414505095,
+   "published_date":1420933358,
+   "modified_date":1550173583,
+   "prereq_modified_date":1604872214,
+   "public":true,
+   "comments":[
+      {
+         "commentid":306783,
+         "locale":"pt",
+         "context":"guide",
+         "contextid":31009,
+         "parentid":null,
+         "author":{
+            "userid":1923657,
+            "username":"Peter",
+            "unique_username":"buddha27",
+            "join_date":1488843355,
+            "image":{
+               "id":-32,
+               "guid":"default_avatar_placeholder_guid",
+               "original":"https:\/\/assets.cdn.ifixit.com\/static\/images\/avatars\/User\/ifixit\/avatar-8",
+               "mini":"https:\/\/assets.cdn.ifixit.com\/static\/images\/avatars\/User\/ifixit\/avatar-8.mini",
+               "thumbnail":"https:\/\/assets.cdn.ifixit.com\/static\/images\/avatars\/User\/ifixit\/avatar-8.thumbnail",
+               "140x105":"https:\/\/assets.cdn.ifixit.com\/static\/images\/avatars\/User\/ifixit\/avatar-8.140x105",
+               "200x150":"https:\/\/assets.cdn.ifixit.com\/static\/images\/avatars\/User\/ifixit\/avatar-8.200x150",
+               "standard":"https:\/\/assets.cdn.ifixit.com\/static\/images\/avatars\/User\/ifixit\/avatar-8.standard",
+               "440x330":"https:\/\/assets.cdn.ifixit.com\/static\/images\/avatars\/User\/ifixit\/avatar-8.440x330",
+               "medium":"https:\/\/assets.cdn.ifixit.com\/static\/images\/avatars\/User\/ifixit\/avatar-8.medium",
+               "large":"https:\/\/assets.cdn.ifixit.com\/static\/images\/avatars\/User\/ifixit\/avatar-8.large"
+            },
+            "reputation":1,
+            "url":"https:\/\/www.ifixit.com\/User\/1923657\/Peter",
+            "teams":[
+               
+            ]
+         },
+         "title":"Samsung Galaxy Note 3 Battery Replacement",
+         "text_raw":"Simples... ",
+         "text_rendered":"<p>Simples...<\/p>",
+         "rating":0,
+         "date":1488843356,
+         "modified_date":1488843356,
+         "status":"public",
+         "replies":[
+            
+         ]
+      },
+      {
+         "commentid":309761,
+         "locale":"en",
+         "context":"guide",
+         "contextid":31009,
+         "parentid":null,
+         "author":{
+            "userid":1934426,
+            "username":"kenharper",
+            "unique_username":null,
+            "join_date":1489629351,
+            "image":{
+               "id":-32,
+               "guid":"default_avatar_placeholder_guid",
+               "original":"https:\/\/assets.cdn.ifixit.com\/static\/images\/avatars\/User\/ifixit\/avatar-6",
+               "mini":"https:\/\/assets.cdn.ifixit.com\/static\/images\/avatars\/User\/ifixit\/avatar-6.mini",
+               "thumbnail":"https:\/\/assets.cdn.ifixit.com\/static\/images\/avatars\/User\/ifixit\/avatar-6.thumbnail",
+               "140x105":"https:\/\/assets.cdn.ifixit.com\/static\/images\/avatars\/User\/ifixit\/avatar-6.140x105",
+               "200x150":"https:\/\/assets.cdn.ifixit.com\/static\/images\/avatars\/User\/ifixit\/avatar-6.200x150",
+               "standard":"https:\/\/assets.cdn.ifixit.com\/static\/images\/avatars\/User\/ifixit\/avatar-6.standard",
+               "440x330":"https:\/\/assets.cdn.ifixit.com\/static\/images\/avatars\/User\/ifixit\/avatar-6.440x330",
+               "medium":"https:\/\/assets.cdn.ifixit.com\/static\/images\/avatars\/User\/ifixit\/avatar-6.medium",
+               "large":"https:\/\/assets.cdn.ifixit.com\/static\/images\/avatars\/User\/ifixit\/avatar-6.large"
+            },
+            "reputation":1,
+            "url":"https:\/\/www.ifixit.com\/User\/1934426\/kenharper",
+            "teams":[
+               
+            ]
+         },
+         "title":"Samsung Galaxy Note 3 Battery Replacement",
+         "text_raw":"I am a technological genius! ( with your help )",
+         "text_rendered":"<p>I am a technological genius! ( with your help )<\/p>",
+         "rating":0,
+         "date":1489629351,
+         "modified_date":1489629351,
+         "status":"public",
+         "replies":[
+            
+         ]
+      },
+      {
+         "commentid":330596,
+         "locale":"en",
+         "context":"guide",
+         "contextid":31009,
+         "parentid":null,
+         "author":{
+            "userid":1542881,
+            "username":"ycwei982",
+            "unique_username":"ycwei982",
+            "join_date":1458888464,
+            "image":{
+               "id":1045889,
+               "guid":"oYM3EABYdQ2HQbmE",
+               "mini":"https:\/\/guide-images.cdn.ifixit.com\/igi\/oYM3EABYdQ2HQbmE.mini",
+               "thumbnail":"https:\/\/guide-images.cdn.ifixit.com\/igi\/oYM3EABYdQ2HQbmE.thumbnail",
+               "140x105":"https:\/\/guide-images.cdn.ifixit.com\/igi\/oYM3EABYdQ2HQbmE.140x105",
+               "200x150":"https:\/\/guide-images.cdn.ifixit.com\/igi\/oYM3EABYdQ2HQbmE.200x150",
+               "standard":"https:\/\/guide-images.cdn.ifixit.com\/igi\/oYM3EABYdQ2HQbmE.standard",
+               "440x330":"https:\/\/guide-images.cdn.ifixit.com\/igi\/oYM3EABYdQ2HQbmE.440x330",
+               "medium":"https:\/\/guide-images.cdn.ifixit.com\/igi\/oYM3EABYdQ2HQbmE.medium",
+               "large":"https:\/\/guide-images.cdn.ifixit.com\/igi\/oYM3EABYdQ2HQbmE.large",
+               "original":"https:\/\/guide-images.cdn.ifixit.com\/igi\/oYM3EABYdQ2HQbmE.full"
+            },
+            "reputation":610,
+            "url":"https:\/\/www.ifixit.com\/User\/1542881\/ycwei982",
+            "teams":[
+               
+            ]
+         },
+         "title":"Samsung Galaxy Note 3 Battery Replacement",
+         "text_raw":"Why need a opening tool lol",
+         "text_rendered":"<p>Why need a opening tool lol<\/p>",
+         "rating":0,
+         "date":1495068922,
+         "modified_date":1495068922,
+         "status":"public",
+         "replies":[
+            
+         ]
+      }
+   ],
+   "category":"Samsung Galaxy Note 3",
+   "url":"https:\/\/www.ifixit.com\/Guide\/Samsung+Galaxy+Note+3+Battery+Replacement\/31009",
+   "patrol_threshold":100000000,
+   "can_edit":true,
+   "favorited":false,
+   "author":{
+      "userid":524640,
+      "username":"Sam Goldheart",
+      "unique_username":"sam",
+      "join_date":1350625879,
+      "image":{
+         "id":277243,
+         "guid":"goWW1KSXtt5RIr4A",
+         "mini":"https:\/\/guide-images.cdn.ifixit.com\/igi\/goWW1KSXtt5RIr4A.mini",
+         "thumbnail":"https:\/\/guide-images.cdn.ifixit.com\/igi\/goWW1KSXtt5RIr4A.thumbnail",
+         "140x105":"https:\/\/guide-images.cdn.ifixit.com\/igi\/goWW1KSXtt5RIr4A.140x105",
+         "200x150":"https:\/\/guide-images.cdn.ifixit.com\/igi\/goWW1KSXtt5RIr4A.200x150",
+         "standard":"https:\/\/guide-images.cdn.ifixit.com\/igi\/goWW1KSXtt5RIr4A.standard",
+         "440x330":"https:\/\/guide-images.cdn.ifixit.com\/igi\/goWW1KSXtt5RIr4A.440x330",
+         "medium":"https:\/\/guide-images.cdn.ifixit.com\/igi\/goWW1KSXtt5RIr4A.medium",
+         "large":"https:\/\/guide-images.cdn.ifixit.com\/igi\/goWW1KSXtt5RIr4A.large",
+         "original":"https:\/\/guide-images.cdn.ifixit.com\/igi\/goWW1KSXtt5RIr4A.full"
+      },
+      "reputation":444216,
+      "url":"https:\/\/www.ifixit.com\/User\/524640\/Sam+Goldheart",
+      "teams":[
+         1,
+         43725
+      ]
+   },
+   "langid":"en",
+   "featured_documentid":null,
+   "intro_video_url":null,
+   "intro_video":null,
+   "completed":false
+}

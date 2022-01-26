@@ -4,7 +4,7 @@
 //
 //    using QuickType;
 //
-//    var test = Test.FromJson(jsonString);
+//    var welcome = Welcome.FromJson(jsonString);
 
 namespace QuickType
 {
@@ -17,116 +17,116 @@ namespace QuickType
 
     public partial class Test
     {
-        [JsonProperty("conclusion_raw")]
+        [JsonProperty("conclusion_raw", NullValueHandling = NullValueHandling.Ignore)]
         public string ConclusionRaw { get; set; }
 
-        [JsonProperty("conclusion_rendered")]
+        [JsonProperty("conclusion_rendered", NullValueHandling = NullValueHandling.Ignore)]
         public string ConclusionRendered { get; set; }
 
-        [JsonProperty("difficulty")]
+        [JsonProperty("difficulty", NullValueHandling = NullValueHandling.Ignore)]
         public string Difficulty { get; set; }
 
-        [JsonProperty("documents")]
+        [JsonProperty("documents", NullValueHandling = NullValueHandling.Ignore)]
         public object[] Documents { get; set; }
 
-        [JsonProperty("flags")]
+        [JsonProperty("flags", NullValueHandling = NullValueHandling.Ignore)]
         public Flag[] Flags { get; set; }
 
-        [JsonProperty("guideid")]
-        public long Guideid { get; set; }
+        [JsonProperty("guideid", NullValueHandling = NullValueHandling.Ignore)]
+        public long? Guideid { get; set; }
 
-        [JsonProperty("image")]
-        public Image Image { get; set; }
+        [JsonProperty("image", NullValueHandling = NullValueHandling.Ignore)]
+        public ImageElement Image { get; set; }
 
-        [JsonProperty("introduction_raw")]
+        [JsonProperty("introduction_raw", NullValueHandling = NullValueHandling.Ignore)]
         public string IntroductionRaw { get; set; }
 
-        [JsonProperty("introduction_rendered")]
+        [JsonProperty("introduction_rendered", NullValueHandling = NullValueHandling.Ignore)]
         public string IntroductionRendered { get; set; }
 
-        [JsonProperty("featured_document_embed_url")]
+        [JsonProperty("featured_document_embed_url", NullValueHandling = NullValueHandling.Ignore)]
         public string FeaturedDocumentEmbedUrl { get; set; }
 
-        [JsonProperty("featured_document_thumbnail_url")]
+        [JsonProperty("featured_document_thumbnail_url", NullValueHandling = NullValueHandling.Ignore)]
         public string FeaturedDocumentThumbnailUrl { get; set; }
 
-        [JsonProperty("locale")]
-        public Langid Locale { get; set; }
+        [JsonProperty("locale", NullValueHandling = NullValueHandling.Ignore)]
+        public string Locale { get; set; }
 
-        [JsonProperty("parts")]
+        [JsonProperty("parts", NullValueHandling = NullValueHandling.Ignore)]
         public Part[] Parts { get; set; }
 
-        [JsonProperty("prerequisites")]
+        [JsonProperty("prerequisites", NullValueHandling = NullValueHandling.Ignore)]
         public Prerequisite[] Prerequisites { get; set; }
 
-        [JsonProperty("steps")]
+        [JsonProperty("steps", NullValueHandling = NullValueHandling.Ignore)]
         public Step[] Steps { get; set; }
 
-        [JsonProperty("subject")]
+        [JsonProperty("subject", NullValueHandling = NullValueHandling.Ignore)]
         public string Subject { get; set; }
 
-        [JsonProperty("summary")]
+        [JsonProperty("summary", NullValueHandling = NullValueHandling.Ignore)]
         public string Summary { get; set; }
 
-        [JsonProperty("time_required")]
+        [JsonProperty("time_required", NullValueHandling = NullValueHandling.Ignore)]
         public string TimeRequired { get; set; }
 
-        [JsonProperty("time_required_min")]
-        public long TimeRequiredMin { get; set; }
+        [JsonProperty("time_required_min", NullValueHandling = NullValueHandling.Ignore)]
+        public long? TimeRequiredMin { get; set; }
 
-        [JsonProperty("time_required_max")]
-        public long TimeRequiredMax { get; set; }
+        [JsonProperty("time_required_max", NullValueHandling = NullValueHandling.Ignore)]
+        public long? TimeRequiredMax { get; set; }
 
-        [JsonProperty("title")]
-        public ReplyTitle Title { get; set; }
+        [JsonProperty("title", NullValueHandling = NullValueHandling.Ignore)]
+        public string Title { get; set; }
 
-        [JsonProperty("tools")]
-        public Part[] Tools { get; set; }
+        [JsonProperty("tools", NullValueHandling = NullValueHandling.Ignore)]
+        public Tool[] Tools { get; set; }
 
-        [JsonProperty("type")]
+        [JsonProperty("type", NullValueHandling = NullValueHandling.Ignore)]
         public string Type { get; set; }
 
-        [JsonProperty("revisionid")]
-        public long Revisionid { get; set; }
+        [JsonProperty("revisionid", NullValueHandling = NullValueHandling.Ignore)]
+        public long? Revisionid { get; set; }
 
-        [JsonProperty("created_date")]
-        public long CreatedDate { get; set; }
+        [JsonProperty("created_date", NullValueHandling = NullValueHandling.Ignore)]
+        public long? CreatedDate { get; set; }
 
-        [JsonProperty("published_date")]
-        public long PublishedDate { get; set; }
+        [JsonProperty("published_date", NullValueHandling = NullValueHandling.Ignore)]
+        public long? PublishedDate { get; set; }
 
-        [JsonProperty("modified_date")]
-        public long ModifiedDate { get; set; }
+        [JsonProperty("modified_date", NullValueHandling = NullValueHandling.Ignore)]
+        public long? ModifiedDate { get; set; }
 
-        [JsonProperty("prereq_modified_date")]
-        public long PrereqModifiedDate { get; set; }
+        [JsonProperty("prereq_modified_date", NullValueHandling = NullValueHandling.Ignore)]
+        public long? PrereqModifiedDate { get; set; }
 
-        [JsonProperty("public")]
-        public bool Public { get; set; }
+        [JsonProperty("public", NullValueHandling = NullValueHandling.Ignore)]
+        public bool? Public { get; set; }
 
-        [JsonProperty("comments")]
-        public Comment[] Comments { get; set; }
+        [JsonProperty("comments", NullValueHandling = NullValueHandling.Ignore)]
+        public WelcomeComment[] Comments { get; set; }
 
-        [JsonProperty("category")]
+        [JsonProperty("category", NullValueHandling = NullValueHandling.Ignore)]
         public string Category { get; set; }
 
-        [JsonProperty("url")]
+        [JsonProperty("url", NullValueHandling = NullValueHandling.Ignore)]
         public Uri Url { get; set; }
 
-        [JsonProperty("patrol_threshold")]
-        public long PatrolThreshold { get; set; }
+        [JsonProperty("patrol_threshold", NullValueHandling = NullValueHandling.Ignore)]
+        public long? PatrolThreshold { get; set; }
 
-        [JsonProperty("can_edit")]
-        public bool CanEdit { get; set; }
+        [JsonProperty("can_edit", NullValueHandling = NullValueHandling.Ignore)]
+        public bool? CanEdit { get; set; }
 
-        [JsonProperty("favorited")]
-        public bool Favorited { get; set; }
+        [JsonProperty("favorited", NullValueHandling = NullValueHandling.Ignore)]
+        public bool? Favorited { get; set; }
 
-        [JsonProperty("author")]
-        public Author Author { get; set; }
+        [JsonProperty("author", NullValueHandling = NullValueHandling.Ignore)]
+        public WelcomeAuthor Author { get; set; }
 
-        [JsonProperty("langid")]
-        public Langid Langid { get; set; }
+        [JsonProperty("langid", NullValueHandling = NullValueHandling.Ignore)]
+        public string Langid { get; set; }
 
         [JsonProperty("featured_documentid")]
         public object FeaturedDocumentid { get; set; }
@@ -137,49 +137,49 @@ namespace QuickType
         [JsonProperty("intro_video")]
         public object IntroVideo { get; set; }
 
-        [JsonProperty("completed")]
-        public bool Completed { get; set; }
+        [JsonProperty("completed", NullValueHandling = NullValueHandling.Ignore)]
+        public bool? Completed { get; set; }
     }
 
-    public partial class Author
+    public partial class WelcomeAuthor
     {
-        [JsonProperty("userid")]
-        public long Userid { get; set; }
+        [JsonProperty("userid", NullValueHandling = NullValueHandling.Ignore)]
+        public long? Userid { get; set; }
 
-        [JsonProperty("username")]
+        [JsonProperty("username", NullValueHandling = NullValueHandling.Ignore)]
         public string Username { get; set; }
 
-        [JsonProperty("unique_username")]
+        [JsonProperty("unique_username", NullValueHandling = NullValueHandling.Ignore)]
         public string UniqueUsername { get; set; }
 
-        [JsonProperty("join_date")]
+        [JsonProperty("join_date", NullValueHandling = NullValueHandling.Ignore)]
         public long? JoinDate { get; set; }
 
-        [JsonProperty("image")]
-        public Image Image { get; set; }
+        [JsonProperty("image", NullValueHandling = NullValueHandling.Ignore)]
+        public ImageElement Image { get; set; }
 
-        [JsonProperty("reputation")]
-        public long Reputation { get; set; }
+        [JsonProperty("reputation", NullValueHandling = NullValueHandling.Ignore)]
+        public long? Reputation { get; set; }
 
-        [JsonProperty("url")]
+        [JsonProperty("url", NullValueHandling = NullValueHandling.Ignore)]
         public Uri Url { get; set; }
 
-        [JsonProperty("teams")]
+        [JsonProperty("teams", NullValueHandling = NullValueHandling.Ignore)]
         public long[] Teams { get; set; }
     }
 
-    public partial class Image
+    public partial class ImageElement
     {
-        [JsonProperty("id")]
-        public long Id { get; set; }
+        [JsonProperty("id", NullValueHandling = NullValueHandling.Ignore)]
+        public long? Id { get; set; }
 
-        [JsonProperty("guid")]
+        [JsonProperty("guid", NullValueHandling = NullValueHandling.Ignore)]
         public string Guid { get; set; }
 
-        [JsonProperty("mini")]
+        [JsonProperty("mini", NullValueHandling = NullValueHandling.Ignore)]
         public Uri Mini { get; set; }
 
-        [JsonProperty("thumbnail")]
+        [JsonProperty("thumbnail", NullValueHandling = NullValueHandling.Ignore)]
         public Uri Thumbnail { get; set; }
 
         [JsonProperty("140x105", NullValueHandling = NullValueHandling.Ignore)]
@@ -194,7 +194,7 @@ namespace QuickType
         [JsonProperty("440x330", NullValueHandling = NullValueHandling.Ignore)]
         public Uri The440X330 { get; set; }
 
-        [JsonProperty("medium")]
+        [JsonProperty("medium", NullValueHandling = NullValueHandling.Ignore)]
         public Uri Medium { get; set; }
 
         [JsonProperty("large", NullValueHandling = NullValueHandling.Ignore)]
@@ -203,124 +203,214 @@ namespace QuickType
         [JsonProperty("huge", NullValueHandling = NullValueHandling.Ignore)]
         public Uri Huge { get; set; }
 
-        [JsonProperty("original")]
+        [JsonProperty("original", NullValueHandling = NullValueHandling.Ignore)]
         public Uri Original { get; set; }
     }
 
-    public partial class Comment
+    public partial class WelcomeComment
     {
-        [JsonProperty("commentid")]
-        public long Commentid { get; set; }
+        [JsonProperty("commentid", NullValueHandling = NullValueHandling.Ignore)]
+        public long? Commentid { get; set; }
 
-        [JsonProperty("locale")]
-        public Langid Locale { get; set; }
+        [JsonProperty("locale", NullValueHandling = NullValueHandling.Ignore)]
+        public string Locale { get; set; }
 
-        [JsonProperty("context")]
-        public Context Context { get; set; }
+        [JsonProperty("context", NullValueHandling = NullValueHandling.Ignore)]
+        public string Context { get; set; }
 
-        [JsonProperty("contextid")]
-        public long Contextid { get; set; }
+        [JsonProperty("contextid", NullValueHandling = NullValueHandling.Ignore)]
+        public long? Contextid { get; set; }
 
         [JsonProperty("parentid")]
         public object Parentid { get; set; }
 
-        [JsonProperty("author")]
-        public Author Author { get; set; }
+        [JsonProperty("author", NullValueHandling = NullValueHandling.Ignore)]
+        public PurpleAuthor Author { get; set; }
 
-        [JsonProperty("title")]
-        public ReplyTitle Title { get; set; }
+        [JsonProperty("title", NullValueHandling = NullValueHandling.Ignore)]
+        public string Title { get; set; }
 
-        [JsonProperty("text_raw")]
+        [JsonProperty("text_raw", NullValueHandling = NullValueHandling.Ignore)]
         public string TextRaw { get; set; }
 
-        [JsonProperty("text_rendered")]
+        [JsonProperty("text_rendered", NullValueHandling = NullValueHandling.Ignore)]
         public string TextRendered { get; set; }
 
-        [JsonProperty("rating")]
-        public long Rating { get; set; }
+        [JsonProperty("rating", NullValueHandling = NullValueHandling.Ignore)]
+        public long? Rating { get; set; }
 
-        [JsonProperty("date")]
-        public long Date { get; set; }
+        [JsonProperty("date", NullValueHandling = NullValueHandling.Ignore)]
+        public long? Date { get; set; }
 
-        [JsonProperty("modified_date")]
-        public long ModifiedDate { get; set; }
+        [JsonProperty("modified_date", NullValueHandling = NullValueHandling.Ignore)]
+        public long? ModifiedDate { get; set; }
 
-        [JsonProperty("status")]
-        public Status Status { get; set; }
+        [JsonProperty("status", NullValueHandling = NullValueHandling.Ignore)]
+        public string Status { get; set; }
 
-        [JsonProperty("replies")]
-        public Reply[] Replies { get; set; }
+        [JsonProperty("replies", NullValueHandling = NullValueHandling.Ignore)]
+        public PurpleReply[] Replies { get; set; }
     }
 
-    public partial class Reply
+    public partial class PurpleAuthor
     {
-        [JsonProperty("commentid")]
-        public long Commentid { get; set; }
+        [JsonProperty("userid", NullValueHandling = NullValueHandling.Ignore)]
+        public long? Userid { get; set; }
 
-        [JsonProperty("locale")]
+        [JsonProperty("username", NullValueHandling = NullValueHandling.Ignore)]
+        public string Username { get; set; }
+
+        [JsonProperty("unique_username")]
+        public string UniqueUsername { get; set; }
+
+        [JsonProperty("join_date")]
+        public long? JoinDate { get; set; }
+
+        [JsonProperty("image", NullValueHandling = NullValueHandling.Ignore)]
+        public PurpleImage Image { get; set; }
+
+        [JsonProperty("reputation", NullValueHandling = NullValueHandling.Ignore)]
+        public long? Reputation { get; set; }
+
+        [JsonProperty("url", NullValueHandling = NullValueHandling.Ignore)]
+        public Uri Url { get; set; }
+
+        [JsonProperty("teams", NullValueHandling = NullValueHandling.Ignore)]
+        public object[] Teams { get; set; }
+    }
+
+    public partial class PurpleImage
+    {
+        [JsonProperty("id", NullValueHandling = NullValueHandling.Ignore)]
+        public long? Id { get; set; }
+
+        [JsonProperty("guid", NullValueHandling = NullValueHandling.Ignore)]
+        public string Guid { get; set; }
+
+        [JsonProperty("original", NullValueHandling = NullValueHandling.Ignore)]
+        public Uri Original { get; set; }
+
+        [JsonProperty("mini", NullValueHandling = NullValueHandling.Ignore)]
+        public Uri Mini { get; set; }
+
+        [JsonProperty("thumbnail", NullValueHandling = NullValueHandling.Ignore)]
+        public Uri Thumbnail { get; set; }
+
+        [JsonProperty("140x105", NullValueHandling = NullValueHandling.Ignore)]
+        public Uri The140X105 { get; set; }
+
+        [JsonProperty("200x150", NullValueHandling = NullValueHandling.Ignore)]
+        public Uri The200X150 { get; set; }
+
+        [JsonProperty("standard", NullValueHandling = NullValueHandling.Ignore)]
+        public Uri Standard { get; set; }
+
+        [JsonProperty("440x330", NullValueHandling = NullValueHandling.Ignore)]
+        public Uri The440X330 { get; set; }
+
+        [JsonProperty("medium", NullValueHandling = NullValueHandling.Ignore)]
+        public Uri Medium { get; set; }
+
+        [JsonProperty("large", NullValueHandling = NullValueHandling.Ignore)]
+        public Uri Large { get; set; }
+    }
+
+    public partial class PurpleReply
+    {
+        [JsonProperty("commentid", NullValueHandling = NullValueHandling.Ignore)]
+        public long? Commentid { get; set; }
+
+        [JsonProperty("locale", NullValueHandling = NullValueHandling.Ignore)]
         public string Locale { get; set; }
 
-        [JsonProperty("context")]
-        public Context Context { get; set; }
+        [JsonProperty("context", NullValueHandling = NullValueHandling.Ignore)]
+        public string Context { get; set; }
 
-        [JsonProperty("contextid")]
-        public long Contextid { get; set; }
+        [JsonProperty("contextid", NullValueHandling = NullValueHandling.Ignore)]
+        public long? Contextid { get; set; }
 
-        [JsonProperty("parentid")]
-        public long Parentid { get; set; }
+        [JsonProperty("parentid", NullValueHandling = NullValueHandling.Ignore)]
+        public long? Parentid { get; set; }
 
-        [JsonProperty("author")]
-        public Author Author { get; set; }
+        [JsonProperty("author", NullValueHandling = NullValueHandling.Ignore)]
+        public FluffyAuthor Author { get; set; }
 
-        [JsonProperty("title")]
-        public ReplyTitle Title { get; set; }
+        [JsonProperty("title", NullValueHandling = NullValueHandling.Ignore)]
+        public string Title { get; set; }
 
-        [JsonProperty("text_raw")]
+        [JsonProperty("text_raw", NullValueHandling = NullValueHandling.Ignore)]
         public string TextRaw { get; set; }
 
-        [JsonProperty("text_rendered")]
+        [JsonProperty("text_rendered", NullValueHandling = NullValueHandling.Ignore)]
         public string TextRendered { get; set; }
 
-        [JsonProperty("rating")]
-        public long Rating { get; set; }
+        [JsonProperty("rating", NullValueHandling = NullValueHandling.Ignore)]
+        public long? Rating { get; set; }
 
-        [JsonProperty("date")]
-        public long Date { get; set; }
+        [JsonProperty("date", NullValueHandling = NullValueHandling.Ignore)]
+        public long? Date { get; set; }
 
-        [JsonProperty("modified_date")]
-        public long ModifiedDate { get; set; }
+        [JsonProperty("modified_date", NullValueHandling = NullValueHandling.Ignore)]
+        public long? ModifiedDate { get; set; }
 
-        [JsonProperty("status")]
-        public Status Status { get; set; }
+        [JsonProperty("status", NullValueHandling = NullValueHandling.Ignore)]
+        public string Status { get; set; }
+    }
+
+    public partial class FluffyAuthor
+    {
+        [JsonProperty("userid", NullValueHandling = NullValueHandling.Ignore)]
+        public long? Userid { get; set; }
+
+        [JsonProperty("username", NullValueHandling = NullValueHandling.Ignore)]
+        public string Username { get; set; }
+
+        [JsonProperty("unique_username")]
+        public string UniqueUsername { get; set; }
+
+        [JsonProperty("join_date", NullValueHandling = NullValueHandling.Ignore)]
+        public long? JoinDate { get; set; }
+
+        [JsonProperty("image", NullValueHandling = NullValueHandling.Ignore)]
+        public PurpleImage Image { get; set; }
+
+        [JsonProperty("reputation", NullValueHandling = NullValueHandling.Ignore)]
+        public long? Reputation { get; set; }
+
+        [JsonProperty("url", NullValueHandling = NullValueHandling.Ignore)]
+        public Uri Url { get; set; }
+
+        [JsonProperty("teams", NullValueHandling = NullValueHandling.Ignore)]
+        public long[] Teams { get; set; }
     }
 
     public partial class Flag
     {
-        [JsonProperty("title")]
+        [JsonProperty("title", NullValueHandling = NullValueHandling.Ignore)]
         public string Title { get; set; }
 
-        [JsonProperty("flagid")]
+        [JsonProperty("flagid", NullValueHandling = NullValueHandling.Ignore)]
         public string Flagid { get; set; }
 
-        [JsonProperty("text")]
+        [JsonProperty("text", NullValueHandling = NullValueHandling.Ignore)]
         public string Text { get; set; }
     }
 
     public partial class Part
     {
-        [JsonProperty("text")]
+        [JsonProperty("text", NullValueHandling = NullValueHandling.Ignore)]
         public string Text { get; set; }
 
         [JsonProperty("notes")]
         public object Notes { get; set; }
 
-        [JsonProperty("type")]
+        [JsonProperty("type", NullValueHandling = NullValueHandling.Ignore)]
         public string Type { get; set; }
 
-        [JsonProperty("quantity")]
-        public long Quantity { get; set; }
+        [JsonProperty("quantity", NullValueHandling = NullValueHandling.Ignore)]
+        public long? Quantity { get; set; }
 
-        [JsonProperty("url")]
+        [JsonProperty("url", NullValueHandling = NullValueHandling.Ignore)]
         public string Url { get; set; }
 
         [JsonProperty("thumbnail")]
@@ -329,131 +419,279 @@ namespace QuickType
 
     public partial class Prerequisite
     {
-        [JsonProperty("dataType")]
-        public Context DataType { get; set; }
+        [JsonProperty("dataType", NullValueHandling = NullValueHandling.Ignore)]
+        public string DataType { get; set; }
 
-        [JsonProperty("guideid")]
-        public long Guideid { get; set; }
+        [JsonProperty("guideid", NullValueHandling = NullValueHandling.Ignore)]
+        public long? Guideid { get; set; }
 
-        [JsonProperty("locale")]
-        public Langid Locale { get; set; }
+        [JsonProperty("locale", NullValueHandling = NullValueHandling.Ignore)]
+        public string Locale { get; set; }
 
-        [JsonProperty("revisionid")]
-        public long Revisionid { get; set; }
+        [JsonProperty("revisionid", NullValueHandling = NullValueHandling.Ignore)]
+        public long? Revisionid { get; set; }
 
-        [JsonProperty("modified_date")]
-        public long ModifiedDate { get; set; }
+        [JsonProperty("modified_date", NullValueHandling = NullValueHandling.Ignore)]
+        public long? ModifiedDate { get; set; }
 
-        [JsonProperty("prereq_modified_date")]
-        public long PrereqModifiedDate { get; set; }
+        [JsonProperty("prereq_modified_date", NullValueHandling = NullValueHandling.Ignore)]
+        public long? PrereqModifiedDate { get; set; }
 
-        [JsonProperty("url")]
+        [JsonProperty("url", NullValueHandling = NullValueHandling.Ignore)]
         public Uri Url { get; set; }
 
-        [JsonProperty("type")]
+        [JsonProperty("type", NullValueHandling = NullValueHandling.Ignore)]
         public string Type { get; set; }
 
-        [JsonProperty("category")]
+        [JsonProperty("category", NullValueHandling = NullValueHandling.Ignore)]
         public string Category { get; set; }
 
-        [JsonProperty("subject")]
+        [JsonProperty("subject", NullValueHandling = NullValueHandling.Ignore)]
         public string Subject { get; set; }
 
-        [JsonProperty("title")]
-        public ReplyTitle Title { get; set; }
+        [JsonProperty("title", NullValueHandling = NullValueHandling.Ignore)]
+        public string Title { get; set; }
 
-        [JsonProperty("summary")]
+        [JsonProperty("summary", NullValueHandling = NullValueHandling.Ignore)]
         public string Summary { get; set; }
 
-        [JsonProperty("difficulty")]
+        [JsonProperty("difficulty", NullValueHandling = NullValueHandling.Ignore)]
         public string Difficulty { get; set; }
 
-        [JsonProperty("time_required_max")]
-        public long TimeRequiredMax { get; set; }
+        [JsonProperty("time_required_max", NullValueHandling = NullValueHandling.Ignore)]
+        public long? TimeRequiredMax { get; set; }
 
-        [JsonProperty("public")]
-        public bool Public { get; set; }
+        [JsonProperty("public", NullValueHandling = NullValueHandling.Ignore)]
+        public bool? Public { get; set; }
 
-        [JsonProperty("userid")]
-        public long Userid { get; set; }
+        [JsonProperty("userid", NullValueHandling = NullValueHandling.Ignore)]
+        public long? Userid { get; set; }
 
-        [JsonProperty("username")]
+        [JsonProperty("username", NullValueHandling = NullValueHandling.Ignore)]
         public string Username { get; set; }
 
-        [JsonProperty("flags")]
+        [JsonProperty("flags", NullValueHandling = NullValueHandling.Ignore)]
         public string[] Flags { get; set; }
 
-        [JsonProperty("image")]
-        public Image Image { get; set; }
+        [JsonProperty("image", NullValueHandling = NullValueHandling.Ignore)]
+        public ImageElement Image { get; set; }
     }
 
     public partial class Step
     {
-        [JsonProperty("title")]
-        public StepTitle Title { get; set; }
+        [JsonProperty("title", NullValueHandling = NullValueHandling.Ignore)]
+        public string Title { get; set; }
 
-        [JsonProperty("lines")]
+        [JsonProperty("lines", NullValueHandling = NullValueHandling.Ignore)]
         public Line[] Lines { get; set; }
 
-        [JsonProperty("guideid")]
-        public long Guideid { get; set; }
+        [JsonProperty("guideid", NullValueHandling = NullValueHandling.Ignore)]
+        public long? Guideid { get; set; }
 
-        [JsonProperty("stepid")]
-        public long Stepid { get; set; }
+        [JsonProperty("stepid", NullValueHandling = NullValueHandling.Ignore)]
+        public long? Stepid { get; set; }
 
-        [JsonProperty("orderby")]
-        public long Orderby { get; set; }
+        [JsonProperty("orderby", NullValueHandling = NullValueHandling.Ignore)]
+        public long? Orderby { get; set; }
 
-        [JsonProperty("revisionid")]
-        public long Revisionid { get; set; }
+        [JsonProperty("revisionid", NullValueHandling = NullValueHandling.Ignore)]
+        public long? Revisionid { get; set; }
 
-        [JsonProperty("media")]
+        [JsonProperty("media", NullValueHandling = NullValueHandling.Ignore)]
         public Media Media { get; set; }
 
-        [JsonProperty("comments")]
-        public Comment[] Comments { get; set; }
+        [JsonProperty("comments", NullValueHandling = NullValueHandling.Ignore)]
+        public StepComment[] Comments { get; set; }
+    }
+
+    public partial class StepComment
+    {
+        [JsonProperty("commentid", NullValueHandling = NullValueHandling.Ignore)]
+        public long? Commentid { get; set; }
+
+        [JsonProperty("locale", NullValueHandling = NullValueHandling.Ignore)]
+        public string Locale { get; set; }
+
+        [JsonProperty("context", NullValueHandling = NullValueHandling.Ignore)]
+        public string Context { get; set; }
+
+        [JsonProperty("contextid", NullValueHandling = NullValueHandling.Ignore)]
+        public long? Contextid { get; set; }
+
+        [JsonProperty("parentid")]
+        public object Parentid { get; set; }
+
+        [JsonProperty("author", NullValueHandling = NullValueHandling.Ignore)]
+        public TentacledAuthor Author { get; set; }
+
+        [JsonProperty("title", NullValueHandling = NullValueHandling.Ignore)]
+        public string Title { get; set; }
+
+        [JsonProperty("text_raw", NullValueHandling = NullValueHandling.Ignore)]
+        public string TextRaw { get; set; }
+
+        [JsonProperty("text_rendered", NullValueHandling = NullValueHandling.Ignore)]
+        public string TextRendered { get; set; }
+
+        [JsonProperty("rating", NullValueHandling = NullValueHandling.Ignore)]
+        public long? Rating { get; set; }
+
+        [JsonProperty("date", NullValueHandling = NullValueHandling.Ignore)]
+        public long? Date { get; set; }
+
+        [JsonProperty("modified_date", NullValueHandling = NullValueHandling.Ignore)]
+        public long? ModifiedDate { get; set; }
+
+        [JsonProperty("status", NullValueHandling = NullValueHandling.Ignore)]
+        public string Status { get; set; }
+
+        [JsonProperty("replies", NullValueHandling = NullValueHandling.Ignore)]
+        public FluffyReply[] Replies { get; set; }
+    }
+
+    public partial class TentacledAuthor
+    {
+        [JsonProperty("userid", NullValueHandling = NullValueHandling.Ignore)]
+        public long? Userid { get; set; }
+
+        [JsonProperty("username", NullValueHandling = NullValueHandling.Ignore)]
+        public string Username { get; set; }
+
+        [JsonProperty("unique_username")]
+        public string UniqueUsername { get; set; }
+
+        [JsonProperty("join_date", NullValueHandling = NullValueHandling.Ignore)]
+        public long? JoinDate { get; set; }
+
+        [JsonProperty("image", NullValueHandling = NullValueHandling.Ignore)]
+        public PurpleImage Image { get; set; }
+
+        [JsonProperty("reputation", NullValueHandling = NullValueHandling.Ignore)]
+        public long? Reputation { get; set; }
+
+        [JsonProperty("url", NullValueHandling = NullValueHandling.Ignore)]
+        public Uri Url { get; set; }
+
+        [JsonProperty("teams", NullValueHandling = NullValueHandling.Ignore)]
+        public long[] Teams { get; set; }
+    }
+
+    public partial class FluffyReply
+    {
+        [JsonProperty("commentid", NullValueHandling = NullValueHandling.Ignore)]
+        public long? Commentid { get; set; }
+
+        [JsonProperty("locale", NullValueHandling = NullValueHandling.Ignore)]
+        public string Locale { get; set; }
+
+        [JsonProperty("context", NullValueHandling = NullValueHandling.Ignore)]
+        public string Context { get; set; }
+
+        [JsonProperty("contextid", NullValueHandling = NullValueHandling.Ignore)]
+        public long? Contextid { get; set; }
+
+        [JsonProperty("parentid", NullValueHandling = NullValueHandling.Ignore)]
+        public long? Parentid { get; set; }
+
+        [JsonProperty("author", NullValueHandling = NullValueHandling.Ignore)]
+        public StickyAuthor Author { get; set; }
+
+        [JsonProperty("title", NullValueHandling = NullValueHandling.Ignore)]
+        public string Title { get; set; }
+
+        [JsonProperty("text_raw", NullValueHandling = NullValueHandling.Ignore)]
+        public string TextRaw { get; set; }
+
+        [JsonProperty("text_rendered", NullValueHandling = NullValueHandling.Ignore)]
+        public string TextRendered { get; set; }
+
+        [JsonProperty("rating", NullValueHandling = NullValueHandling.Ignore)]
+        public long? Rating { get; set; }
+
+        [JsonProperty("date", NullValueHandling = NullValueHandling.Ignore)]
+        public long? Date { get; set; }
+
+        [JsonProperty("modified_date", NullValueHandling = NullValueHandling.Ignore)]
+        public long? ModifiedDate { get; set; }
+
+        [JsonProperty("status", NullValueHandling = NullValueHandling.Ignore)]
+        public string Status { get; set; }
+    }
+
+    public partial class StickyAuthor
+    {
+        [JsonProperty("userid", NullValueHandling = NullValueHandling.Ignore)]
+        public long? Userid { get; set; }
+
+        [JsonProperty("username", NullValueHandling = NullValueHandling.Ignore)]
+        public string Username { get; set; }
+
+        [JsonProperty("unique_username")]
+        public string UniqueUsername { get; set; }
+
+        [JsonProperty("join_date", NullValueHandling = NullValueHandling.Ignore)]
+        public long? JoinDate { get; set; }
+
+        [JsonProperty("image", NullValueHandling = NullValueHandling.Ignore)]
+        public ImageElement Image { get; set; }
+
+        [JsonProperty("reputation", NullValueHandling = NullValueHandling.Ignore)]
+        public long? Reputation { get; set; }
+
+        [JsonProperty("url", NullValueHandling = NullValueHandling.Ignore)]
+        public Uri Url { get; set; }
+
+        [JsonProperty("teams", NullValueHandling = NullValueHandling.Ignore)]
+        public long[] Teams { get; set; }
     }
 
     public partial class Line
     {
-        [JsonProperty("text_raw")]
+        [JsonProperty("text_raw", NullValueHandling = NullValueHandling.Ignore)]
         public string TextRaw { get; set; }
 
-        [JsonProperty("bullet")]
-        public Bullet Bullet { get; set; }
+        [JsonProperty("bullet", NullValueHandling = NullValueHandling.Ignore)]
+        public string Bullet { get; set; }
 
-        [JsonProperty("level")]
-        public long Level { get; set; }
+        [JsonProperty("level", NullValueHandling = NullValueHandling.Ignore)]
+        public long? Level { get; set; }
 
         [JsonProperty("lineid")]
         public object Lineid { get; set; }
 
-        [JsonProperty("text_rendered")]
+        [JsonProperty("text_rendered", NullValueHandling = NullValueHandling.Ignore)]
         public string TextRendered { get; set; }
     }
 
     public partial class Media
     {
-        [JsonProperty("type")]
-        public TypeEnum Type { get; set; }
+        [JsonProperty("type", NullValueHandling = NullValueHandling.Ignore)]
+        public string Type { get; set; }
 
-        [JsonProperty("data")]
-        public Image[] Data { get; set; }
+        [JsonProperty("data", NullValueHandling = NullValueHandling.Ignore)]
+        public ImageElement[] Data { get; set; }
     }
 
-    public enum Context { Guide, Step };
+    public partial class Tool
+    {
+        [JsonProperty("type", NullValueHandling = NullValueHandling.Ignore)]
+        public string Type { get; set; }
 
-    public enum Langid { De, En, Nl };
+        [JsonProperty("quantity", NullValueHandling = NullValueHandling.Ignore)]
+        public long? Quantity { get; set; }
 
-    public enum Status { Public };
+        [JsonProperty("text", NullValueHandling = NullValueHandling.Ignore)]
+        public string Text { get; set; }
 
-    public enum ReplyTitle { BatteryDisconnection, IPhone8PlusBatteryReplacement, IPhone8PlusDisplayAssemblyReplacement, IPhone8PlusPentalobeScrewsReplacement, IPhone8PlusTapticEngineReplacement, IPhone8PlusWiFiDiversityAntennaFlex, OpeningProcedure };
+        [JsonProperty("notes")]
+        public object Notes { get; set; }
 
-    public enum Bullet { Black, IconCaution, IconNote, IconReminder, Orange, Red, Yellow };
+        [JsonProperty("url", NullValueHandling = NullValueHandling.Ignore)]
+        public Uri Url { get; set; }
 
-    public enum TypeEnum { Image };
-
-    public enum StepTitle { BatteryDisconnection, Empty };
+        [JsonProperty("thumbnail", NullValueHandling = NullValueHandling.Ignore)]
+        public Uri Thumbnail { get; set; }
+    }
 
     public partial class Test
     {
@@ -473,343 +711,8 @@ namespace QuickType
             DateParseHandling = DateParseHandling.None,
             Converters =
             {
-                ContextConverter.Singleton,
-                LangidConverter.Singleton,
-                StatusConverter.Singleton,
-                ReplyTitleConverter.Singleton,
-                BulletConverter.Singleton,
-                TypeEnumConverter.Singleton,
-                StepTitleConverter.Singleton,
                 new IsoDateTimeConverter { DateTimeStyles = DateTimeStyles.AssumeUniversal }
             },
         };
-    }
-
-    internal class ContextConverter : JsonConverter
-    {
-        public override bool CanConvert(Type t) => t == typeof(Context) || t == typeof(Context?);
-
-        public override object ReadJson(JsonReader reader, Type t, object existingValue, JsonSerializer serializer)
-        {
-            if (reader.TokenType == JsonToken.Null) return null;
-            var value = serializer.Deserialize<string>(reader);
-            switch (value)
-            {
-                case "guide":
-                    return Context.Guide;
-                case "step":
-                    return Context.Step;
-            }
-            throw new Exception("Cannot unmarshal type Context");
-        }
-
-        public override void WriteJson(JsonWriter writer, object untypedValue, JsonSerializer serializer)
-        {
-            if (untypedValue == null)
-            {
-                serializer.Serialize(writer, null);
-                return;
-            }
-            var value = (Context)untypedValue;
-            switch (value)
-            {
-                case Context.Guide:
-                    serializer.Serialize(writer, "guide");
-                    return;
-                case Context.Step:
-                    serializer.Serialize(writer, "step");
-                    return;
-            }
-            throw new Exception("Cannot marshal type Context");
-        }
-
-        public static readonly ContextConverter Singleton = new ContextConverter();
-    }
-
-    internal class LangidConverter : JsonConverter
-    {
-        public override bool CanConvert(Type t) => t == typeof(Langid) || t == typeof(Langid?);
-
-        public override object ReadJson(JsonReader reader, Type t, object existingValue, JsonSerializer serializer)
-        {
-            if (reader.TokenType == JsonToken.Null) return null;
-            var value = serializer.Deserialize<string>(reader);
-            switch (value)
-            {
-                case "de":
-                    return Langid.De;
-                case "en":
-                    return Langid.En;
-                case "nl":
-                    return Langid.Nl;
-            }
-            throw new Exception("Cannot unmarshal type Langid");
-        }
-
-        public override void WriteJson(JsonWriter writer, object untypedValue, JsonSerializer serializer)
-        {
-            if (untypedValue == null)
-            {
-                serializer.Serialize(writer, null);
-                return;
-            }
-            var value = (Langid)untypedValue;
-            switch (value)
-            {
-                case Langid.De:
-                    serializer.Serialize(writer, "de");
-                    return;
-                case Langid.En:
-                    serializer.Serialize(writer, "en");
-                    return;
-                case Langid.Nl:
-                    serializer.Serialize(writer, "nl");
-                    return;
-            }
-            throw new Exception("Cannot marshal type Langid");
-        }
-
-        public static readonly LangidConverter Singleton = new LangidConverter();
-    }
-
-    internal class StatusConverter : JsonConverter
-    {
-        public override bool CanConvert(Type t) => t == typeof(Status) || t == typeof(Status?);
-
-        public override object ReadJson(JsonReader reader, Type t, object existingValue, JsonSerializer serializer)
-        {
-            if (reader.TokenType == JsonToken.Null) return null;
-            var value = serializer.Deserialize<string>(reader);
-            if (value == "public")
-            {
-                return Status.Public;
-            }
-            throw new Exception("Cannot unmarshal type Status");
-        }
-
-        public override void WriteJson(JsonWriter writer, object untypedValue, JsonSerializer serializer)
-        {
-            if (untypedValue == null)
-            {
-                serializer.Serialize(writer, null);
-                return;
-            }
-            var value = (Status)untypedValue;
-            if (value == Status.Public)
-            {
-                serializer.Serialize(writer, "public");
-                return;
-            }
-            throw new Exception("Cannot marshal type Status");
-        }
-
-        public static readonly StatusConverter Singleton = new StatusConverter();
-    }
-
-    internal class ReplyTitleConverter : JsonConverter
-    {
-        public override bool CanConvert(Type t) => t == typeof(ReplyTitle) || t == typeof(ReplyTitle?);
-
-        public override object ReadJson(JsonReader reader, Type t, object existingValue, JsonSerializer serializer)
-        {
-            if (reader.TokenType == JsonToken.Null) return null;
-            var value = serializer.Deserialize<string>(reader);
-            switch (value)
-            {
-                case "Battery Disconnection":
-                    return ReplyTitle.BatteryDisconnection;
-                case "Opening Procedure":
-                    return ReplyTitle.OpeningProcedure;
-                case "iPhone 8 Plus Battery Replacement":
-                    return ReplyTitle.IPhone8PlusBatteryReplacement;
-                case "iPhone 8 Plus Display Assembly Replacement":
-                    return ReplyTitle.IPhone8PlusDisplayAssemblyReplacement;
-                case "iPhone 8 Plus Pentalobe Screws Replacement":
-                    return ReplyTitle.IPhone8PlusPentalobeScrewsReplacement;
-                case "iPhone 8 Plus Taptic Engine Replacement":
-                    return ReplyTitle.IPhone8PlusTapticEngineReplacement;
-                case "iPhone 8 Plus Wi-Fi Diversity Antenna Flex":
-                    return ReplyTitle.IPhone8PlusWiFiDiversityAntennaFlex;
-            }
-            throw new Exception("Cannot unmarshal type ReplyTitle");
-        }
-
-        public override void WriteJson(JsonWriter writer, object untypedValue, JsonSerializer serializer)
-        {
-            if (untypedValue == null)
-            {
-                serializer.Serialize(writer, null);
-                return;
-            }
-            var value = (ReplyTitle)untypedValue;
-            switch (value)
-            {
-                case ReplyTitle.BatteryDisconnection:
-                    serializer.Serialize(writer, "Battery Disconnection");
-                    return;
-                case ReplyTitle.OpeningProcedure:
-                    serializer.Serialize(writer, "Opening Procedure");
-                    return;
-                case ReplyTitle.IPhone8PlusBatteryReplacement:
-                    serializer.Serialize(writer, "iPhone 8 Plus Battery Replacement");
-                    return;
-                case ReplyTitle.IPhone8PlusDisplayAssemblyReplacement:
-                    serializer.Serialize(writer, "iPhone 8 Plus Display Assembly Replacement");
-                    return;
-                case ReplyTitle.IPhone8PlusPentalobeScrewsReplacement:
-                    serializer.Serialize(writer, "iPhone 8 Plus Pentalobe Screws Replacement");
-                    return;
-                case ReplyTitle.IPhone8PlusTapticEngineReplacement:
-                    serializer.Serialize(writer, "iPhone 8 Plus Taptic Engine Replacement");
-                    return;
-                case ReplyTitle.IPhone8PlusWiFiDiversityAntennaFlex:
-                    serializer.Serialize(writer, "iPhone 8 Plus Wi-Fi Diversity Antenna Flex");
-                    return;
-            }
-            throw new Exception("Cannot marshal type ReplyTitle");
-        }
-
-        public static readonly ReplyTitleConverter Singleton = new ReplyTitleConverter();
-    }
-
-    internal class BulletConverter : JsonConverter
-    {
-        public override bool CanConvert(Type t) => t == typeof(Bullet) || t == typeof(Bullet?);
-
-        public override object ReadJson(JsonReader reader, Type t, object existingValue, JsonSerializer serializer)
-        {
-            if (reader.TokenType == JsonToken.Null) return null;
-            var value = serializer.Deserialize<string>(reader);
-            switch (value)
-            {
-                case "black":
-                    return Bullet.Black;
-                case "icon_caution":
-                    return Bullet.IconCaution;
-                case "icon_note":
-                    return Bullet.IconNote;
-                case "icon_reminder":
-                    return Bullet.IconReminder;
-                case "orange":
-                    return Bullet.Orange;
-                case "red":
-                    return Bullet.Red;
-                case "yellow":
-                    return Bullet.Yellow;
-            }
-            throw new Exception("Cannot unmarshal type Bullet");
-        }
-
-        public override void WriteJson(JsonWriter writer, object untypedValue, JsonSerializer serializer)
-        {
-            if (untypedValue == null)
-            {
-                serializer.Serialize(writer, null);
-                return;
-            }
-            var value = (Bullet)untypedValue;
-            switch (value)
-            {
-                case Bullet.Black:
-                    serializer.Serialize(writer, "black");
-                    return;
-                case Bullet.IconCaution:
-                    serializer.Serialize(writer, "icon_caution");
-                    return;
-                case Bullet.IconNote:
-                    serializer.Serialize(writer, "icon_note");
-                    return;
-                case Bullet.IconReminder:
-                    serializer.Serialize(writer, "icon_reminder");
-                    return;
-                case Bullet.Orange:
-                    serializer.Serialize(writer, "orange");
-                    return;
-                case Bullet.Red:
-                    serializer.Serialize(writer, "red");
-                    return;
-                case Bullet.Yellow:
-                    serializer.Serialize(writer, "yellow");
-                    return;
-            }
-            throw new Exception("Cannot marshal type Bullet");
-        }
-
-        public static readonly BulletConverter Singleton = new BulletConverter();
-    }
-
-    internal class TypeEnumConverter : JsonConverter
-    {
-        public override bool CanConvert(Type t) => t == typeof(TypeEnum) || t == typeof(TypeEnum?);
-
-        public override object ReadJson(JsonReader reader, Type t, object existingValue, JsonSerializer serializer)
-        {
-            if (reader.TokenType == JsonToken.Null) return null;
-            var value = serializer.Deserialize<string>(reader);
-            if (value == "image")
-            {
-                return TypeEnum.Image;
-            }
-            throw new Exception("Cannot unmarshal type TypeEnum");
-        }
-
-        public override void WriteJson(JsonWriter writer, object untypedValue, JsonSerializer serializer)
-        {
-            if (untypedValue == null)
-            {
-                serializer.Serialize(writer, null);
-                return;
-            }
-            var value = (TypeEnum)untypedValue;
-            if (value == TypeEnum.Image)
-            {
-                serializer.Serialize(writer, "image");
-                return;
-            }
-            throw new Exception("Cannot marshal type TypeEnum");
-        }
-
-        public static readonly TypeEnumConverter Singleton = new TypeEnumConverter();
-    }
-
-    internal class StepTitleConverter : JsonConverter
-    {
-        public override bool CanConvert(Type t) => t == typeof(StepTitle) || t == typeof(StepTitle?);
-
-        public override object ReadJson(JsonReader reader, Type t, object existingValue, JsonSerializer serializer)
-        {
-            if (reader.TokenType == JsonToken.Null) return null;
-            var value = serializer.Deserialize<string>(reader);
-            switch (value)
-            {
-                case "":
-                    return StepTitle.Empty;
-                case "Battery Disconnection":
-                    return StepTitle.BatteryDisconnection;
-            }
-            throw new Exception("Cannot unmarshal type StepTitle");
-        }
-
-        public override void WriteJson(JsonWriter writer, object untypedValue, JsonSerializer serializer)
-        {
-            if (untypedValue == null)
-            {
-                serializer.Serialize(writer, null);
-                return;
-            }
-            var value = (StepTitle)untypedValue;
-            switch (value)
-            {
-                case StepTitle.Empty:
-                    serializer.Serialize(writer, "");
-                    return;
-                case StepTitle.BatteryDisconnection:
-                    serializer.Serialize(writer, "Battery Disconnection");
-                    return;
-            }
-            throw new Exception("Cannot marshal type StepTitle");
-        }
-
-        public static readonly StepTitleConverter Singleton = new StepTitleConverter();
     }
 }

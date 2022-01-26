@@ -1,0 +1,1987 @@
+{
+   "conclusion_raw":"If possible, turn on your phone and '''test your repair''' before installing new adhesive and resealing the phone.\n\n'''Secure the new battery''' with pre-cut adhesive or double-sided adhesive tape. In order to position it correctly, apply the new adhesive into the phone at the places where the old adhesive was located, not directly onto the battery. Press the new battery firmly into place.\n\nFor optimal performance, '''[[Battery Calibration|calibrate]] your newly installed battery''': Charge it to 100%, and keep charging it for at least two more hours. Then, use it until it shuts off due to low battery. Finally, charge it uninterrupted to 100%\n\nTo reassemble your device, follow these instructions in reverse order.\n\nTake your e-waste to an [[E-Waste|R2 or e-Stewards certified recycler|new_window=true]].\n\nRepair didn\u2019t go as planned? Check out our [https:\/\/www.ifixit.com\/Answers\/Xiaomi+Mi+9|Answers community] for troubleshooting help.",
+   "conclusion_rendered":"<p>If possible, turn on your phone and <strong>test your repair<\/strong> before installing new adhesive and resealing the phone.<\/p>\n\n<p><strong>Secure the new battery<\/strong> with pre-cut adhesive or double-sided adhesive tape. In order to position it correctly, apply the new adhesive into the phone at the places where the old adhesive was located, not directly onto the battery. Press the new battery firmly into place.<\/p>\n\n<p>For optimal performance, <strong><a href=\"\/Wiki\/Battery_Calibration\">calibrate<\/a> your newly installed battery<\/strong>: Charge it to 100%, and keep charging it for at least two more hours. Then, use it until it shuts off due to low battery. Finally, charge it uninterrupted to 100%<\/p>\n\n<p>To reassemble your device, follow these instructions in reverse order.<\/p>\n\n<p>Take your e-waste to an <a href=\"\/Wiki\/E-Waste\" target=\"_blank\">R2 or e-Stewards certified recycler<\/a>.<\/p>\n\n<p>Repair didn\u2019t go as planned? Check out our <a href=\"https:\/\/www.ifixit.com\/Answers\/Xiaomi+Mi+9\">Answers community<\/a> for troubleshooting help.<\/p>",
+   "difficulty":"Moderate",
+   "documents":[
+      
+   ],
+   "flags":[
+      {
+         "title":"Featured Guide",
+         "flagid":"GUIDE_STARRED",
+         "text":"This guide has been found to be exceptionally cool by the iFixit staff."
+      }
+   ],
+   "guideid":125727,
+   "image":{
+      "id":1839704,
+      "guid":"HCaFLCebsLXorNHp",
+      "mini":"https:\/\/guide-images.cdn.ifixit.com\/igi\/HCaFLCebsLXorNHp.mini",
+      "thumbnail":"https:\/\/guide-images.cdn.ifixit.com\/igi\/HCaFLCebsLXorNHp.thumbnail",
+      "140x105":"https:\/\/guide-images.cdn.ifixit.com\/igi\/HCaFLCebsLXorNHp.140x105",
+      "200x150":"https:\/\/guide-images.cdn.ifixit.com\/igi\/HCaFLCebsLXorNHp.200x150",
+      "standard":"https:\/\/guide-images.cdn.ifixit.com\/igi\/HCaFLCebsLXorNHp.standard",
+      "440x330":"https:\/\/guide-images.cdn.ifixit.com\/igi\/HCaFLCebsLXorNHp.440x330",
+      "medium":"https:\/\/guide-images.cdn.ifixit.com\/igi\/HCaFLCebsLXorNHp.medium",
+      "large":"https:\/\/guide-images.cdn.ifixit.com\/igi\/HCaFLCebsLXorNHp.large",
+      "huge":"https:\/\/guide-images.cdn.ifixit.com\/igi\/HCaFLCebsLXorNHp.huge",
+      "original":"https:\/\/guide-images.cdn.ifixit.com\/igi\/HCaFLCebsLXorNHp.full"
+   },
+   "introduction_raw":"Use this guide to replace a worn-out or dead battery in your Xiaomi Mi 9.\n\nIf your battery is swollen, [[What to do with a swollen battery|take appropriate precautions|new_window=true]]. For your safety, '''discharge your battery below 25%''' before disassembling your phone.\u00a0This reduces the risk of a dangerous thermal event if the battery is accidentally damaged during the repair.\n\nAlthough it\u2019s possible to remove the battery without removing the loudspeaker unit we recommend doing so to make the removal procedure easier.\n\nYou\u2019ll need '''replacement adhesive''' to reattach components when reassembling the device.",
+   "introduction_rendered":"<p>Use this guide to replace a worn-out or dead battery in your Xiaomi Mi 9.<\/p>\n\n<p>If your battery is swollen, <a href=\"https:\/\/www.ifixit.com\/Wiki\/What_to_do_with_a_swollen_battery\" target=\"_blank\">take appropriate precautions<\/a>. For your safety, <strong>discharge your battery below 25%<\/strong> before disassembling your phone.\u00a0This reduces the risk of a dangerous thermal event if the battery is accidentally damaged during the repair.<\/p>\n\n<p>Although it\u2019s possible to remove the battery without removing the loudspeaker unit we recommend doing so to make the removal procedure easier.<\/p>\n\n<p>You\u2019ll need <strong>replacement adhesive<\/strong> to reattach components when reassembling the device.<\/p>",
+   "featured_document_embed_url":"",
+   "featured_document_thumbnail_url":"",
+   "locale":"en",
+   "parts":[
+      {
+         "text":"Xiaomi Mi 9 Replacement Battery",
+         "notes":null,
+         "type":"",
+         "quantity":1,
+         "url":"https:\/\/eustore.ifixit.com\/products\/xiaomi-mi-9-replacement-battery",
+         "thumbnail":"https:\/\/cart-products.cdn.ifixit.com\/cart-products\/FATYjHHCvixYfqoG.thumbnail"
+      }
+   ],
+   "prerequisites":[
+      {
+         "dataType":"guide",
+         "guideid":125702,
+         "locale":"en",
+         "revisionid":1439627,
+         "modified_date":1624463220,
+         "prereq_modified_date":0,
+         "url":"https:\/\/www.ifixit.com\/Guide\/Xiaomi+Mi+9+Rear+Glass+Replacement\/125702",
+         "type":"replacement",
+         "category":"Xiaomi Mi 9",
+         "subject":"Rear Glass",
+         "title":"Xiaomi Mi 9 Rear Glass Replacement",
+         "summary":"This guide shows how to remove or replace the rear glass of the Xiaomi Mi 9.",
+         "difficulty":"Moderate",
+         "time_required_max":1800,
+         "public":true,
+         "userid":1800598,
+         "username":"Dominik Schnabelrauch",
+         "flags":[
+            
+         ],
+         "image":{
+            "id":1839068,
+            "guid":"1uayFPpqZNR63qwW",
+            "mini":"https:\/\/guide-images.cdn.ifixit.com\/igi\/1uayFPpqZNR63qwW.mini",
+            "thumbnail":"https:\/\/guide-images.cdn.ifixit.com\/igi\/1uayFPpqZNR63qwW.thumbnail",
+            "140x105":"https:\/\/guide-images.cdn.ifixit.com\/igi\/1uayFPpqZNR63qwW.140x105",
+            "200x150":"https:\/\/guide-images.cdn.ifixit.com\/igi\/1uayFPpqZNR63qwW.200x150",
+            "standard":"https:\/\/guide-images.cdn.ifixit.com\/igi\/1uayFPpqZNR63qwW.standard",
+            "440x330":"https:\/\/guide-images.cdn.ifixit.com\/igi\/1uayFPpqZNR63qwW.440x330",
+            "medium":"https:\/\/guide-images.cdn.ifixit.com\/igi\/1uayFPpqZNR63qwW.medium",
+            "large":"https:\/\/guide-images.cdn.ifixit.com\/igi\/1uayFPpqZNR63qwW.large",
+            "huge":"https:\/\/guide-images.cdn.ifixit.com\/igi\/1uayFPpqZNR63qwW.huge",
+            "original":"https:\/\/guide-images.cdn.ifixit.com\/igi\/1uayFPpqZNR63qwW.full"
+         }
+      },
+      {
+         "dataType":"guide",
+         "guideid":125703,
+         "locale":"en",
+         "revisionid":1439636,
+         "modified_date":1629372109,
+         "prereq_modified_date":1624463220,
+         "url":"https:\/\/www.ifixit.com\/Guide\/Xiaomi+Mi+9+Motherboard+Cover+with+Charging+Coil+-+NFC+Replacement\/125703",
+         "type":"replacement",
+         "category":"Xiaomi Mi 9",
+         "subject":"Motherboard Cover with Charging Coil \/ NFC",
+         "title":"Xiaomi Mi 9 Motherboard Cover with Charging Coil \/ NFC Replacement",
+         "summary":"Use this guide to remove or to replace the motherboard cover including the charging coil \/ NFC antenna in the Xiaomi Mi 9.",
+         "difficulty":"Moderate",
+         "time_required_max":2400,
+         "public":true,
+         "userid":1800598,
+         "username":"Dominik Schnabelrauch",
+         "flags":[
+            
+         ],
+         "image":{
+            "id":1839660,
+            "guid":"bBACmwrejEKrwAFF",
+            "mini":"https:\/\/guide-images.cdn.ifixit.com\/igi\/bBACmwrejEKrwAFF.mini",
+            "thumbnail":"https:\/\/guide-images.cdn.ifixit.com\/igi\/bBACmwrejEKrwAFF.thumbnail",
+            "140x105":"https:\/\/guide-images.cdn.ifixit.com\/igi\/bBACmwrejEKrwAFF.140x105",
+            "200x150":"https:\/\/guide-images.cdn.ifixit.com\/igi\/bBACmwrejEKrwAFF.200x150",
+            "standard":"https:\/\/guide-images.cdn.ifixit.com\/igi\/bBACmwrejEKrwAFF.standard",
+            "440x330":"https:\/\/guide-images.cdn.ifixit.com\/igi\/bBACmwrejEKrwAFF.440x330",
+            "medium":"https:\/\/guide-images.cdn.ifixit.com\/igi\/bBACmwrejEKrwAFF.medium",
+            "large":"https:\/\/guide-images.cdn.ifixit.com\/igi\/bBACmwrejEKrwAFF.large",
+            "huge":"https:\/\/guide-images.cdn.ifixit.com\/igi\/bBACmwrejEKrwAFF.huge",
+            "original":"https:\/\/guide-images.cdn.ifixit.com\/igi\/bBACmwrejEKrwAFF.full"
+         }
+      },
+      {
+         "dataType":"guide",
+         "guideid":125854,
+         "locale":"en",
+         "revisionid":1439640,
+         "modified_date":1609863149,
+         "prereq_modified_date":1629372109,
+         "url":"https:\/\/www.ifixit.com\/Guide\/Battery+Disconnect\/125854",
+         "type":"technique",
+         "category":"Xiaomi Mi 9",
+         "subject":"",
+         "title":"Battery Disconnect",
+         "summary":"prereq battery disconnect",
+         "difficulty":"Moderate",
+         "time_required_max":2400,
+         "public":true,
+         "userid":1800598,
+         "username":"Dominik Schnabelrauch",
+         "flags":[
+            "GUIDE_PREREQ_ONLY"
+         ],
+         "image":{
+            "id":1839146,
+            "guid":"vGPDyYoeFiqAJTD6",
+            "mini":"https:\/\/guide-images.cdn.ifixit.com\/igi\/vGPDyYoeFiqAJTD6.mini",
+            "thumbnail":"https:\/\/guide-images.cdn.ifixit.com\/igi\/vGPDyYoeFiqAJTD6.thumbnail",
+            "140x105":"https:\/\/guide-images.cdn.ifixit.com\/igi\/vGPDyYoeFiqAJTD6.140x105",
+            "200x150":"https:\/\/guide-images.cdn.ifixit.com\/igi\/vGPDyYoeFiqAJTD6.200x150",
+            "standard":"https:\/\/guide-images.cdn.ifixit.com\/igi\/vGPDyYoeFiqAJTD6.standard",
+            "440x330":"https:\/\/guide-images.cdn.ifixit.com\/igi\/vGPDyYoeFiqAJTD6.440x330",
+            "medium":"https:\/\/guide-images.cdn.ifixit.com\/igi\/vGPDyYoeFiqAJTD6.medium",
+            "large":"https:\/\/guide-images.cdn.ifixit.com\/igi\/vGPDyYoeFiqAJTD6.large",
+            "huge":"https:\/\/guide-images.cdn.ifixit.com\/igi\/vGPDyYoeFiqAJTD6.huge",
+            "original":"https:\/\/guide-images.cdn.ifixit.com\/igi\/vGPDyYoeFiqAJTD6.full"
+         }
+      },
+      {
+         "dataType":"guide",
+         "guideid":125862,
+         "locale":"en",
+         "revisionid":1439648,
+         "modified_date":1624463261,
+         "prereq_modified_date":1629372109,
+         "url":"https:\/\/www.ifixit.com\/Guide\/Xiaomi+Mi+9+Loudspeaker+Unit+Replacement\/125862",
+         "type":"replacement",
+         "category":"Xiaomi Mi 9",
+         "subject":"Loudspeaker Unit",
+         "title":"Xiaomi Mi 9 Loudspeaker Unit Replacement",
+         "summary":"This guide shows how to remove or replace a malfunctioning or defective loudspeaker unit in the Xiaomi Mi 9.",
+         "difficulty":"Moderate",
+         "time_required_max":2700,
+         "public":true,
+         "userid":1800598,
+         "username":"Dominik Schnabelrauch",
+         "flags":[
+            
+         ],
+         "image":{
+            "id":1839705,
+            "guid":"SdM3E2LV4NwVcUVM",
+            "mini":"https:\/\/guide-images.cdn.ifixit.com\/igi\/SdM3E2LV4NwVcUVM.mini",
+            "thumbnail":"https:\/\/guide-images.cdn.ifixit.com\/igi\/SdM3E2LV4NwVcUVM.thumbnail",
+            "140x105":"https:\/\/guide-images.cdn.ifixit.com\/igi\/SdM3E2LV4NwVcUVM.140x105",
+            "200x150":"https:\/\/guide-images.cdn.ifixit.com\/igi\/SdM3E2LV4NwVcUVM.200x150",
+            "standard":"https:\/\/guide-images.cdn.ifixit.com\/igi\/SdM3E2LV4NwVcUVM.standard",
+            "440x330":"https:\/\/guide-images.cdn.ifixit.com\/igi\/SdM3E2LV4NwVcUVM.440x330",
+            "medium":"https:\/\/guide-images.cdn.ifixit.com\/igi\/SdM3E2LV4NwVcUVM.medium",
+            "large":"https:\/\/guide-images.cdn.ifixit.com\/igi\/SdM3E2LV4NwVcUVM.large",
+            "huge":"https:\/\/guide-images.cdn.ifixit.com\/igi\/SdM3E2LV4NwVcUVM.huge",
+            "original":"https:\/\/guide-images.cdn.ifixit.com\/igi\/SdM3E2LV4NwVcUVM.full"
+         }
+      }
+   ],
+   "steps":[
+      {
+         "title":"Rear Glass",
+         "lines":[
+            {
+               "text_raw":"Before you begin, switch off your phone.",
+               "bullet":"black",
+               "level":0,
+               "lineid":null,
+               "text_rendered":"Before you begin, switch off your phone."
+            },
+            {
+               "text_raw":"Apply a [https:\/\/www.ifixit.com\/Guide\/iOpener+Heating\/25705|heated iOpener] to the rear glass to loosen the adhesive beneath the edges. Apply the iOpener for at least two minutes.",
+               "bullet":"black",
+               "level":0,
+               "lineid":null,
+               "text_rendered":"Apply a <a href=\"https:\/\/www.ifixit.com\/Guide\/iOpener+Heating\/25705\">heated iOpener<\/a> to the rear glass to loosen the adhesive beneath the edges. Apply the iOpener for at least two minutes."
+            }
+         ],
+         "guideid":125702,
+         "stepid":242992,
+         "orderby":1,
+         "revisionid":2291303,
+         "media":{
+            "type":"image",
+            "data":[
+               {
+                  "id":1835620,
+                  "guid":"2RPRexuBjPIWdChg",
+                  "mini":"https:\/\/guide-images.cdn.ifixit.com\/igi\/2RPRexuBjPIWdChg.mini",
+                  "thumbnail":"https:\/\/guide-images.cdn.ifixit.com\/igi\/2RPRexuBjPIWdChg.thumbnail",
+                  "140x105":"https:\/\/guide-images.cdn.ifixit.com\/igi\/2RPRexuBjPIWdChg.140x105",
+                  "200x150":"https:\/\/guide-images.cdn.ifixit.com\/igi\/2RPRexuBjPIWdChg.200x150",
+                  "standard":"https:\/\/guide-images.cdn.ifixit.com\/igi\/2RPRexuBjPIWdChg.standard",
+                  "440x330":"https:\/\/guide-images.cdn.ifixit.com\/igi\/2RPRexuBjPIWdChg.440x330",
+                  "medium":"https:\/\/guide-images.cdn.ifixit.com\/igi\/2RPRexuBjPIWdChg.medium",
+                  "large":"https:\/\/guide-images.cdn.ifixit.com\/igi\/2RPRexuBjPIWdChg.large",
+                  "huge":"https:\/\/guide-images.cdn.ifixit.com\/igi\/2RPRexuBjPIWdChg.huge",
+                  "original":"https:\/\/guide-images.cdn.ifixit.com\/igi\/2RPRexuBjPIWdChg.full"
+               }
+            ]
+         },
+         "comments":[
+            
+         ]
+      },
+      {
+         "title":"",
+         "lines":[
+            {
+               "text_raw":"Secure a suction handle to the lower edge of the rear glass, as close to the edge as possible.",
+               "bullet":"black",
+               "level":0,
+               "lineid":null,
+               "text_rendered":"Secure a suction handle to the lower edge of the rear glass, as close to the edge as possible."
+            },
+            {
+               "text_raw":"If the phone's rear glass is cracked, the suction handle may not stick. Try [https:\/\/d3nevzfk7ii3be.cloudfront.net\/igi\/4MmKE22Cy2MavVZU|lifting it with strong tape|new_window=true], or superglue the suction handle in place and allow it to cure so you can proceed.",
+               "bullet":"icon_note",
+               "level":1,
+               "lineid":null,
+               "text_rendered":"If the phone's rear glass is cracked, the suction handle may not stick. Try <a href=\"https:\/\/d3nevzfk7ii3be.cloudfront.net\/igi\/4MmKE22Cy2MavVZU\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">lifting it with strong tape<\/a>, or superglue the suction handle in place and allow it to cure so you can proceed."
+            },
+            {
+               "text_raw":"Lift the rear glass with the suction handle to create a gap between the glass and the frame.",
+               "bullet":"black",
+               "level":0,
+               "lineid":null,
+               "text_rendered":"Lift the rear glass with the suction handle to create a gap between the glass and the frame."
+            },
+            {
+               "text_raw":"Insert an opening pick into the gap.",
+               "bullet":"black",
+               "level":0,
+               "lineid":null,
+               "text_rendered":"Insert an opening pick into the gap."
+            },
+            {
+               "text_raw":"If you have trouble, apply more heat to further soften the adhesive. Follow the iOpener instructions to avoid overheating.",
+               "bullet":"icon_note",
+               "level":1,
+               "lineid":null,
+               "text_rendered":"If you have trouble, apply more heat to further soften the adhesive. Follow the iOpener instructions to avoid overheating."
+            },
+            {
+               "text_raw":"Slide the opening pick to the bottom right corner of the phone.",
+               "bullet":"black",
+               "level":0,
+               "lineid":null,
+               "text_rendered":"Slide the opening pick to the bottom right corner of the phone."
+            }
+         ],
+         "guideid":125702,
+         "stepid":242986,
+         "orderby":2,
+         "revisionid":2294182,
+         "media":{
+            "type":"image",
+            "data":[
+               {
+                  "id":1835600,
+                  "guid":"pHrmswE1VaXX6y5L",
+                  "mini":"https:\/\/guide-images.cdn.ifixit.com\/igi\/pHrmswE1VaXX6y5L.mini",
+                  "thumbnail":"https:\/\/guide-images.cdn.ifixit.com\/igi\/pHrmswE1VaXX6y5L.thumbnail",
+                  "140x105":"https:\/\/guide-images.cdn.ifixit.com\/igi\/pHrmswE1VaXX6y5L.140x105",
+                  "200x150":"https:\/\/guide-images.cdn.ifixit.com\/igi\/pHrmswE1VaXX6y5L.200x150",
+                  "standard":"https:\/\/guide-images.cdn.ifixit.com\/igi\/pHrmswE1VaXX6y5L.standard",
+                  "440x330":"https:\/\/guide-images.cdn.ifixit.com\/igi\/pHrmswE1VaXX6y5L.440x330",
+                  "medium":"https:\/\/guide-images.cdn.ifixit.com\/igi\/pHrmswE1VaXX6y5L.medium",
+                  "large":"https:\/\/guide-images.cdn.ifixit.com\/igi\/pHrmswE1VaXX6y5L.large",
+                  "huge":"https:\/\/guide-images.cdn.ifixit.com\/igi\/pHrmswE1VaXX6y5L.huge",
+                  "original":"https:\/\/guide-images.cdn.ifixit.com\/igi\/pHrmswE1VaXX6y5L.full"
+               },
+               {
+                  "id":1835594,
+                  "guid":"JCsSSrKRDLRSFMOx",
+                  "mini":"https:\/\/guide-images.cdn.ifixit.com\/igi\/JCsSSrKRDLRSFMOx.mini",
+                  "thumbnail":"https:\/\/guide-images.cdn.ifixit.com\/igi\/JCsSSrKRDLRSFMOx.thumbnail",
+                  "140x105":"https:\/\/guide-images.cdn.ifixit.com\/igi\/JCsSSrKRDLRSFMOx.140x105",
+                  "200x150":"https:\/\/guide-images.cdn.ifixit.com\/igi\/JCsSSrKRDLRSFMOx.200x150",
+                  "standard":"https:\/\/guide-images.cdn.ifixit.com\/igi\/JCsSSrKRDLRSFMOx.standard",
+                  "440x330":"https:\/\/guide-images.cdn.ifixit.com\/igi\/JCsSSrKRDLRSFMOx.440x330",
+                  "medium":"https:\/\/guide-images.cdn.ifixit.com\/igi\/JCsSSrKRDLRSFMOx.medium",
+                  "large":"https:\/\/guide-images.cdn.ifixit.com\/igi\/JCsSSrKRDLRSFMOx.large",
+                  "huge":"https:\/\/guide-images.cdn.ifixit.com\/igi\/JCsSSrKRDLRSFMOx.huge",
+                  "original":"https:\/\/guide-images.cdn.ifixit.com\/igi\/JCsSSrKRDLRSFMOx.full"
+               },
+               {
+                  "id":1835595,
+                  "guid":"JsggSKUOPjVxkAdJ",
+                  "mini":"https:\/\/guide-images.cdn.ifixit.com\/igi\/JsggSKUOPjVxkAdJ.mini",
+                  "thumbnail":"https:\/\/guide-images.cdn.ifixit.com\/igi\/JsggSKUOPjVxkAdJ.thumbnail",
+                  "140x105":"https:\/\/guide-images.cdn.ifixit.com\/igi\/JsggSKUOPjVxkAdJ.140x105",
+                  "200x150":"https:\/\/guide-images.cdn.ifixit.com\/igi\/JsggSKUOPjVxkAdJ.200x150",
+                  "standard":"https:\/\/guide-images.cdn.ifixit.com\/igi\/JsggSKUOPjVxkAdJ.standard",
+                  "440x330":"https:\/\/guide-images.cdn.ifixit.com\/igi\/JsggSKUOPjVxkAdJ.440x330",
+                  "medium":"https:\/\/guide-images.cdn.ifixit.com\/igi\/JsggSKUOPjVxkAdJ.medium",
+                  "large":"https:\/\/guide-images.cdn.ifixit.com\/igi\/JsggSKUOPjVxkAdJ.large",
+                  "huge":"https:\/\/guide-images.cdn.ifixit.com\/igi\/JsggSKUOPjVxkAdJ.huge",
+                  "original":"https:\/\/guide-images.cdn.ifixit.com\/igi\/JsggSKUOPjVxkAdJ.full"
+               }
+            ]
+         },
+         "comments":[
+            
+         ]
+      },
+      {
+         "title":"",
+         "lines":[
+            {
+               "text_raw":"Insert a second opening pick and slide it to the bottom left corner  to cut the adhesive.",
+               "bullet":"black",
+               "level":0,
+               "lineid":null,
+               "text_rendered":"Insert a second opening pick and slide it to the bottom left corner  to cut the adhesive."
+            },
+            {
+               "text_raw":"Leave the opening picks in place to prevent the adhesive from resealing.",
+               "bullet":"black",
+               "level":0,
+               "lineid":null,
+               "text_rendered":"Leave the opening picks in place to prevent the adhesive from resealing."
+            }
+         ],
+         "guideid":125702,
+         "stepid":242987,
+         "orderby":3,
+         "revisionid":2289561,
+         "media":{
+            "type":"image",
+            "data":[
+               {
+                  "id":1835606,
+                  "guid":"yTF5uO4KbDSCtQxr",
+                  "mini":"https:\/\/guide-images.cdn.ifixit.com\/igi\/yTF5uO4KbDSCtQxr.mini",
+                  "thumbnail":"https:\/\/guide-images.cdn.ifixit.com\/igi\/yTF5uO4KbDSCtQxr.thumbnail",
+                  "140x105":"https:\/\/guide-images.cdn.ifixit.com\/igi\/yTF5uO4KbDSCtQxr.140x105",
+                  "200x150":"https:\/\/guide-images.cdn.ifixit.com\/igi\/yTF5uO4KbDSCtQxr.200x150",
+                  "standard":"https:\/\/guide-images.cdn.ifixit.com\/igi\/yTF5uO4KbDSCtQxr.standard",
+                  "440x330":"https:\/\/guide-images.cdn.ifixit.com\/igi\/yTF5uO4KbDSCtQxr.440x330",
+                  "medium":"https:\/\/guide-images.cdn.ifixit.com\/igi\/yTF5uO4KbDSCtQxr.medium",
+                  "large":"https:\/\/guide-images.cdn.ifixit.com\/igi\/yTF5uO4KbDSCtQxr.large",
+                  "huge":"https:\/\/guide-images.cdn.ifixit.com\/igi\/yTF5uO4KbDSCtQxr.huge",
+                  "original":"https:\/\/guide-images.cdn.ifixit.com\/igi\/yTF5uO4KbDSCtQxr.full"
+               },
+               {
+                  "id":1835604,
+                  "guid":"rYeWYEhMZtGA43EY",
+                  "mini":"https:\/\/guide-images.cdn.ifixit.com\/igi\/rYeWYEhMZtGA43EY.mini",
+                  "thumbnail":"https:\/\/guide-images.cdn.ifixit.com\/igi\/rYeWYEhMZtGA43EY.thumbnail",
+                  "140x105":"https:\/\/guide-images.cdn.ifixit.com\/igi\/rYeWYEhMZtGA43EY.140x105",
+                  "200x150":"https:\/\/guide-images.cdn.ifixit.com\/igi\/rYeWYEhMZtGA43EY.200x150",
+                  "standard":"https:\/\/guide-images.cdn.ifixit.com\/igi\/rYeWYEhMZtGA43EY.standard",
+                  "440x330":"https:\/\/guide-images.cdn.ifixit.com\/igi\/rYeWYEhMZtGA43EY.440x330",
+                  "medium":"https:\/\/guide-images.cdn.ifixit.com\/igi\/rYeWYEhMZtGA43EY.medium",
+                  "large":"https:\/\/guide-images.cdn.ifixit.com\/igi\/rYeWYEhMZtGA43EY.large",
+                  "huge":"https:\/\/guide-images.cdn.ifixit.com\/igi\/rYeWYEhMZtGA43EY.huge",
+                  "original":"https:\/\/guide-images.cdn.ifixit.com\/igi\/rYeWYEhMZtGA43EY.full"
+               }
+            ]
+         },
+         "comments":[
+            
+         ]
+      },
+      {
+         "title":"",
+         "lines":[
+            {
+               "text_raw":"Insert a third opening pick at the bottom left corner.",
+               "bullet":"black",
+               "level":0,
+               "lineid":null,
+               "text_rendered":"Insert a third opening pick at the bottom left corner."
+            },
+            {
+               "text_raw":"Start to slide the opening pick from the bottom left corner along the side of the Xiaomi Mi 9 to cut the adhesive.",
+               "bullet":"black",
+               "level":0,
+               "lineid":null,
+               "text_rendered":"Start to slide the opening pick from the bottom left corner along the side of the Xiaomi Mi 9 to cut the adhesive."
+            },
+            {
+               "text_raw":"Be aware of the rear cameras and only insert the tip of the opening pick. As the adhesive cools down it gets harder to cut. If necessary [https:\/\/www.ifixit.com\/Guide\/iOpener+Heating\/25705|new_window=true|use your iOpener] to reheat it.",
+               "bullet":"icon_note",
+               "level":1,
+               "lineid":null,
+               "text_rendered":"Be aware of the rear cameras and only insert the tip of the opening pick. As the adhesive cools down it gets harder to cut. If necessary <a href=\"https:\/\/www.ifixit.com\/Guide\/iOpener+Heating\/25705\" target=\"_blank\">use your iOpener<\/a> to reheat it."
+            },
+            {
+               "text_raw":"Leave the opening pick in the top left corner to prevent the adhesive from resealing.",
+               "bullet":"black",
+               "level":0,
+               "lineid":null,
+               "text_rendered":"Leave the opening pick in the top left corner to prevent the adhesive from resealing."
+            }
+         ],
+         "guideid":125702,
+         "stepid":242988,
+         "orderby":4,
+         "revisionid":2294190,
+         "media":{
+            "type":"image",
+            "data":[
+               {
+                  "id":1835605,
+                  "guid":"De6lobZdtIArYytf",
+                  "mini":"https:\/\/guide-images.cdn.ifixit.com\/igi\/De6lobZdtIArYytf.mini",
+                  "thumbnail":"https:\/\/guide-images.cdn.ifixit.com\/igi\/De6lobZdtIArYytf.thumbnail",
+                  "140x105":"https:\/\/guide-images.cdn.ifixit.com\/igi\/De6lobZdtIArYytf.140x105",
+                  "200x150":"https:\/\/guide-images.cdn.ifixit.com\/igi\/De6lobZdtIArYytf.200x150",
+                  "standard":"https:\/\/guide-images.cdn.ifixit.com\/igi\/De6lobZdtIArYytf.standard",
+                  "440x330":"https:\/\/guide-images.cdn.ifixit.com\/igi\/De6lobZdtIArYytf.440x330",
+                  "medium":"https:\/\/guide-images.cdn.ifixit.com\/igi\/De6lobZdtIArYytf.medium",
+                  "large":"https:\/\/guide-images.cdn.ifixit.com\/igi\/De6lobZdtIArYytf.large",
+                  "huge":"https:\/\/guide-images.cdn.ifixit.com\/igi\/De6lobZdtIArYytf.huge",
+                  "original":"https:\/\/guide-images.cdn.ifixit.com\/igi\/De6lobZdtIArYytf.full"
+               },
+               {
+                  "id":1835607,
+                  "guid":"RNNXc4fC43CyJOrL",
+                  "mini":"https:\/\/guide-images.cdn.ifixit.com\/igi\/RNNXc4fC43CyJOrL.mini",
+                  "thumbnail":"https:\/\/guide-images.cdn.ifixit.com\/igi\/RNNXc4fC43CyJOrL.thumbnail",
+                  "140x105":"https:\/\/guide-images.cdn.ifixit.com\/igi\/RNNXc4fC43CyJOrL.140x105",
+                  "200x150":"https:\/\/guide-images.cdn.ifixit.com\/igi\/RNNXc4fC43CyJOrL.200x150",
+                  "standard":"https:\/\/guide-images.cdn.ifixit.com\/igi\/RNNXc4fC43CyJOrL.standard",
+                  "440x330":"https:\/\/guide-images.cdn.ifixit.com\/igi\/RNNXc4fC43CyJOrL.440x330",
+                  "medium":"https:\/\/guide-images.cdn.ifixit.com\/igi\/RNNXc4fC43CyJOrL.medium",
+                  "large":"https:\/\/guide-images.cdn.ifixit.com\/igi\/RNNXc4fC43CyJOrL.large",
+                  "huge":"https:\/\/guide-images.cdn.ifixit.com\/igi\/RNNXc4fC43CyJOrL.huge",
+                  "original":"https:\/\/guide-images.cdn.ifixit.com\/igi\/RNNXc4fC43CyJOrL.full"
+               },
+               {
+                  "id":1835603,
+                  "guid":"aUnMdDfOZ3OU2MRa",
+                  "mini":"https:\/\/guide-images.cdn.ifixit.com\/igi\/aUnMdDfOZ3OU2MRa.mini",
+                  "thumbnail":"https:\/\/guide-images.cdn.ifixit.com\/igi\/aUnMdDfOZ3OU2MRa.thumbnail",
+                  "140x105":"https:\/\/guide-images.cdn.ifixit.com\/igi\/aUnMdDfOZ3OU2MRa.140x105",
+                  "200x150":"https:\/\/guide-images.cdn.ifixit.com\/igi\/aUnMdDfOZ3OU2MRa.200x150",
+                  "standard":"https:\/\/guide-images.cdn.ifixit.com\/igi\/aUnMdDfOZ3OU2MRa.standard",
+                  "440x330":"https:\/\/guide-images.cdn.ifixit.com\/igi\/aUnMdDfOZ3OU2MRa.440x330",
+                  "medium":"https:\/\/guide-images.cdn.ifixit.com\/igi\/aUnMdDfOZ3OU2MRa.medium",
+                  "large":"https:\/\/guide-images.cdn.ifixit.com\/igi\/aUnMdDfOZ3OU2MRa.large",
+                  "huge":"https:\/\/guide-images.cdn.ifixit.com\/igi\/aUnMdDfOZ3OU2MRa.huge",
+                  "original":"https:\/\/guide-images.cdn.ifixit.com\/igi\/aUnMdDfOZ3OU2MRa.full"
+               }
+            ]
+         },
+         "comments":[
+            
+         ]
+      },
+      {
+         "title":"",
+         "lines":[
+            {
+               "text_raw":"Insert a fourth opening pick under the top left corner of the rear glass.",
+               "bullet":"black",
+               "level":0,
+               "lineid":null,
+               "text_rendered":"Insert a fourth opening pick under the top left corner of the rear glass."
+            },
+            {
+               "text_raw":"Slide the opening pick along the top to cut the adhesive.",
+               "bullet":"black",
+               "level":0,
+               "lineid":null,
+               "text_rendered":"Slide the opening pick along the top to cut the adhesive."
+            },
+            {
+               "text_raw":"Leave the opening pick in the top right corner to prevent the adhesive from resealing.",
+               "bullet":"black",
+               "level":0,
+               "lineid":null,
+               "text_rendered":"Leave the opening pick in the top right corner to prevent the adhesive from resealing."
+            }
+         ],
+         "guideid":125702,
+         "stepid":242989,
+         "orderby":5,
+         "revisionid":2294207,
+         "media":{
+            "type":"image",
+            "data":[
+               {
+                  "id":1835602,
+                  "guid":"EdK4WnqgJwetyrxm",
+                  "mini":"https:\/\/guide-images.cdn.ifixit.com\/igi\/EdK4WnqgJwetyrxm.mini",
+                  "thumbnail":"https:\/\/guide-images.cdn.ifixit.com\/igi\/EdK4WnqgJwetyrxm.thumbnail",
+                  "140x105":"https:\/\/guide-images.cdn.ifixit.com\/igi\/EdK4WnqgJwetyrxm.140x105",
+                  "200x150":"https:\/\/guide-images.cdn.ifixit.com\/igi\/EdK4WnqgJwetyrxm.200x150",
+                  "standard":"https:\/\/guide-images.cdn.ifixit.com\/igi\/EdK4WnqgJwetyrxm.standard",
+                  "440x330":"https:\/\/guide-images.cdn.ifixit.com\/igi\/EdK4WnqgJwetyrxm.440x330",
+                  "medium":"https:\/\/guide-images.cdn.ifixit.com\/igi\/EdK4WnqgJwetyrxm.medium",
+                  "large":"https:\/\/guide-images.cdn.ifixit.com\/igi\/EdK4WnqgJwetyrxm.large",
+                  "huge":"https:\/\/guide-images.cdn.ifixit.com\/igi\/EdK4WnqgJwetyrxm.huge",
+                  "original":"https:\/\/guide-images.cdn.ifixit.com\/igi\/EdK4WnqgJwetyrxm.full"
+               },
+               {
+                  "id":1835609,
+                  "guid":"brmSZantnTEZBHqb",
+                  "mini":"https:\/\/guide-images.cdn.ifixit.com\/igi\/brmSZantnTEZBHqb.mini",
+                  "thumbnail":"https:\/\/guide-images.cdn.ifixit.com\/igi\/brmSZantnTEZBHqb.thumbnail",
+                  "140x105":"https:\/\/guide-images.cdn.ifixit.com\/igi\/brmSZantnTEZBHqb.140x105",
+                  "200x150":"https:\/\/guide-images.cdn.ifixit.com\/igi\/brmSZantnTEZBHqb.200x150",
+                  "standard":"https:\/\/guide-images.cdn.ifixit.com\/igi\/brmSZantnTEZBHqb.standard",
+                  "440x330":"https:\/\/guide-images.cdn.ifixit.com\/igi\/brmSZantnTEZBHqb.440x330",
+                  "medium":"https:\/\/guide-images.cdn.ifixit.com\/igi\/brmSZantnTEZBHqb.medium",
+                  "large":"https:\/\/guide-images.cdn.ifixit.com\/igi\/brmSZantnTEZBHqb.large",
+                  "huge":"https:\/\/guide-images.cdn.ifixit.com\/igi\/brmSZantnTEZBHqb.huge",
+                  "original":"https:\/\/guide-images.cdn.ifixit.com\/igi\/brmSZantnTEZBHqb.full"
+               }
+            ]
+         },
+         "comments":[
+            
+         ]
+      },
+      {
+         "title":"",
+         "lines":[
+            {
+               "text_raw":"Insert a fifth opening pick at the top right corner of the phone.",
+               "bullet":"black",
+               "level":0,
+               "lineid":null,
+               "text_rendered":"Insert a fifth opening pick at the top right corner of the phone."
+            },
+            {
+               "text_raw":"Slide the opening pick along the right edge to cut the remaining adhesive.",
+               "bullet":"black",
+               "level":0,
+               "lineid":null,
+               "text_rendered":"Slide the opening pick along the right edge to cut the remaining adhesive."
+            }
+         ],
+         "guideid":125702,
+         "stepid":242990,
+         "orderby":6,
+         "revisionid":2291302,
+         "media":{
+            "type":"image",
+            "data":[
+               {
+                  "id":1835599,
+                  "guid":"e3BnipEoxkinOCOT",
+                  "mini":"https:\/\/guide-images.cdn.ifixit.com\/igi\/e3BnipEoxkinOCOT.mini",
+                  "thumbnail":"https:\/\/guide-images.cdn.ifixit.com\/igi\/e3BnipEoxkinOCOT.thumbnail",
+                  "140x105":"https:\/\/guide-images.cdn.ifixit.com\/igi\/e3BnipEoxkinOCOT.140x105",
+                  "200x150":"https:\/\/guide-images.cdn.ifixit.com\/igi\/e3BnipEoxkinOCOT.200x150",
+                  "standard":"https:\/\/guide-images.cdn.ifixit.com\/igi\/e3BnipEoxkinOCOT.standard",
+                  "440x330":"https:\/\/guide-images.cdn.ifixit.com\/igi\/e3BnipEoxkinOCOT.440x330",
+                  "medium":"https:\/\/guide-images.cdn.ifixit.com\/igi\/e3BnipEoxkinOCOT.medium",
+                  "large":"https:\/\/guide-images.cdn.ifixit.com\/igi\/e3BnipEoxkinOCOT.large",
+                  "huge":"https:\/\/guide-images.cdn.ifixit.com\/igi\/e3BnipEoxkinOCOT.huge",
+                  "original":"https:\/\/guide-images.cdn.ifixit.com\/igi\/e3BnipEoxkinOCOT.full"
+               },
+               {
+                  "id":1835598,
+                  "guid":"sTOsqiG5sWBiHQyk",
+                  "mini":"https:\/\/guide-images.cdn.ifixit.com\/igi\/sTOsqiG5sWBiHQyk.mini",
+                  "thumbnail":"https:\/\/guide-images.cdn.ifixit.com\/igi\/sTOsqiG5sWBiHQyk.thumbnail",
+                  "140x105":"https:\/\/guide-images.cdn.ifixit.com\/igi\/sTOsqiG5sWBiHQyk.140x105",
+                  "200x150":"https:\/\/guide-images.cdn.ifixit.com\/igi\/sTOsqiG5sWBiHQyk.200x150",
+                  "standard":"https:\/\/guide-images.cdn.ifixit.com\/igi\/sTOsqiG5sWBiHQyk.standard",
+                  "440x330":"https:\/\/guide-images.cdn.ifixit.com\/igi\/sTOsqiG5sWBiHQyk.440x330",
+                  "medium":"https:\/\/guide-images.cdn.ifixit.com\/igi\/sTOsqiG5sWBiHQyk.medium",
+                  "large":"https:\/\/guide-images.cdn.ifixit.com\/igi\/sTOsqiG5sWBiHQyk.large",
+                  "huge":"https:\/\/guide-images.cdn.ifixit.com\/igi\/sTOsqiG5sWBiHQyk.huge",
+                  "original":"https:\/\/guide-images.cdn.ifixit.com\/igi\/sTOsqiG5sWBiHQyk.full"
+               }
+            ]
+         },
+         "comments":[
+            
+         ]
+      },
+      {
+         "title":"",
+         "lines":[
+            {
+               "text_raw":"Carefully lift the rear glass and remove it.",
+               "bullet":"black",
+               "level":0,
+               "lineid":null,
+               "text_rendered":"Carefully lift the rear glass and remove it."
+            },
+            {
+               "text_raw":"Before installing new adhesive and reassembly, remove any remaining adhesive from the phone, and clean the glued areas with isopropyl alcohol and a lint-free cloth.",
+               "bullet":"icon_reminder",
+               "level":0,
+               "lineid":null,
+               "text_rendered":"Before installing new adhesive and reassembly, remove any remaining adhesive from the phone, and clean the glued areas with isopropyl alcohol and a lint-free cloth."
+            }
+         ],
+         "guideid":125702,
+         "stepid":242991,
+         "orderby":7,
+         "revisionid":2294211,
+         "media":{
+            "type":"image",
+            "data":[
+               {
+                  "id":1835596,
+                  "guid":"gWvnIF6PPQUREMWB",
+                  "mini":"https:\/\/guide-images.cdn.ifixit.com\/igi\/gWvnIF6PPQUREMWB.mini",
+                  "thumbnail":"https:\/\/guide-images.cdn.ifixit.com\/igi\/gWvnIF6PPQUREMWB.thumbnail",
+                  "140x105":"https:\/\/guide-images.cdn.ifixit.com\/igi\/gWvnIF6PPQUREMWB.140x105",
+                  "200x150":"https:\/\/guide-images.cdn.ifixit.com\/igi\/gWvnIF6PPQUREMWB.200x150",
+                  "standard":"https:\/\/guide-images.cdn.ifixit.com\/igi\/gWvnIF6PPQUREMWB.standard",
+                  "440x330":"https:\/\/guide-images.cdn.ifixit.com\/igi\/gWvnIF6PPQUREMWB.440x330",
+                  "medium":"https:\/\/guide-images.cdn.ifixit.com\/igi\/gWvnIF6PPQUREMWB.medium",
+                  "large":"https:\/\/guide-images.cdn.ifixit.com\/igi\/gWvnIF6PPQUREMWB.large",
+                  "huge":"https:\/\/guide-images.cdn.ifixit.com\/igi\/gWvnIF6PPQUREMWB.huge",
+                  "original":"https:\/\/guide-images.cdn.ifixit.com\/igi\/gWvnIF6PPQUREMWB.full"
+               },
+               {
+                  "id":1835597,
+                  "guid":"Pxub5yuADPsnIoMO",
+                  "mini":"https:\/\/guide-images.cdn.ifixit.com\/igi\/Pxub5yuADPsnIoMO.mini",
+                  "thumbnail":"https:\/\/guide-images.cdn.ifixit.com\/igi\/Pxub5yuADPsnIoMO.thumbnail",
+                  "140x105":"https:\/\/guide-images.cdn.ifixit.com\/igi\/Pxub5yuADPsnIoMO.140x105",
+                  "200x150":"https:\/\/guide-images.cdn.ifixit.com\/igi\/Pxub5yuADPsnIoMO.200x150",
+                  "standard":"https:\/\/guide-images.cdn.ifixit.com\/igi\/Pxub5yuADPsnIoMO.standard",
+                  "440x330":"https:\/\/guide-images.cdn.ifixit.com\/igi\/Pxub5yuADPsnIoMO.440x330",
+                  "medium":"https:\/\/guide-images.cdn.ifixit.com\/igi\/Pxub5yuADPsnIoMO.medium",
+                  "large":"https:\/\/guide-images.cdn.ifixit.com\/igi\/Pxub5yuADPsnIoMO.large",
+                  "huge":"https:\/\/guide-images.cdn.ifixit.com\/igi\/Pxub5yuADPsnIoMO.huge",
+                  "original":"https:\/\/guide-images.cdn.ifixit.com\/igi\/Pxub5yuADPsnIoMO.full"
+               }
+            ]
+         },
+         "comments":[
+            
+         ]
+      },
+      {
+         "title":"Motherboard Cover with Charging Coil",
+         "lines":[
+            {
+               "text_raw":"Remove the ten Phillips #00 screws (3\u00a0mm length) that secure the motherboard cover.",
+               "bullet":"red",
+               "level":0,
+               "lineid":null,
+               "text_rendered":"Remove the ten Phillips #00 screws (3\u00a0mm length) that secure the motherboard cover."
+            },
+            {
+               "text_raw":"There might be tamper proof sticker on some of the screws.",
+               "bullet":"icon_note",
+               "level":1,
+               "lineid":null,
+               "text_rendered":"There might be tamper proof sticker on some of the screws."
+            }
+         ],
+         "guideid":125703,
+         "stepid":243106,
+         "orderby":1,
+         "revisionid":2335254,
+         "media":{
+            "type":"image",
+            "data":[
+               {
+                  "id":1847554,
+                  "guid":"mNPiTHVUA5iAGt1V",
+                  "mini":"https:\/\/guide-images.cdn.ifixit.com\/igi\/mNPiTHVUA5iAGt1V.mini",
+                  "thumbnail":"https:\/\/guide-images.cdn.ifixit.com\/igi\/mNPiTHVUA5iAGt1V.thumbnail",
+                  "140x105":"https:\/\/guide-images.cdn.ifixit.com\/igi\/mNPiTHVUA5iAGt1V.140x105",
+                  "200x150":"https:\/\/guide-images.cdn.ifixit.com\/igi\/mNPiTHVUA5iAGt1V.200x150",
+                  "standard":"https:\/\/guide-images.cdn.ifixit.com\/igi\/mNPiTHVUA5iAGt1V.standard",
+                  "440x330":"https:\/\/guide-images.cdn.ifixit.com\/igi\/mNPiTHVUA5iAGt1V.440x330",
+                  "medium":"https:\/\/guide-images.cdn.ifixit.com\/igi\/mNPiTHVUA5iAGt1V.medium",
+                  "large":"https:\/\/guide-images.cdn.ifixit.com\/igi\/mNPiTHVUA5iAGt1V.large",
+                  "huge":"https:\/\/guide-images.cdn.ifixit.com\/igi\/mNPiTHVUA5iAGt1V.huge",
+                  "original":"https:\/\/guide-images.cdn.ifixit.com\/igi\/mNPiTHVUA5iAGt1V.full"
+               }
+            ]
+         },
+         "comments":[
+            {
+               "commentid":673842,
+               "locale":"en",
+               "context":"step",
+               "contextid":243106,
+               "parentid":null,
+               "author":{
+                  "userid":553212,
+                  "username":"Jason Baginski",
+                  "unique_username":null,
+                  "join_date":1355277117,
+                  "image":{
+                     "id":213659,
+                     "guid":"dsVcFibaERkuKigB",
+                     "mini":"https:\/\/guide-images.cdn.ifixit.com\/igi\/dsVcFibaERkuKigB.mini",
+                     "thumbnail":"https:\/\/guide-images.cdn.ifixit.com\/igi\/dsVcFibaERkuKigB.thumbnail",
+                     "medium":"https:\/\/guide-images.cdn.ifixit.com\/igi\/dsVcFibaERkuKigB.medium",
+                     "original":"https:\/\/guide-images.cdn.ifixit.com\/igi\/dsVcFibaERkuKigB.full"
+                  },
+                  "reputation":1,
+                  "url":"https:\/\/www.ifixit.com\/User\/553212\/Jason+Baginski",
+                  "teams":[
+                     
+                  ]
+               },
+               "title":"Xiaomi Mi 9 Motherboard Cover with Charging Coil \/ NFC Replacement",
+               "text_raw":"Note, the Explorer\/Transparent edition does not use phillips #00 screws.",
+               "text_rendered":"<p>Note, the Explorer\/Transparent edition does not use phillips #00 screws.<\/p>",
+               "rating":0,
+               "date":1597963501,
+               "modified_date":1597963501,
+               "status":"public",
+               "replies":[
+                  {
+                     "commentid":675745,
+                     "locale":"en",
+                     "context":"step",
+                     "contextid":243106,
+                     "parentid":673842,
+                     "author":{
+                        "userid":553212,
+                        "username":"Jason Baginski",
+                        "unique_username":null,
+                        "join_date":1355277117,
+                        "image":{
+                           "id":213659,
+                           "guid":"dsVcFibaERkuKigB",
+                           "mini":"https:\/\/guide-images.cdn.ifixit.com\/igi\/dsVcFibaERkuKigB.mini",
+                           "thumbnail":"https:\/\/guide-images.cdn.ifixit.com\/igi\/dsVcFibaERkuKigB.thumbnail",
+                           "medium":"https:\/\/guide-images.cdn.ifixit.com\/igi\/dsVcFibaERkuKigB.medium",
+                           "original":"https:\/\/guide-images.cdn.ifixit.com\/igi\/dsVcFibaERkuKigB.full"
+                        },
+                        "reputation":1,
+                        "url":"https:\/\/www.ifixit.com\/User\/553212\/Jason+Baginski",
+                        "teams":[
+                           
+                        ]
+                     },
+                     "title":"Xiaomi Mi 9 Motherboard Cover with Charging Coil \/ NFC Replacement",
+                     "text_raw":"It uses 0.8mm star screws(P2 Pentalobe in the iFixIt store)",
+                     "text_rendered":"<p>It uses 0.8mm star screws(P2 Pentalobe in the iFixIt store)<\/p>",
+                     "rating":0,
+                     "date":1598557310,
+                     "modified_date":1598557310,
+                     "status":"public"
+                  },
+                  {
+                     "commentid":675866,
+                     "locale":"en",
+                     "context":"step",
+                     "contextid":243106,
+                     "parentid":673842,
+                     "author":{
+                        "userid":1800598,
+                        "username":"Dominik Schnabelrauch",
+                        "unique_username":"schnabel",
+                        "join_date":1479910175,
+                        "image":{
+                           "id":1242125,
+                           "guid":"2No6TI2o1ISyEGNP",
+                           "mini":"https:\/\/guide-images.cdn.ifixit.com\/igi\/2No6TI2o1ISyEGNP.mini",
+                           "thumbnail":"https:\/\/guide-images.cdn.ifixit.com\/igi\/2No6TI2o1ISyEGNP.thumbnail",
+                           "140x105":"https:\/\/guide-images.cdn.ifixit.com\/igi\/2No6TI2o1ISyEGNP.140x105",
+                           "200x150":"https:\/\/guide-images.cdn.ifixit.com\/igi\/2No6TI2o1ISyEGNP.200x150",
+                           "standard":"https:\/\/guide-images.cdn.ifixit.com\/igi\/2No6TI2o1ISyEGNP.standard",
+                           "440x330":"https:\/\/guide-images.cdn.ifixit.com\/igi\/2No6TI2o1ISyEGNP.440x330",
+                           "medium":"https:\/\/guide-images.cdn.ifixit.com\/igi\/2No6TI2o1ISyEGNP.medium",
+                           "original":"https:\/\/guide-images.cdn.ifixit.com\/igi\/2No6TI2o1ISyEGNP.full"
+                        },
+                        "reputation":102747,
+                        "url":"https:\/\/www.ifixit.com\/User\/1800598\/Dominik+Schnabelrauch",
+                        "teams":[
+                           1,
+                           4401,
+                           27740
+                        ]
+                     },
+                     "title":"Xiaomi Mi 9 Motherboard Cover with Charging Coil \/ NFC Replacement",
+                     "text_raw":"Thanks for mentioning Jason!",
+                     "text_rendered":"<p>Thanks for mentioning Jason!<\/p>",
+                     "rating":0,
+                     "date":1598599135,
+                     "modified_date":1598599135,
+                     "status":"public"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "title":"",
+         "lines":[
+            {
+               "text_raw":"Insert an opening pick at the top right corner of the motherboard cover.",
+               "bullet":"black",
+               "level":0,
+               "lineid":null,
+               "text_rendered":"Insert an opening pick at the top right corner of the motherboard cover."
+            },
+            {
+               "text_raw":"Twist the opening pick sideways to pry up and slightly lift the motherboard cover.",
+               "bullet":"black",
+               "level":0,
+               "lineid":null,
+               "text_rendered":"Twist the opening pick sideways to pry up and slightly lift the motherboard cover."
+            }
+         ],
+         "guideid":125703,
+         "stepid":243107,
+         "orderby":2,
+         "revisionid":2295072,
+         "media":{
+            "type":"image",
+            "data":[
+               {
+                  "id":1847565,
+                  "guid":"crEsbkOrfbeVBFyY",
+                  "mini":"https:\/\/guide-images.cdn.ifixit.com\/igi\/crEsbkOrfbeVBFyY.mini",
+                  "thumbnail":"https:\/\/guide-images.cdn.ifixit.com\/igi\/crEsbkOrfbeVBFyY.thumbnail",
+                  "140x105":"https:\/\/guide-images.cdn.ifixit.com\/igi\/crEsbkOrfbeVBFyY.140x105",
+                  "200x150":"https:\/\/guide-images.cdn.ifixit.com\/igi\/crEsbkOrfbeVBFyY.200x150",
+                  "standard":"https:\/\/guide-images.cdn.ifixit.com\/igi\/crEsbkOrfbeVBFyY.standard",
+                  "440x330":"https:\/\/guide-images.cdn.ifixit.com\/igi\/crEsbkOrfbeVBFyY.440x330",
+                  "medium":"https:\/\/guide-images.cdn.ifixit.com\/igi\/crEsbkOrfbeVBFyY.medium",
+                  "large":"https:\/\/guide-images.cdn.ifixit.com\/igi\/crEsbkOrfbeVBFyY.large",
+                  "huge":"https:\/\/guide-images.cdn.ifixit.com\/igi\/crEsbkOrfbeVBFyY.huge",
+                  "original":"https:\/\/guide-images.cdn.ifixit.com\/igi\/crEsbkOrfbeVBFyY.full"
+               },
+               {
+                  "id":1847566,
+                  "guid":"UlR6WDIgZQhmOrhH",
+                  "mini":"https:\/\/guide-images.cdn.ifixit.com\/igi\/UlR6WDIgZQhmOrhH.mini",
+                  "thumbnail":"https:\/\/guide-images.cdn.ifixit.com\/igi\/UlR6WDIgZQhmOrhH.thumbnail",
+                  "140x105":"https:\/\/guide-images.cdn.ifixit.com\/igi\/UlR6WDIgZQhmOrhH.140x105",
+                  "200x150":"https:\/\/guide-images.cdn.ifixit.com\/igi\/UlR6WDIgZQhmOrhH.200x150",
+                  "standard":"https:\/\/guide-images.cdn.ifixit.com\/igi\/UlR6WDIgZQhmOrhH.standard",
+                  "440x330":"https:\/\/guide-images.cdn.ifixit.com\/igi\/UlR6WDIgZQhmOrhH.440x330",
+                  "medium":"https:\/\/guide-images.cdn.ifixit.com\/igi\/UlR6WDIgZQhmOrhH.medium",
+                  "large":"https:\/\/guide-images.cdn.ifixit.com\/igi\/UlR6WDIgZQhmOrhH.large",
+                  "huge":"https:\/\/guide-images.cdn.ifixit.com\/igi\/UlR6WDIgZQhmOrhH.huge",
+                  "original":"https:\/\/guide-images.cdn.ifixit.com\/igi\/UlR6WDIgZQhmOrhH.full"
+               }
+            ]
+         },
+         "comments":[
+            
+         ]
+      },
+      {
+         "title":"",
+         "lines":[
+            {
+               "text_raw":"Carefully remove the motherboard cover including the charging coil \/ NFC antenna.",
+               "bullet":"black",
+               "level":0,
+               "lineid":null,
+               "text_rendered":"Carefully remove the motherboard cover including the charging coil \/ NFC antenna."
+            }
+         ],
+         "guideid":125703,
+         "stepid":243108,
+         "orderby":3,
+         "revisionid":2294402,
+         "media":{
+            "type":"image",
+            "data":[
+               {
+                  "id":1839077,
+                  "guid":"JXrDimYCjPcCXYaC",
+                  "mini":"https:\/\/guide-images.cdn.ifixit.com\/igi\/JXrDimYCjPcCXYaC.mini",
+                  "thumbnail":"https:\/\/guide-images.cdn.ifixit.com\/igi\/JXrDimYCjPcCXYaC.thumbnail",
+                  "140x105":"https:\/\/guide-images.cdn.ifixit.com\/igi\/JXrDimYCjPcCXYaC.140x105",
+                  "200x150":"https:\/\/guide-images.cdn.ifixit.com\/igi\/JXrDimYCjPcCXYaC.200x150",
+                  "standard":"https:\/\/guide-images.cdn.ifixit.com\/igi\/JXrDimYCjPcCXYaC.standard",
+                  "440x330":"https:\/\/guide-images.cdn.ifixit.com\/igi\/JXrDimYCjPcCXYaC.440x330",
+                  "medium":"https:\/\/guide-images.cdn.ifixit.com\/igi\/JXrDimYCjPcCXYaC.medium",
+                  "large":"https:\/\/guide-images.cdn.ifixit.com\/igi\/JXrDimYCjPcCXYaC.large",
+                  "huge":"https:\/\/guide-images.cdn.ifixit.com\/igi\/JXrDimYCjPcCXYaC.huge",
+                  "original":"https:\/\/guide-images.cdn.ifixit.com\/igi\/JXrDimYCjPcCXYaC.full"
+               },
+               {
+                  "id":1839078,
+                  "guid":"MexVAhDGGLQHoMvY",
+                  "mini":"https:\/\/guide-images.cdn.ifixit.com\/igi\/MexVAhDGGLQHoMvY.mini",
+                  "thumbnail":"https:\/\/guide-images.cdn.ifixit.com\/igi\/MexVAhDGGLQHoMvY.thumbnail",
+                  "140x105":"https:\/\/guide-images.cdn.ifixit.com\/igi\/MexVAhDGGLQHoMvY.140x105",
+                  "200x150":"https:\/\/guide-images.cdn.ifixit.com\/igi\/MexVAhDGGLQHoMvY.200x150",
+                  "standard":"https:\/\/guide-images.cdn.ifixit.com\/igi\/MexVAhDGGLQHoMvY.standard",
+                  "440x330":"https:\/\/guide-images.cdn.ifixit.com\/igi\/MexVAhDGGLQHoMvY.440x330",
+                  "medium":"https:\/\/guide-images.cdn.ifixit.com\/igi\/MexVAhDGGLQHoMvY.medium",
+                  "large":"https:\/\/guide-images.cdn.ifixit.com\/igi\/MexVAhDGGLQHoMvY.large",
+                  "huge":"https:\/\/guide-images.cdn.ifixit.com\/igi\/MexVAhDGGLQHoMvY.huge",
+                  "original":"https:\/\/guide-images.cdn.ifixit.com\/igi\/MexVAhDGGLQHoMvY.full"
+               }
+            ]
+         },
+         "comments":[
+            
+         ]
+      },
+      {
+         "title":"Battery Disconnect",
+         "lines":[
+            {
+               "text_raw":"Use a spudger to pry up and disconnect the battery flex cable.",
+               "bullet":"black",
+               "level":0,
+               "lineid":null,
+               "text_rendered":"Use a spudger to pry up and disconnect the battery flex cable."
+            }
+         ],
+         "guideid":125854,
+         "stepid":243109,
+         "orderby":1,
+         "revisionid":2291545,
+         "media":{
+            "type":"image",
+            "data":[
+               {
+                  "id":1839145,
+                  "guid":"JD1bfZVuYKInvJmn",
+                  "mini":"https:\/\/guide-images.cdn.ifixit.com\/igi\/JD1bfZVuYKInvJmn.mini",
+                  "thumbnail":"https:\/\/guide-images.cdn.ifixit.com\/igi\/JD1bfZVuYKInvJmn.thumbnail",
+                  "140x105":"https:\/\/guide-images.cdn.ifixit.com\/igi\/JD1bfZVuYKInvJmn.140x105",
+                  "200x150":"https:\/\/guide-images.cdn.ifixit.com\/igi\/JD1bfZVuYKInvJmn.200x150",
+                  "standard":"https:\/\/guide-images.cdn.ifixit.com\/igi\/JD1bfZVuYKInvJmn.standard",
+                  "440x330":"https:\/\/guide-images.cdn.ifixit.com\/igi\/JD1bfZVuYKInvJmn.440x330",
+                  "medium":"https:\/\/guide-images.cdn.ifixit.com\/igi\/JD1bfZVuYKInvJmn.medium",
+                  "large":"https:\/\/guide-images.cdn.ifixit.com\/igi\/JD1bfZVuYKInvJmn.large",
+                  "huge":"https:\/\/guide-images.cdn.ifixit.com\/igi\/JD1bfZVuYKInvJmn.huge",
+                  "original":"https:\/\/guide-images.cdn.ifixit.com\/igi\/JD1bfZVuYKInvJmn.full"
+               },
+               {
+                  "id":1839144,
+                  "guid":"UyBwLXPGJOUj4IAI",
+                  "mini":"https:\/\/guide-images.cdn.ifixit.com\/igi\/UyBwLXPGJOUj4IAI.mini",
+                  "thumbnail":"https:\/\/guide-images.cdn.ifixit.com\/igi\/UyBwLXPGJOUj4IAI.thumbnail",
+                  "140x105":"https:\/\/guide-images.cdn.ifixit.com\/igi\/UyBwLXPGJOUj4IAI.140x105",
+                  "200x150":"https:\/\/guide-images.cdn.ifixit.com\/igi\/UyBwLXPGJOUj4IAI.200x150",
+                  "standard":"https:\/\/guide-images.cdn.ifixit.com\/igi\/UyBwLXPGJOUj4IAI.standard",
+                  "440x330":"https:\/\/guide-images.cdn.ifixit.com\/igi\/UyBwLXPGJOUj4IAI.440x330",
+                  "medium":"https:\/\/guide-images.cdn.ifixit.com\/igi\/UyBwLXPGJOUj4IAI.medium",
+                  "large":"https:\/\/guide-images.cdn.ifixit.com\/igi\/UyBwLXPGJOUj4IAI.large",
+                  "huge":"https:\/\/guide-images.cdn.ifixit.com\/igi\/UyBwLXPGJOUj4IAI.huge",
+                  "original":"https:\/\/guide-images.cdn.ifixit.com\/igi\/UyBwLXPGJOUj4IAI.full"
+               }
+            ]
+         },
+         "comments":[
+            
+         ]
+      },
+      {
+         "title":"Loudspeaker Unit",
+         "lines":[
+            {
+               "text_raw":"Remove the seven Phillips #00 screws securing the loudspeaker unit:",
+               "bullet":"black",
+               "level":0,
+               "lineid":null,
+               "text_rendered":"Remove the seven Phillips #00 screws securing the loudspeaker unit:"
+            },
+            {
+               "text_raw":"Four silver 3.2\u00a0mm long screws",
+               "bullet":"red",
+               "level":1,
+               "lineid":null,
+               "text_rendered":"Four silver 3.2\u00a0mm long screws"
+            },
+            {
+               "text_raw":"Two yellowish 3.8\u00a0mm long screws",
+               "bullet":"orange",
+               "level":1,
+               "lineid":null,
+               "text_rendered":"Two yellowish 3.8\u00a0mm long screws"
+            },
+            {
+               "text_raw":"One black 2.8\u00a0mm long screw",
+               "bullet":"yellow",
+               "level":1,
+               "lineid":null,
+               "text_rendered":"One black 2.8\u00a0mm long screw"
+            },
+            {
+               "text_raw":"Some screws may be hidden beneath tamper proof stickers.",
+               "bullet":"icon_note",
+               "level":0,
+               "lineid":null,
+               "text_rendered":"Some screws may be hidden beneath tamper proof stickers."
+            }
+         ],
+         "guideid":125862,
+         "stepid":243144,
+         "orderby":1,
+         "revisionid":2335256,
+         "media":{
+            "type":"image",
+            "data":[
+               {
+                  "id":1847591,
+                  "guid":"UMQKubnJaWouYbOL",
+                  "mini":"https:\/\/guide-images.cdn.ifixit.com\/igi\/UMQKubnJaWouYbOL.mini",
+                  "thumbnail":"https:\/\/guide-images.cdn.ifixit.com\/igi\/UMQKubnJaWouYbOL.thumbnail",
+                  "140x105":"https:\/\/guide-images.cdn.ifixit.com\/igi\/UMQKubnJaWouYbOL.140x105",
+                  "200x150":"https:\/\/guide-images.cdn.ifixit.com\/igi\/UMQKubnJaWouYbOL.200x150",
+                  "standard":"https:\/\/guide-images.cdn.ifixit.com\/igi\/UMQKubnJaWouYbOL.standard",
+                  "440x330":"https:\/\/guide-images.cdn.ifixit.com\/igi\/UMQKubnJaWouYbOL.440x330",
+                  "medium":"https:\/\/guide-images.cdn.ifixit.com\/igi\/UMQKubnJaWouYbOL.medium",
+                  "large":"https:\/\/guide-images.cdn.ifixit.com\/igi\/UMQKubnJaWouYbOL.large",
+                  "huge":"https:\/\/guide-images.cdn.ifixit.com\/igi\/UMQKubnJaWouYbOL.huge",
+                  "original":"https:\/\/guide-images.cdn.ifixit.com\/igi\/UMQKubnJaWouYbOL.full"
+               }
+            ]
+         },
+         "comments":[
+            
+         ]
+      },
+      {
+         "title":"",
+         "lines":[
+            {
+               "text_raw":"Slide an opening pick under the right side of the loudspeaker unit.",
+               "bullet":"black",
+               "level":0,
+               "lineid":null,
+               "text_rendered":"Slide an opening pick under the right side of the loudspeaker unit."
+            },
+            {
+               "text_raw":"Twist the opening pick sideways to pry up the loudspeaker unit until you can get a good grip.",
+               "bullet":"black",
+               "level":0,
+               "lineid":null,
+               "text_rendered":"Twist the opening pick sideways to pry up the loudspeaker unit until you can get a good grip."
+            }
+         ],
+         "guideid":125862,
+         "stepid":243145,
+         "orderby":2,
+         "revisionid":2291650,
+         "media":{
+            "type":"image",
+            "data":[
+               {
+                  "id":1839679,
+                  "guid":"KDilPs4eZgjHxedG",
+                  "mini":"https:\/\/guide-images.cdn.ifixit.com\/igi\/KDilPs4eZgjHxedG.mini",
+                  "thumbnail":"https:\/\/guide-images.cdn.ifixit.com\/igi\/KDilPs4eZgjHxedG.thumbnail",
+                  "140x105":"https:\/\/guide-images.cdn.ifixit.com\/igi\/KDilPs4eZgjHxedG.140x105",
+                  "200x150":"https:\/\/guide-images.cdn.ifixit.com\/igi\/KDilPs4eZgjHxedG.200x150",
+                  "standard":"https:\/\/guide-images.cdn.ifixit.com\/igi\/KDilPs4eZgjHxedG.standard",
+                  "440x330":"https:\/\/guide-images.cdn.ifixit.com\/igi\/KDilPs4eZgjHxedG.440x330",
+                  "medium":"https:\/\/guide-images.cdn.ifixit.com\/igi\/KDilPs4eZgjHxedG.medium",
+                  "large":"https:\/\/guide-images.cdn.ifixit.com\/igi\/KDilPs4eZgjHxedG.large",
+                  "huge":"https:\/\/guide-images.cdn.ifixit.com\/igi\/KDilPs4eZgjHxedG.huge",
+                  "original":"https:\/\/guide-images.cdn.ifixit.com\/igi\/KDilPs4eZgjHxedG.full"
+               },
+               {
+                  "id":1839678,
+                  "guid":"wFNyENXXdI2DH4Ih",
+                  "mini":"https:\/\/guide-images.cdn.ifixit.com\/igi\/wFNyENXXdI2DH4Ih.mini",
+                  "thumbnail":"https:\/\/guide-images.cdn.ifixit.com\/igi\/wFNyENXXdI2DH4Ih.thumbnail",
+                  "140x105":"https:\/\/guide-images.cdn.ifixit.com\/igi\/wFNyENXXdI2DH4Ih.140x105",
+                  "200x150":"https:\/\/guide-images.cdn.ifixit.com\/igi\/wFNyENXXdI2DH4Ih.200x150",
+                  "standard":"https:\/\/guide-images.cdn.ifixit.com\/igi\/wFNyENXXdI2DH4Ih.standard",
+                  "440x330":"https:\/\/guide-images.cdn.ifixit.com\/igi\/wFNyENXXdI2DH4Ih.440x330",
+                  "medium":"https:\/\/guide-images.cdn.ifixit.com\/igi\/wFNyENXXdI2DH4Ih.medium",
+                  "large":"https:\/\/guide-images.cdn.ifixit.com\/igi\/wFNyENXXdI2DH4Ih.large",
+                  "huge":"https:\/\/guide-images.cdn.ifixit.com\/igi\/wFNyENXXdI2DH4Ih.huge",
+                  "original":"https:\/\/guide-images.cdn.ifixit.com\/igi\/wFNyENXXdI2DH4Ih.full"
+               }
+            ]
+         },
+         "comments":[
+            
+         ]
+      },
+      {
+         "title":"",
+         "lines":[
+            {
+               "text_raw":"There is still an antenna cable connected to the back of the unit.",
+               "bullet":"icon_caution",
+               "level":0,
+               "lineid":null,
+               "text_rendered":"There is still an antenna cable connected to the back of the unit."
+            },
+            {
+               "text_raw":"Carefully lift the loudspeaker unit and hinge it open towards the left side.",
+               "bullet":"black",
+               "level":0,
+               "lineid":null,
+               "text_rendered":"Carefully lift the loudspeaker unit and hinge it open towards the left side."
+            }
+         ],
+         "guideid":125862,
+         "stepid":243146,
+         "orderby":3,
+         "revisionid":2294713,
+         "media":{
+            "type":"image",
+            "data":[
+               {
+                  "id":1839683,
+                  "guid":"xsIsY5KbnyWlmTWq",
+                  "mini":"https:\/\/guide-images.cdn.ifixit.com\/igi\/xsIsY5KbnyWlmTWq.mini",
+                  "thumbnail":"https:\/\/guide-images.cdn.ifixit.com\/igi\/xsIsY5KbnyWlmTWq.thumbnail",
+                  "140x105":"https:\/\/guide-images.cdn.ifixit.com\/igi\/xsIsY5KbnyWlmTWq.140x105",
+                  "200x150":"https:\/\/guide-images.cdn.ifixit.com\/igi\/xsIsY5KbnyWlmTWq.200x150",
+                  "standard":"https:\/\/guide-images.cdn.ifixit.com\/igi\/xsIsY5KbnyWlmTWq.standard",
+                  "440x330":"https:\/\/guide-images.cdn.ifixit.com\/igi\/xsIsY5KbnyWlmTWq.440x330",
+                  "medium":"https:\/\/guide-images.cdn.ifixit.com\/igi\/xsIsY5KbnyWlmTWq.medium",
+                  "large":"https:\/\/guide-images.cdn.ifixit.com\/igi\/xsIsY5KbnyWlmTWq.large",
+                  "huge":"https:\/\/guide-images.cdn.ifixit.com\/igi\/xsIsY5KbnyWlmTWq.huge",
+                  "original":"https:\/\/guide-images.cdn.ifixit.com\/igi\/xsIsY5KbnyWlmTWq.full"
+               },
+               {
+                  "id":1839682,
+                  "guid":"D4HdeMCUnE1yuf1P",
+                  "mini":"https:\/\/guide-images.cdn.ifixit.com\/igi\/D4HdeMCUnE1yuf1P.mini",
+                  "thumbnail":"https:\/\/guide-images.cdn.ifixit.com\/igi\/D4HdeMCUnE1yuf1P.thumbnail",
+                  "140x105":"https:\/\/guide-images.cdn.ifixit.com\/igi\/D4HdeMCUnE1yuf1P.140x105",
+                  "200x150":"https:\/\/guide-images.cdn.ifixit.com\/igi\/D4HdeMCUnE1yuf1P.200x150",
+                  "standard":"https:\/\/guide-images.cdn.ifixit.com\/igi\/D4HdeMCUnE1yuf1P.standard",
+                  "440x330":"https:\/\/guide-images.cdn.ifixit.com\/igi\/D4HdeMCUnE1yuf1P.440x330",
+                  "medium":"https:\/\/guide-images.cdn.ifixit.com\/igi\/D4HdeMCUnE1yuf1P.medium",
+                  "large":"https:\/\/guide-images.cdn.ifixit.com\/igi\/D4HdeMCUnE1yuf1P.large",
+                  "huge":"https:\/\/guide-images.cdn.ifixit.com\/igi\/D4HdeMCUnE1yuf1P.huge",
+                  "original":"https:\/\/guide-images.cdn.ifixit.com\/igi\/D4HdeMCUnE1yuf1P.full"
+               }
+            ]
+         },
+         "comments":[
+            
+         ]
+      },
+      {
+         "title":"",
+         "lines":[
+            {
+               "text_raw":"Use a pair of tweezers to pry off and disconnect the antenna cable from the loudspeaker unit.",
+               "bullet":"black",
+               "level":0,
+               "lineid":null,
+               "text_rendered":"Use a pair of tweezers to pry off and disconnect the antenna cable from the loudspeaker unit."
+            },
+            {
+               "text_raw":"Remove the loudspeaker unit.",
+               "bullet":"black",
+               "level":0,
+               "lineid":null,
+               "text_rendered":"Remove the loudspeaker unit."
+            },
+            {
+               "text_raw":"Before reassembly check your old loudspeaker for components that might need to be transferred to the replacement part such as the antenna flex cable with its coax connector.",
+               "bullet":"icon_reminder",
+               "level":0,
+               "lineid":null,
+               "text_rendered":"Before reassembly check your old loudspeaker for components that might need to be transferred to the replacement part such as the antenna flex cable with its coax connector."
+            }
+         ],
+         "guideid":125862,
+         "stepid":243147,
+         "orderby":4,
+         "revisionid":2291655,
+         "media":{
+            "type":"image",
+            "data":[
+               {
+                  "id":1839681,
+                  "guid":"4ShAxBYiZOUvAVn4",
+                  "mini":"https:\/\/guide-images.cdn.ifixit.com\/igi\/4ShAxBYiZOUvAVn4.mini",
+                  "thumbnail":"https:\/\/guide-images.cdn.ifixit.com\/igi\/4ShAxBYiZOUvAVn4.thumbnail",
+                  "140x105":"https:\/\/guide-images.cdn.ifixit.com\/igi\/4ShAxBYiZOUvAVn4.140x105",
+                  "200x150":"https:\/\/guide-images.cdn.ifixit.com\/igi\/4ShAxBYiZOUvAVn4.200x150",
+                  "standard":"https:\/\/guide-images.cdn.ifixit.com\/igi\/4ShAxBYiZOUvAVn4.standard",
+                  "440x330":"https:\/\/guide-images.cdn.ifixit.com\/igi\/4ShAxBYiZOUvAVn4.440x330",
+                  "medium":"https:\/\/guide-images.cdn.ifixit.com\/igi\/4ShAxBYiZOUvAVn4.medium",
+                  "large":"https:\/\/guide-images.cdn.ifixit.com\/igi\/4ShAxBYiZOUvAVn4.large",
+                  "huge":"https:\/\/guide-images.cdn.ifixit.com\/igi\/4ShAxBYiZOUvAVn4.huge",
+                  "original":"https:\/\/guide-images.cdn.ifixit.com\/igi\/4ShAxBYiZOUvAVn4.full"
+               },
+               {
+                  "id":1839680,
+                  "guid":"sW6lgEQqhTdHRSFY",
+                  "mini":"https:\/\/guide-images.cdn.ifixit.com\/igi\/sW6lgEQqhTdHRSFY.mini",
+                  "thumbnail":"https:\/\/guide-images.cdn.ifixit.com\/igi\/sW6lgEQqhTdHRSFY.thumbnail",
+                  "140x105":"https:\/\/guide-images.cdn.ifixit.com\/igi\/sW6lgEQqhTdHRSFY.140x105",
+                  "200x150":"https:\/\/guide-images.cdn.ifixit.com\/igi\/sW6lgEQqhTdHRSFY.200x150",
+                  "standard":"https:\/\/guide-images.cdn.ifixit.com\/igi\/sW6lgEQqhTdHRSFY.standard",
+                  "440x330":"https:\/\/guide-images.cdn.ifixit.com\/igi\/sW6lgEQqhTdHRSFY.440x330",
+                  "medium":"https:\/\/guide-images.cdn.ifixit.com\/igi\/sW6lgEQqhTdHRSFY.medium",
+                  "large":"https:\/\/guide-images.cdn.ifixit.com\/igi\/sW6lgEQqhTdHRSFY.large",
+                  "huge":"https:\/\/guide-images.cdn.ifixit.com\/igi\/sW6lgEQqhTdHRSFY.huge",
+                  "original":"https:\/\/guide-images.cdn.ifixit.com\/igi\/sW6lgEQqhTdHRSFY.full"
+               }
+            ]
+         },
+         "comments":[
+            
+         ]
+      },
+      {
+         "title":"Battery",
+         "lines":[
+            {
+               "text_raw":"Use a pair of tweezers to peel the black ends of the adhesive tabs off the battery.",
+               "bullet":"black",
+               "level":0,
+               "lineid":null,
+               "text_rendered":"Use a pair of tweezers to peel the black ends of the adhesive tabs off the battery."
+            }
+         ],
+         "guideid":125727,
+         "stepid":243123,
+         "orderby":1,
+         "revisionid":2293603,
+         "media":{
+            "type":"image",
+            "data":[
+               {
+                  "id":1839287,
+                  "guid":"QYbYVXEfVZrys3J1",
+                  "mini":"https:\/\/guide-images.cdn.ifixit.com\/igi\/QYbYVXEfVZrys3J1.mini",
+                  "thumbnail":"https:\/\/guide-images.cdn.ifixit.com\/igi\/QYbYVXEfVZrys3J1.thumbnail",
+                  "140x105":"https:\/\/guide-images.cdn.ifixit.com\/igi\/QYbYVXEfVZrys3J1.140x105",
+                  "200x150":"https:\/\/guide-images.cdn.ifixit.com\/igi\/QYbYVXEfVZrys3J1.200x150",
+                  "standard":"https:\/\/guide-images.cdn.ifixit.com\/igi\/QYbYVXEfVZrys3J1.standard",
+                  "440x330":"https:\/\/guide-images.cdn.ifixit.com\/igi\/QYbYVXEfVZrys3J1.440x330",
+                  "medium":"https:\/\/guide-images.cdn.ifixit.com\/igi\/QYbYVXEfVZrys3J1.medium",
+                  "large":"https:\/\/guide-images.cdn.ifixit.com\/igi\/QYbYVXEfVZrys3J1.large",
+                  "huge":"https:\/\/guide-images.cdn.ifixit.com\/igi\/QYbYVXEfVZrys3J1.huge",
+                  "original":"https:\/\/guide-images.cdn.ifixit.com\/igi\/QYbYVXEfVZrys3J1.full"
+               },
+               {
+                  "id":1839285,
+                  "guid":"vyEeBwUNbDHSqfaR",
+                  "mini":"https:\/\/guide-images.cdn.ifixit.com\/igi\/vyEeBwUNbDHSqfaR.mini",
+                  "thumbnail":"https:\/\/guide-images.cdn.ifixit.com\/igi\/vyEeBwUNbDHSqfaR.thumbnail",
+                  "140x105":"https:\/\/guide-images.cdn.ifixit.com\/igi\/vyEeBwUNbDHSqfaR.140x105",
+                  "200x150":"https:\/\/guide-images.cdn.ifixit.com\/igi\/vyEeBwUNbDHSqfaR.200x150",
+                  "standard":"https:\/\/guide-images.cdn.ifixit.com\/igi\/vyEeBwUNbDHSqfaR.standard",
+                  "440x330":"https:\/\/guide-images.cdn.ifixit.com\/igi\/vyEeBwUNbDHSqfaR.440x330",
+                  "medium":"https:\/\/guide-images.cdn.ifixit.com\/igi\/vyEeBwUNbDHSqfaR.medium",
+                  "large":"https:\/\/guide-images.cdn.ifixit.com\/igi\/vyEeBwUNbDHSqfaR.large",
+                  "huge":"https:\/\/guide-images.cdn.ifixit.com\/igi\/vyEeBwUNbDHSqfaR.huge",
+                  "original":"https:\/\/guide-images.cdn.ifixit.com\/igi\/vyEeBwUNbDHSqfaR.full"
+               },
+               {
+                  "id":1839284,
+                  "guid":"N3fy1hCUqEMd5BvO",
+                  "mini":"https:\/\/guide-images.cdn.ifixit.com\/igi\/N3fy1hCUqEMd5BvO.mini",
+                  "thumbnail":"https:\/\/guide-images.cdn.ifixit.com\/igi\/N3fy1hCUqEMd5BvO.thumbnail",
+                  "140x105":"https:\/\/guide-images.cdn.ifixit.com\/igi\/N3fy1hCUqEMd5BvO.140x105",
+                  "200x150":"https:\/\/guide-images.cdn.ifixit.com\/igi\/N3fy1hCUqEMd5BvO.200x150",
+                  "standard":"https:\/\/guide-images.cdn.ifixit.com\/igi\/N3fy1hCUqEMd5BvO.standard",
+                  "440x330":"https:\/\/guide-images.cdn.ifixit.com\/igi\/N3fy1hCUqEMd5BvO.440x330",
+                  "medium":"https:\/\/guide-images.cdn.ifixit.com\/igi\/N3fy1hCUqEMd5BvO.medium",
+                  "large":"https:\/\/guide-images.cdn.ifixit.com\/igi\/N3fy1hCUqEMd5BvO.large",
+                  "huge":"https:\/\/guide-images.cdn.ifixit.com\/igi\/N3fy1hCUqEMd5BvO.huge",
+                  "original":"https:\/\/guide-images.cdn.ifixit.com\/igi\/N3fy1hCUqEMd5BvO.full"
+               }
+            ]
+         },
+         "comments":[
+            
+         ]
+      },
+      {
+         "title":"",
+         "lines":[
+            {
+               "text_raw":"Use a pair of tweezers to pull out the left adhesive tab from underneath the battery.",
+               "bullet":"black",
+               "level":0,
+               "lineid":null,
+               "text_rendered":"Use a pair of tweezers to pull out the left adhesive tab from underneath the battery."
+            },
+            {
+               "text_raw":"The adhesive tab underneath the battery can rip very easily. Make sure you pull out the tab in a slow and steady motion and in a flat angle. To prevent the adhesive tab from ripping, it's helpfull to twist the strip around the tweezers.",
+               "bullet":"icon_note",
+               "level":1,
+               "lineid":null,
+               "text_rendered":"The adhesive tab underneath the battery can rip very easily. Make sure you pull out the tab in a slow and steady motion and in a flat angle. To prevent the adhesive tab from ripping, it's helpfull to twist the strip around the tweezers."
+            },
+            {
+               "text_raw":"In case one of the adhesive tabs rips and it\u2018s not possible to pull it out completely, you can use isopropyl alcohol or an [https:\/\/www.ifixit.com\/Guide\/iOpener+Heating\/25705|heated iOpener|new_window=true] to loosen the adhesive. After the adhesive is soft enough use a prying tool such as an opening pick or a plastic card to pry out the battery.",
+               "bullet":"icon_note",
+               "level":0,
+               "lineid":null,
+               "text_rendered":"In case one of the adhesive tabs rips and it\u2018s not possible to pull it out completely, you can use isopropyl alcohol or an <a href=\"https:\/\/www.ifixit.com\/Guide\/iOpener+Heating\/25705\" target=\"_blank\">heated iOpener<\/a> to loosen the adhesive. After the adhesive is soft enough use a prying tool such as an opening pick or a plastic card to pry out the battery."
+            }
+         ],
+         "guideid":125727,
+         "stepid":243124,
+         "orderby":2,
+         "revisionid":2320898,
+         "media":{
+            "type":"image",
+            "data":[
+               {
+                  "id":1843486,
+                  "guid":"VHSSkBSpnFXBM1OG",
+                  "mini":"https:\/\/guide-images.cdn.ifixit.com\/igi\/VHSSkBSpnFXBM1OG.mini",
+                  "thumbnail":"https:\/\/guide-images.cdn.ifixit.com\/igi\/VHSSkBSpnFXBM1OG.thumbnail",
+                  "140x105":"https:\/\/guide-images.cdn.ifixit.com\/igi\/VHSSkBSpnFXBM1OG.140x105",
+                  "200x150":"https:\/\/guide-images.cdn.ifixit.com\/igi\/VHSSkBSpnFXBM1OG.200x150",
+                  "standard":"https:\/\/guide-images.cdn.ifixit.com\/igi\/VHSSkBSpnFXBM1OG.standard",
+                  "440x330":"https:\/\/guide-images.cdn.ifixit.com\/igi\/VHSSkBSpnFXBM1OG.440x330",
+                  "medium":"https:\/\/guide-images.cdn.ifixit.com\/igi\/VHSSkBSpnFXBM1OG.medium",
+                  "large":"https:\/\/guide-images.cdn.ifixit.com\/igi\/VHSSkBSpnFXBM1OG.large",
+                  "original":"https:\/\/guide-images.cdn.ifixit.com\/igi\/VHSSkBSpnFXBM1OG.full"
+               },
+               {
+                  "id":1843487,
+                  "guid":"FjQyFJOFXBcIHlxa",
+                  "mini":"https:\/\/guide-images.cdn.ifixit.com\/igi\/FjQyFJOFXBcIHlxa.mini",
+                  "thumbnail":"https:\/\/guide-images.cdn.ifixit.com\/igi\/FjQyFJOFXBcIHlxa.thumbnail",
+                  "140x105":"https:\/\/guide-images.cdn.ifixit.com\/igi\/FjQyFJOFXBcIHlxa.140x105",
+                  "200x150":"https:\/\/guide-images.cdn.ifixit.com\/igi\/FjQyFJOFXBcIHlxa.200x150",
+                  "standard":"https:\/\/guide-images.cdn.ifixit.com\/igi\/FjQyFJOFXBcIHlxa.standard",
+                  "440x330":"https:\/\/guide-images.cdn.ifixit.com\/igi\/FjQyFJOFXBcIHlxa.440x330",
+                  "medium":"https:\/\/guide-images.cdn.ifixit.com\/igi\/FjQyFJOFXBcIHlxa.medium",
+                  "large":"https:\/\/guide-images.cdn.ifixit.com\/igi\/FjQyFJOFXBcIHlxa.large",
+                  "original":"https:\/\/guide-images.cdn.ifixit.com\/igi\/FjQyFJOFXBcIHlxa.full"
+               }
+            ]
+         },
+         "comments":[
+            {
+               "commentid":769611,
+               "locale":"en",
+               "context":"step",
+               "contextid":243124,
+               "parentid":null,
+               "author":{
+                  "userid":4042295,
+                  "username":"Lars Pekkala",
+                  "unique_username":null,
+                  "join_date":1634898490,
+                  "image":{
+                     "id":2502596,
+                     "guid":"SbFZUkdb3pep6yaf",
+                     "mini":"https:\/\/guide-images.cdn.ifixit.com\/igi\/SbFZUkdb3pep6yaf.mini",
+                     "thumbnail":"https:\/\/guide-images.cdn.ifixit.com\/igi\/SbFZUkdb3pep6yaf.thumbnail",
+                     "medium":"https:\/\/guide-images.cdn.ifixit.com\/igi\/SbFZUkdb3pep6yaf.medium",
+                     "original":"https:\/\/guide-images.cdn.ifixit.com\/igi\/SbFZUkdb3pep6yaf.full"
+                  },
+                  "reputation":1,
+                  "url":"https:\/\/www.ifixit.com\/User\/4042295\/Lars+Pekkala",
+                  "teams":[
+                     
+                  ]
+               },
+               "title":"Xiaomi Mi 9 Battery Replacement",
+               "text_raw":"Be careful with this one. My fully charged battery catch fire.\n\nI tried to forcefully remove the battery after ripping the adhesive tab. I was bending it a lot.\n\nIt started to burn  and smoke a lot. I didnt get any burn wounds but it left some nasty marks on the floor even though I throw it out on the balcony after 1 second.",
+               "text_rendered":"<p>Be careful with this one. My fully charged battery catch fire.<\/p>\n\n<p>I tried to forcefully remove the battery after ripping the adhesive tab. I was bending it a lot.<\/p>\n\n<p>It started to burn  and smoke a lot. I didnt get any burn wounds but it left some nasty marks on the floor even though I throw it out on the balcony after 1 second.<\/p>",
+               "rating":0,
+               "date":1634898491,
+               "modified_date":1634898526,
+               "status":"public",
+               "replies":[
+                  
+               ]
+            }
+         ]
+      },
+      {
+         "title":"",
+         "lines":[
+            {
+               "text_raw":"Use a pair of tweezers to pull out the right adhesive tab from underneath the battery.",
+               "bullet":"black",
+               "level":0,
+               "lineid":null,
+               "text_rendered":"Use a pair of tweezers to pull out the right adhesive tab from underneath the battery."
+            }
+         ],
+         "guideid":125727,
+         "stepid":243125,
+         "orderby":3,
+         "revisionid":2294006,
+         "media":{
+            "type":"image",
+            "data":[
+               {
+                  "id":1843488,
+                  "guid":"eYAr6OVNhDjbDMBO",
+                  "mini":"https:\/\/guide-images.cdn.ifixit.com\/igi\/eYAr6OVNhDjbDMBO.mini",
+                  "thumbnail":"https:\/\/guide-images.cdn.ifixit.com\/igi\/eYAr6OVNhDjbDMBO.thumbnail",
+                  "140x105":"https:\/\/guide-images.cdn.ifixit.com\/igi\/eYAr6OVNhDjbDMBO.140x105",
+                  "200x150":"https:\/\/guide-images.cdn.ifixit.com\/igi\/eYAr6OVNhDjbDMBO.200x150",
+                  "standard":"https:\/\/guide-images.cdn.ifixit.com\/igi\/eYAr6OVNhDjbDMBO.standard",
+                  "440x330":"https:\/\/guide-images.cdn.ifixit.com\/igi\/eYAr6OVNhDjbDMBO.440x330",
+                  "medium":"https:\/\/guide-images.cdn.ifixit.com\/igi\/eYAr6OVNhDjbDMBO.medium",
+                  "large":"https:\/\/guide-images.cdn.ifixit.com\/igi\/eYAr6OVNhDjbDMBO.large",
+                  "huge":"https:\/\/guide-images.cdn.ifixit.com\/igi\/eYAr6OVNhDjbDMBO.huge",
+                  "original":"https:\/\/guide-images.cdn.ifixit.com\/igi\/eYAr6OVNhDjbDMBO.full"
+               },
+               {
+                  "id":1843489,
+                  "guid":"HHDvgPxbqbCA2Alw",
+                  "mini":"https:\/\/guide-images.cdn.ifixit.com\/igi\/HHDvgPxbqbCA2Alw.mini",
+                  "thumbnail":"https:\/\/guide-images.cdn.ifixit.com\/igi\/HHDvgPxbqbCA2Alw.thumbnail",
+                  "140x105":"https:\/\/guide-images.cdn.ifixit.com\/igi\/HHDvgPxbqbCA2Alw.140x105",
+                  "200x150":"https:\/\/guide-images.cdn.ifixit.com\/igi\/HHDvgPxbqbCA2Alw.200x150",
+                  "standard":"https:\/\/guide-images.cdn.ifixit.com\/igi\/HHDvgPxbqbCA2Alw.standard",
+                  "440x330":"https:\/\/guide-images.cdn.ifixit.com\/igi\/HHDvgPxbqbCA2Alw.440x330",
+                  "medium":"https:\/\/guide-images.cdn.ifixit.com\/igi\/HHDvgPxbqbCA2Alw.medium",
+                  "large":"https:\/\/guide-images.cdn.ifixit.com\/igi\/HHDvgPxbqbCA2Alw.large",
+                  "huge":"https:\/\/guide-images.cdn.ifixit.com\/igi\/HHDvgPxbqbCA2Alw.huge",
+                  "original":"https:\/\/guide-images.cdn.ifixit.com\/igi\/HHDvgPxbqbCA2Alw.full"
+               }
+            ]
+         },
+         "comments":[
+            
+         ]
+      },
+      {
+         "title":"",
+         "lines":[
+            {
+               "text_raw":"Use an opening pick to pry the battery out of its recess until you can get a good grip.",
+               "bullet":"black",
+               "level":0,
+               "lineid":null,
+               "text_rendered":"Use an opening pick to pry the battery out of its recess until you can get a good grip."
+            }
+         ],
+         "guideid":125727,
+         "stepid":243126,
+         "orderby":4,
+         "revisionid":2291630,
+         "media":{
+            "type":"image",
+            "data":[
+               {
+                  "id":1839280,
+                  "guid":"aO6bDroFnrFXCaiD",
+                  "mini":"https:\/\/guide-images.cdn.ifixit.com\/igi\/aO6bDroFnrFXCaiD.mini",
+                  "thumbnail":"https:\/\/guide-images.cdn.ifixit.com\/igi\/aO6bDroFnrFXCaiD.thumbnail",
+                  "140x105":"https:\/\/guide-images.cdn.ifixit.com\/igi\/aO6bDroFnrFXCaiD.140x105",
+                  "200x150":"https:\/\/guide-images.cdn.ifixit.com\/igi\/aO6bDroFnrFXCaiD.200x150",
+                  "standard":"https:\/\/guide-images.cdn.ifixit.com\/igi\/aO6bDroFnrFXCaiD.standard",
+                  "440x330":"https:\/\/guide-images.cdn.ifixit.com\/igi\/aO6bDroFnrFXCaiD.440x330",
+                  "medium":"https:\/\/guide-images.cdn.ifixit.com\/igi\/aO6bDroFnrFXCaiD.medium",
+                  "large":"https:\/\/guide-images.cdn.ifixit.com\/igi\/aO6bDroFnrFXCaiD.large",
+                  "huge":"https:\/\/guide-images.cdn.ifixit.com\/igi\/aO6bDroFnrFXCaiD.huge",
+                  "original":"https:\/\/guide-images.cdn.ifixit.com\/igi\/aO6bDroFnrFXCaiD.full"
+               },
+               {
+                  "id":1839278,
+                  "guid":"BuxpVbcMjFa5u4e6",
+                  "mini":"https:\/\/guide-images.cdn.ifixit.com\/igi\/BuxpVbcMjFa5u4e6.mini",
+                  "thumbnail":"https:\/\/guide-images.cdn.ifixit.com\/igi\/BuxpVbcMjFa5u4e6.thumbnail",
+                  "140x105":"https:\/\/guide-images.cdn.ifixit.com\/igi\/BuxpVbcMjFa5u4e6.140x105",
+                  "200x150":"https:\/\/guide-images.cdn.ifixit.com\/igi\/BuxpVbcMjFa5u4e6.200x150",
+                  "standard":"https:\/\/guide-images.cdn.ifixit.com\/igi\/BuxpVbcMjFa5u4e6.standard",
+                  "440x330":"https:\/\/guide-images.cdn.ifixit.com\/igi\/BuxpVbcMjFa5u4e6.440x330",
+                  "medium":"https:\/\/guide-images.cdn.ifixit.com\/igi\/BuxpVbcMjFa5u4e6.medium",
+                  "large":"https:\/\/guide-images.cdn.ifixit.com\/igi\/BuxpVbcMjFa5u4e6.large",
+                  "huge":"https:\/\/guide-images.cdn.ifixit.com\/igi\/BuxpVbcMjFa5u4e6.huge",
+                  "original":"https:\/\/guide-images.cdn.ifixit.com\/igi\/BuxpVbcMjFa5u4e6.full"
+               }
+            ]
+         },
+         "comments":[
+            
+         ]
+      },
+      {
+         "title":"",
+         "lines":[
+            {
+               "text_raw":"Remove the battery.",
+               "bullet":"black",
+               "level":0,
+               "lineid":null,
+               "text_rendered":"Remove the battery."
+            },
+            {
+               "text_raw":"Reusing a deformed or bent battery after it has forcefully been removed, is a potential safety hazard. Replace it with a new battery.",
+               "bullet":"icon_caution",
+               "level":0,
+               "lineid":null,
+               "text_rendered":"Reusing a deformed or bent battery after it has forcefully been removed, is a potential safety hazard. Replace it with a new battery."
+            },
+            {
+               "text_raw":"Remove any remaining adhesive from the midframe, and clean the glued areas with isopropyl alcohol and a lint-free cloth before applying new adhesive.",
+               "bullet":"icon_reminder",
+               "level":0,
+               "lineid":null,
+               "text_rendered":"Remove any remaining adhesive from the midframe, and clean the glued areas with isopropyl alcohol and a lint-free cloth before applying new adhesive."
+            }
+         ],
+         "guideid":125727,
+         "stepid":243127,
+         "orderby":5,
+         "revisionid":2320508,
+         "media":{
+            "type":"image",
+            "data":[
+               {
+                  "id":1839276,
+                  "guid":"RmjNfVUlF5KajcaS",
+                  "mini":"https:\/\/guide-images.cdn.ifixit.com\/igi\/RmjNfVUlF5KajcaS.mini",
+                  "thumbnail":"https:\/\/guide-images.cdn.ifixit.com\/igi\/RmjNfVUlF5KajcaS.thumbnail",
+                  "140x105":"https:\/\/guide-images.cdn.ifixit.com\/igi\/RmjNfVUlF5KajcaS.140x105",
+                  "200x150":"https:\/\/guide-images.cdn.ifixit.com\/igi\/RmjNfVUlF5KajcaS.200x150",
+                  "standard":"https:\/\/guide-images.cdn.ifixit.com\/igi\/RmjNfVUlF5KajcaS.standard",
+                  "440x330":"https:\/\/guide-images.cdn.ifixit.com\/igi\/RmjNfVUlF5KajcaS.440x330",
+                  "medium":"https:\/\/guide-images.cdn.ifixit.com\/igi\/RmjNfVUlF5KajcaS.medium",
+                  "large":"https:\/\/guide-images.cdn.ifixit.com\/igi\/RmjNfVUlF5KajcaS.large",
+                  "huge":"https:\/\/guide-images.cdn.ifixit.com\/igi\/RmjNfVUlF5KajcaS.huge",
+                  "original":"https:\/\/guide-images.cdn.ifixit.com\/igi\/RmjNfVUlF5KajcaS.full"
+               },
+               {
+                  "id":1839277,
+                  "guid":"uGtmlSOWxmCKKnSV",
+                  "mini":"https:\/\/guide-images.cdn.ifixit.com\/igi\/uGtmlSOWxmCKKnSV.mini",
+                  "thumbnail":"https:\/\/guide-images.cdn.ifixit.com\/igi\/uGtmlSOWxmCKKnSV.thumbnail",
+                  "140x105":"https:\/\/guide-images.cdn.ifixit.com\/igi\/uGtmlSOWxmCKKnSV.140x105",
+                  "200x150":"https:\/\/guide-images.cdn.ifixit.com\/igi\/uGtmlSOWxmCKKnSV.200x150",
+                  "standard":"https:\/\/guide-images.cdn.ifixit.com\/igi\/uGtmlSOWxmCKKnSV.standard",
+                  "440x330":"https:\/\/guide-images.cdn.ifixit.com\/igi\/uGtmlSOWxmCKKnSV.440x330",
+                  "medium":"https:\/\/guide-images.cdn.ifixit.com\/igi\/uGtmlSOWxmCKKnSV.medium",
+                  "large":"https:\/\/guide-images.cdn.ifixit.com\/igi\/uGtmlSOWxmCKKnSV.large",
+                  "huge":"https:\/\/guide-images.cdn.ifixit.com\/igi\/uGtmlSOWxmCKKnSV.huge",
+                  "original":"https:\/\/guide-images.cdn.ifixit.com\/igi\/uGtmlSOWxmCKKnSV.full"
+               }
+            ]
+         },
+         "comments":[
+            
+         ]
+      }
+   ],
+   "subject":"Battery",
+   "summary":"This guide shows you how to remove and replace a worn-out or dead battery in your Xiaomi Mi 9.",
+   "time_required":"50 minutes - 1 hour",
+   "time_required_min":3000,
+   "time_required_max":3600,
+   "title":"Xiaomi Mi 9 Battery Replacement",
+   "tools":[
+      {
+         "type":"",
+         "quantity":1,
+         "text":"Spudger",
+         "notes":null,
+         "url":"https:\/\/eustore.ifixit.com\/products\/spudger",
+         "thumbnail":"https:\/\/cart-products.cdn.ifixit.com\/cart-products\/pcEtXHm1pabLDYKI.thumbnail"
+      },
+      {
+         "type":"",
+         "quantity":1,
+         "text":"Suction Handle",
+         "notes":null,
+         "url":"https:\/\/eustore.ifixit.com\/products\/suction-handle",
+         "thumbnail":"https:\/\/cart-products.cdn.ifixit.com\/cart-products\/5Sf2Uh4OSLtsGpXk.thumbnail"
+      },
+      {
+         "type":"",
+         "quantity":1,
+         "text":"iFixit Opening Picks (Set of 6)",
+         "notes":null,
+         "url":"https:\/\/eustore.ifixit.com\/products\/ifixit-opening-picks-set-of-6",
+         "thumbnail":"https:\/\/cart-products.cdn.ifixit.com\/cart-products\/fDsOubGiL2QUMeOR.thumbnail"
+      },
+      {
+         "type":"",
+         "quantity":1,
+         "text":"iOpener",
+         "notes":null,
+         "url":"https:\/\/eustore.ifixit.com\/products\/iopener",
+         "thumbnail":"https:\/\/cart-products.cdn.ifixit.com\/cart-products\/xyGnD2aWDEcVatDn.thumbnail"
+      },
+      {
+         "type":"",
+         "quantity":1,
+         "text":"Phillips #00 Screwdriver",
+         "notes":null,
+         "url":"https:\/\/eustore.ifixit.com\/products\/phillips-00-screwdriver",
+         "thumbnail":"https:\/\/cart-products.cdn.ifixit.com\/cart-products\/x2GYlXMjmAQneKIK.thumbnail"
+      },
+      {
+         "type":"",
+         "quantity":1,
+         "text":"ESD Safe Tweezers Blunt Nose",
+         "notes":null,
+         "url":"https:\/\/eustore.ifixit.com\/products\/tweezers",
+         "thumbnail":"https:\/\/cart-products.cdn.ifixit.com\/cart-products\/SgcjxIZnNVleJooT.thumbnail"
+      },
+      {
+         "type":"",
+         "quantity":1,
+         "text":"Tweezers",
+         "notes":null,
+         "url":"https:\/\/eustore.ifixit.com\/products\/tweezers",
+         "thumbnail":"https:\/\/cart-products.cdn.ifixit.com\/cart-products\/SgcjxIZnNVleJooT.thumbnail"
+      }
+   ],
+   "type":"replacement",
+   "revisionid":1456318,
+   "created_date":1566987193,
+   "published_date":1569404015,
+   "modified_date":1629482534,
+   "prereq_modified_date":1629372109,
+   "public":true,
+   "comments":[
+      {
+         "commentid":598950,
+         "locale":"en",
+         "context":"guide",
+         "contextid":125727,
+         "parentid":null,
+         "author":{
+            "userid":3308088,
+            "username":"edwinyapeter",
+            "unique_username":null,
+            "join_date":1576298617,
+            "image":{
+               "id":-32,
+               "guid":"default_avatar_placeholder_guid",
+               "original":"https:\/\/assets.cdn.ifixit.com\/static\/images\/avatars\/User\/ifixit\/avatar-8",
+               "mini":"https:\/\/assets.cdn.ifixit.com\/static\/images\/avatars\/User\/ifixit\/avatar-8.mini",
+               "thumbnail":"https:\/\/assets.cdn.ifixit.com\/static\/images\/avatars\/User\/ifixit\/avatar-8.thumbnail",
+               "140x105":"https:\/\/assets.cdn.ifixit.com\/static\/images\/avatars\/User\/ifixit\/avatar-8.140x105",
+               "200x150":"https:\/\/assets.cdn.ifixit.com\/static\/images\/avatars\/User\/ifixit\/avatar-8.200x150",
+               "standard":"https:\/\/assets.cdn.ifixit.com\/static\/images\/avatars\/User\/ifixit\/avatar-8.standard",
+               "440x330":"https:\/\/assets.cdn.ifixit.com\/static\/images\/avatars\/User\/ifixit\/avatar-8.440x330",
+               "medium":"https:\/\/assets.cdn.ifixit.com\/static\/images\/avatars\/User\/ifixit\/avatar-8.medium",
+               "large":"https:\/\/assets.cdn.ifixit.com\/static\/images\/avatars\/User\/ifixit\/avatar-8.large"
+            },
+            "reputation":1,
+            "url":"https:\/\/www.ifixit.com\/User\/3308088\/edwinyapeter",
+            "teams":[
+               
+            ]
+         },
+         "title":"Xiaomi Mi 9 Battery Replacement",
+         "text_raw":"Is it possible to swap mi 9 battery with mi 9 pro battery?",
+         "text_rendered":"<p>Is it possible to swap mi 9 battery with mi 9 pro battery?<\/p>",
+         "rating":0,
+         "date":1576298618,
+         "modified_date":1576298618,
+         "status":"public",
+         "replies":[
+            
+         ]
+      },
+      {
+         "commentid":606913,
+         "locale":"en",
+         "context":"guide",
+         "contextid":125727,
+         "parentid":null,
+         "author":{
+            "userid":3339013,
+            "username":"Barbudo",
+            "unique_username":null,
+            "join_date":1578854107,
+            "image":{
+               "id":1974773,
+               "guid":"HpMPFDQJY2QSZNu2",
+               "mini":"https:\/\/guide-images.cdn.ifixit.com\/igi\/HpMPFDQJY2QSZNu2.mini",
+               "thumbnail":"https:\/\/guide-images.cdn.ifixit.com\/igi\/HpMPFDQJY2QSZNu2.thumbnail",
+               "140x105":"https:\/\/guide-images.cdn.ifixit.com\/igi\/HpMPFDQJY2QSZNu2.140x105",
+               "200x150":"https:\/\/guide-images.cdn.ifixit.com\/igi\/HpMPFDQJY2QSZNu2.200x150",
+               "standard":"https:\/\/guide-images.cdn.ifixit.com\/igi\/HpMPFDQJY2QSZNu2.standard",
+               "medium":"https:\/\/guide-images.cdn.ifixit.com\/igi\/HpMPFDQJY2QSZNu2.medium",
+               "original":"https:\/\/guide-images.cdn.ifixit.com\/igi\/HpMPFDQJY2QSZNu2.full"
+            },
+            "reputation":1,
+            "url":"https:\/\/www.ifixit.com\/User\/3339013\/Barbudo",
+            "teams":[
+               
+            ]
+         },
+         "title":"Xiaomi Mi 9 Battery Replacement",
+         "text_raw":"yes I'm also interested. is it the same size? would like to replace with larger battery",
+         "text_rendered":"<p>yes I'm also interested. is it the same size? would like to replace with larger battery<\/p>",
+         "rating":0,
+         "date":1578854108,
+         "modified_date":1578854108,
+         "status":"public",
+         "replies":[
+            
+         ]
+      },
+      {
+         "commentid":624739,
+         "locale":"en",
+         "context":"guide",
+         "contextid":125727,
+         "parentid":null,
+         "author":{
+            "userid":3407274,
+            "username":"Marcel",
+            "unique_username":null,
+            "join_date":1584568474,
+            "image":{
+               "id":2041886,
+               "guid":"ZgewSpsvFVVMdtQX",
+               "mini":"https:\/\/guide-images.cdn.ifixit.com\/igi\/ZgewSpsvFVVMdtQX.mini",
+               "thumbnail":"https:\/\/guide-images.cdn.ifixit.com\/igi\/ZgewSpsvFVVMdtQX.thumbnail",
+               "140x105":"https:\/\/guide-images.cdn.ifixit.com\/igi\/ZgewSpsvFVVMdtQX.140x105",
+               "200x150":"https:\/\/guide-images.cdn.ifixit.com\/igi\/ZgewSpsvFVVMdtQX.200x150",
+               "standard":"https:\/\/guide-images.cdn.ifixit.com\/igi\/ZgewSpsvFVVMdtQX.standard",
+               "440x330":"https:\/\/guide-images.cdn.ifixit.com\/igi\/ZgewSpsvFVVMdtQX.440x330",
+               "medium":"https:\/\/guide-images.cdn.ifixit.com\/igi\/ZgewSpsvFVVMdtQX.medium",
+               "original":"https:\/\/guide-images.cdn.ifixit.com\/igi\/ZgewSpsvFVVMdtQX.full"
+            },
+            "reputation":1,
+            "url":"https:\/\/www.ifixit.com\/User\/3407274\/Marcel",
+            "teams":[
+               
+            ]
+         },
+         "title":"Xiaomi Mi 9 Battery Replacement",
+         "text_raw":"What type is the antenna plug?\n\nMine got damaged",
+         "text_rendered":"<p>What type is the antenna plug?<\/p>\n\n<p>Mine got damaged<\/p>",
+         "rating":0,
+         "date":1584568475,
+         "modified_date":1584568475,
+         "status":"public",
+         "replies":[
+            {
+               "commentid":624843,
+               "locale":"en",
+               "context":"guide",
+               "contextid":125727,
+               "parentid":624739,
+               "author":{
+                  "userid":1800598,
+                  "username":"Dominik Schnabelrauch",
+                  "unique_username":"schnabel",
+                  "join_date":1479910175,
+                  "image":{
+                     "id":1242125,
+                     "guid":"2No6TI2o1ISyEGNP",
+                     "mini":"https:\/\/guide-images.cdn.ifixit.com\/igi\/2No6TI2o1ISyEGNP.mini",
+                     "thumbnail":"https:\/\/guide-images.cdn.ifixit.com\/igi\/2No6TI2o1ISyEGNP.thumbnail",
+                     "140x105":"https:\/\/guide-images.cdn.ifixit.com\/igi\/2No6TI2o1ISyEGNP.140x105",
+                     "200x150":"https:\/\/guide-images.cdn.ifixit.com\/igi\/2No6TI2o1ISyEGNP.200x150",
+                     "standard":"https:\/\/guide-images.cdn.ifixit.com\/igi\/2No6TI2o1ISyEGNP.standard",
+                     "440x330":"https:\/\/guide-images.cdn.ifixit.com\/igi\/2No6TI2o1ISyEGNP.440x330",
+                     "medium":"https:\/\/guide-images.cdn.ifixit.com\/igi\/2No6TI2o1ISyEGNP.medium",
+                     "original":"https:\/\/guide-images.cdn.ifixit.com\/igi\/2No6TI2o1ISyEGNP.full"
+                  },
+                  "reputation":102747,
+                  "url":"https:\/\/www.ifixit.com\/User\/1800598\/Dominik+Schnabelrauch",
+                  "teams":[
+                     1,
+                     4401,
+                     27740
+                  ]
+               },
+               "title":"Xiaomi Mi 9 Battery Replacement",
+               "text_raw":"Hi Marcel,\n\nthe Antenna connector is a COAX connector. You can find a little more information [guide|25629|here|stepid=64972].",
+               "text_rendered":"<p>Hi Marcel,<\/p>\n\n<p>the Antenna connector is a COAX connector. You can find a little more information <a href=\"\/Guide\/Recognizing+&amp;+Disconnecting+Cable+Connectors\/25629#s64972\">here<\/a>.<\/p>",
+               "rating":0,
+               "date":1584610662,
+               "modified_date":1584610671,
+               "status":"public"
+            }
+         ]
+      },
+      {
+         "commentid":639020,
+         "locale":"en",
+         "context":"guide",
+         "contextid":125727,
+         "parentid":null,
+         "author":{
+            "userid":3469282,
+            "username":"Andrew Blake",
+            "unique_username":null,
+            "join_date":1588220275,
+            "image":{
+               "id":2078671,
+               "guid":"AJQACGXYD4qBhTGb",
+               "mini":"https:\/\/guide-images.cdn.ifixit.com\/igi\/AJQACGXYD4qBhTGb.mini",
+               "thumbnail":"https:\/\/guide-images.cdn.ifixit.com\/igi\/AJQACGXYD4qBhTGb.thumbnail",
+               "140x105":"https:\/\/guide-images.cdn.ifixit.com\/igi\/AJQACGXYD4qBhTGb.140x105",
+               "200x150":"https:\/\/guide-images.cdn.ifixit.com\/igi\/AJQACGXYD4qBhTGb.200x150",
+               "standard":"https:\/\/guide-images.cdn.ifixit.com\/igi\/AJQACGXYD4qBhTGb.standard",
+               "440x330":"https:\/\/guide-images.cdn.ifixit.com\/igi\/AJQACGXYD4qBhTGb.440x330",
+               "medium":"https:\/\/guide-images.cdn.ifixit.com\/igi\/AJQACGXYD4qBhTGb.medium",
+               "original":"https:\/\/guide-images.cdn.ifixit.com\/igi\/AJQACGXYD4qBhTGb.full"
+            },
+            "reputation":1,
+            "url":"https:\/\/www.ifixit.com\/User\/3469282\/Andrew+Blake",
+            "teams":[
+               
+            ]
+         },
+         "title":"Xiaomi Mi 9 Battery Replacement",
+         "text_raw":"I\u2019ve changed the battery but device has not started even I tried  to charge for 1-2 hours..( charger, USB-C cable checked). Btw, the symptoms was like the device started to turn off  on around 50% of battery life.  And charged too fast in about 10-15 minutes by the original fast charger.  What could happen?",
+         "text_rendered":"<p>I\u2019ve changed the battery but device has not started even I tried  to charge for 1-2 hours..( charger, USB-C cable checked). Btw, the symptoms was like the device started to turn off  on around 50% of battery life.  And charged too fast in about 10-15 minutes by the original fast charger.  What could happen?<\/p>",
+         "rating":0,
+         "date":1588220275,
+         "modified_date":1588220329,
+         "status":"public",
+         "replies":[
+            {
+               "commentid":771054,
+               "locale":"en",
+               "context":"guide",
+               "contextid":125727,
+               "parentid":639020,
+               "author":{
+                  "userid":4045044,
+                  "username":"Leolando Tan",
+                  "unique_username":null,
+                  "join_date":1635466898,
+                  "image":{
+                     "id":2508280,
+                     "guid":"LWTBPSSpNrWU43aY",
+                     "mini":"https:\/\/guide-images.cdn.ifixit.com\/igi\/LWTBPSSpNrWU43aY.mini",
+                     "thumbnail":"https:\/\/guide-images.cdn.ifixit.com\/igi\/LWTBPSSpNrWU43aY.thumbnail",
+                     "medium":"https:\/\/guide-images.cdn.ifixit.com\/igi\/LWTBPSSpNrWU43aY.medium",
+                     "original":"https:\/\/guide-images.cdn.ifixit.com\/igi\/LWTBPSSpNrWU43aY.full"
+                  },
+                  "reputation":1,
+                  "url":"https:\/\/www.ifixit.com\/User\/4045044\/Leolando+Tan",
+                  "teams":[
+                     
+                  ]
+               },
+               "title":"Xiaomi Mi 9 Battery Replacement",
+               "text_raw":"Im also experiencing this issue. How can I fix this?",
+               "text_rendered":"<p>Im also experiencing this issue. How can I fix this?<\/p>",
+               "rating":0,
+               "date":1635466899,
+               "modified_date":0,
+               "status":"public"
+            }
+         ]
+      },
+      {
+         "commentid":660375,
+         "locale":"de",
+         "context":"guide",
+         "contextid":125727,
+         "parentid":null,
+         "author":{
+            "userid":3569628,
+            "username":"Iris Ock",
+            "unique_username":null,
+            "join_date":1593806878,
+            "image":{
+               "id":2149357,
+               "guid":"SkbvHYZZDexLHQ6A",
+               "mini":"https:\/\/guide-images.cdn.ifixit.com\/igi\/SkbvHYZZDexLHQ6A.mini",
+               "thumbnail":"https:\/\/guide-images.cdn.ifixit.com\/igi\/SkbvHYZZDexLHQ6A.thumbnail",
+               "140x105":"https:\/\/guide-images.cdn.ifixit.com\/igi\/SkbvHYZZDexLHQ6A.140x105",
+               "200x150":"https:\/\/guide-images.cdn.ifixit.com\/igi\/SkbvHYZZDexLHQ6A.200x150",
+               "standard":"https:\/\/guide-images.cdn.ifixit.com\/igi\/SkbvHYZZDexLHQ6A.standard",
+               "440x330":"https:\/\/guide-images.cdn.ifixit.com\/igi\/SkbvHYZZDexLHQ6A.440x330",
+               "medium":"https:\/\/guide-images.cdn.ifixit.com\/igi\/SkbvHYZZDexLHQ6A.medium",
+               "original":"https:\/\/guide-images.cdn.ifixit.com\/igi\/SkbvHYZZDexLHQ6A.full"
+            },
+            "reputation":1,
+            "url":"https:\/\/www.ifixit.com\/User\/3569628\/Iris+Ock",
+            "teams":[
+               
+            ]
+         },
+         "title":"Xiaomi Mi 9 Battery Replacement",
+         "text_raw":"Vielen Dank f\u00fcr die ausf\u00fchrliche Anleitung. Das hat mir 60\u20ac Montagekosten bei Saturn erspart :) Gru\u00df Iris",
+         "text_rendered":"<p>Vielen Dank f\u00fcr die ausf\u00fchrliche Anleitung. Das hat mir 60\u20ac Montagekosten bei Saturn erspart :) Gru\u00df Iris<\/p>",
+         "rating":0,
+         "date":1593807047,
+         "modified_date":1593807047,
+         "status":"public",
+         "replies":[
+            
+         ]
+      },
+      {
+         "commentid":730339,
+         "locale":"en",
+         "context":"guide",
+         "contextid":125727,
+         "parentid":null,
+         "author":{
+            "userid":3892290,
+            "username":"Giulio",
+            "unique_username":"giulio93",
+            "join_date":1616428507,
+            "image":{
+               "id":-32,
+               "guid":"default_avatar_placeholder_guid",
+               "original":"https:\/\/assets.cdn.ifixit.com\/static\/images\/avatars\/User\/ifixit\/avatar-5",
+               "mini":"https:\/\/assets.cdn.ifixit.com\/static\/images\/avatars\/User\/ifixit\/avatar-5.mini",
+               "thumbnail":"https:\/\/assets.cdn.ifixit.com\/static\/images\/avatars\/User\/ifixit\/avatar-5.thumbnail",
+               "140x105":"https:\/\/assets.cdn.ifixit.com\/static\/images\/avatars\/User\/ifixit\/avatar-5.140x105",
+               "200x150":"https:\/\/assets.cdn.ifixit.com\/static\/images\/avatars\/User\/ifixit\/avatar-5.200x150",
+               "standard":"https:\/\/assets.cdn.ifixit.com\/static\/images\/avatars\/User\/ifixit\/avatar-5.standard",
+               "440x330":"https:\/\/assets.cdn.ifixit.com\/static\/images\/avatars\/User\/ifixit\/avatar-5.440x330",
+               "medium":"https:\/\/assets.cdn.ifixit.com\/static\/images\/avatars\/User\/ifixit\/avatar-5.medium",
+               "large":"https:\/\/assets.cdn.ifixit.com\/static\/images\/avatars\/User\/ifixit\/avatar-5.large"
+            },
+            "reputation":1,
+            "url":"https:\/\/www.ifixit.com\/User\/3892290\/Giulio",
+            "teams":[
+               
+            ]
+         },
+         "title":"Xiaomi Mi 9 Battery Replacement",
+         "text_raw":"I change my battery but it seams that the quick charge has gone from 65% to 100%. Why?",
+         "text_rendered":"<p>I change my battery but it seams that the quick charge has gone from 65% to 100%. Why?<\/p>",
+         "rating":0,
+         "date":1616779107,
+         "modified_date":1616779107,
+         "status":"public",
+         "replies":[
+            
+         ]
+      }
+   ],
+   "category":"Xiaomi Mi 9",
+   "url":"https:\/\/www.ifixit.com\/Guide\/Xiaomi+Mi+9+Battery+Replacement\/125727",
+   "patrol_threshold":100000000,
+   "can_edit":true,
+   "favorited":false,
+   "author":{
+      "userid":1800598,
+      "username":"Dominik Schnabelrauch",
+      "unique_username":"schnabel",
+      "join_date":1479910175,
+      "image":{
+         "id":1242125,
+         "guid":"2No6TI2o1ISyEGNP",
+         "mini":"https:\/\/guide-images.cdn.ifixit.com\/igi\/2No6TI2o1ISyEGNP.mini",
+         "thumbnail":"https:\/\/guide-images.cdn.ifixit.com\/igi\/2No6TI2o1ISyEGNP.thumbnail",
+         "140x105":"https:\/\/guide-images.cdn.ifixit.com\/igi\/2No6TI2o1ISyEGNP.140x105",
+         "200x150":"https:\/\/guide-images.cdn.ifixit.com\/igi\/2No6TI2o1ISyEGNP.200x150",
+         "standard":"https:\/\/guide-images.cdn.ifixit.com\/igi\/2No6TI2o1ISyEGNP.standard",
+         "440x330":"https:\/\/guide-images.cdn.ifixit.com\/igi\/2No6TI2o1ISyEGNP.440x330",
+         "medium":"https:\/\/guide-images.cdn.ifixit.com\/igi\/2No6TI2o1ISyEGNP.medium",
+         "original":"https:\/\/guide-images.cdn.ifixit.com\/igi\/2No6TI2o1ISyEGNP.full"
+      },
+      "reputation":102747,
+      "url":"https:\/\/www.ifixit.com\/User\/1800598\/Dominik+Schnabelrauch",
+      "teams":[
+         1,
+         4401,
+         27740
+      ]
+   },
+   "langid":"en",
+   "featured_documentid":null,
+   "intro_video_url":null,
+   "intro_video":null,
+   "completed":false
+}

@@ -6,10 +6,10 @@ using QuickType;
 using System.IO;
 using TMPro;
 
-public class test : MonoBehaviour
+public class PanelController : MonoBehaviour
 {
-    string path = "jsonformatter";
-    int stepNo = 0;
+    string path = "iphone8battery";
+    int stepNo;
 
 
     [SerializeField] GameObject title;
@@ -22,7 +22,7 @@ public class test : MonoBehaviour
 
     Test txt;
 
-    void Write()
+    void LoadJson()
     {
         var jsonString = Resources.Load(path) as TextAsset;
         txt = Test.FromJson(jsonString.text);
@@ -32,7 +32,8 @@ public class test : MonoBehaviour
 
     void Start()
     {
-        Write();
+        stepNo = 0;
+        LoadJson();
         title.GetComponent<TextMeshProUGUI>().text = txt.Title.ToString();
         updateContent();
     }
@@ -62,7 +63,7 @@ public class test : MonoBehaviour
 
         stepNumber.GetComponent<TextMeshProUGUI>().text = "Step Number: " + (stepNo+1).ToString();
 
-        var blankImage = "https://assets.cdn.ifixit.com/static/images/avatars/User/ifixit/avatar-2.200x150";
+        var blankImage = "https://pictureserver.net/images/pic/f0/eb/undef_src_sa_picid_717652_x_1000_type_whitesh_image.jpg?ver=14";
         var imgLinksArr = txt.Steps[stepNo].Media.Data;
         var len = imgLinksArr.Length;
         Debug.Log("Images: " + len);
@@ -94,9 +95,28 @@ public class test : MonoBehaviour
         }
     }
 
+    public void Button1()
+    {
+        path = "iphone8battery";
+        Start();
+    }
+
+    public void Button2()
+    {
+        path = "samsungnote3battery";
+        Start();
+    }
+
+    public void Button3()
+    {
+        path = "xiaomimi9battery";
+        Start();
+    }
+
+
+
     // Update is called once per frame
     void Update()
     {
-
     }
 }
